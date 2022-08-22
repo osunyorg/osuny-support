@@ -1,6 +1,6 @@
 ---
-- title: Tableau de bord
-  target: "/fr/tableau-de-bord/"
+- title: Le back Office
+  target: "/fr/le-back-office/"
   kind: page
   children: []
 - title: Universités
