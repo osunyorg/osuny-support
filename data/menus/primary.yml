@@ -1,2 +1,6 @@
---- []
+---
+- title: Tableau de bord
+  target: "/fr/tableau-de-bord/"
+  kind: page
+  children: []
 
