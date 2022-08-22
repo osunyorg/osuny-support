@@ -3,4 +3,8 @@
   target: "/fr/tableau-de-bord/"
   kind: page
   children: []
+- title: Université
+  target: "/fr/universites/"
+  kind: page
+  children: []
 
