@@ -3,7 +3,7 @@
   target: "/fr/tableau-de-bord/"
   kind: page
   children: []
-- title: Université
+- title: Universités
   target: "/fr/universites/"
   kind: page
   children: []
