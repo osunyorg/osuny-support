@@ -3,12 +3,12 @@
   target: "/fr/le-back-office/"
   kind: page
   children: []
-- title: Universités
-  target: "/fr/universites/"
-  kind: page
-  children: []
 - title: Les blocs de contenus
   target: "/fr/les-blocs-de-contenus/"
+  kind: page
+  children: []
+- title: Universités
+  target: "/fr/universites/"
   kind: page
   children: []
 
