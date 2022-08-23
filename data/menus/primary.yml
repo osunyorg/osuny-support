@@ -7,12 +7,12 @@
   target: "/fr/les-donnees/"
   kind: page
   children: []
-- title: Les blocs de contenus
-  target: "/fr/les-blocs-de-contenus/"
-  kind: page
-  children: []
 - title: Administrer un site web
   target: "/fr/administrer-son-site-web/"
+  kind: page
+  children: []
+- title: Les blocs de contenus
+  target: "/fr/les-blocs-de-contenus/"
   kind: page
   children: []
 
