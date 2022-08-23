@@ -7,4 +7,8 @@
   target: "/fr/universites/"
   kind: page
   children: []
+- title: Les blocs de contenus
+  target: "/fr/les-blocs-de-contenus/"
+  kind: page
+  children: []
 
