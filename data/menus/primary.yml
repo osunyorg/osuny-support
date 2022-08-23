@@ -34,5 +34,9 @@
 - title: Les contenus
   target: "/fr/les-blocs-de-contenus/"
   kind: page
-  children: []
+  children:
+  - title: Les blocs de base
+    target: "/fr/les-blocs-de-contenus/les-blocs-de-base/"
+    kind: page
+    children: []
 
