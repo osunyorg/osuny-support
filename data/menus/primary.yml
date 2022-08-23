@@ -39,6 +39,10 @@
     target: "/fr/administrer-son-site-web/actualites/"
     kind: page
     children: []
+  - title: Arborescence
+    target: "/fr/administrer-son-site-web/arborescence/"
+    kind: page
+    children: []
 - title: Les contenus
   target: "/fr/les-blocs-de-contenus/"
   kind: page
