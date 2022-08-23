@@ -47,4 +47,8 @@
     target: "/fr/les-blocs-de-contenus/les-blocs-de-listes/"
     kind: page
     children: []
+  - title: Les blocs techniques
+    target: "/fr/les-blocs-de-contenus/les-blocs-techniques/"
+    kind: page
+    children: []
 
