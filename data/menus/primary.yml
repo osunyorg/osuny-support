@@ -19,6 +19,10 @@
     target: "/fr/les-donnees/recherche/"
     kind: page
     children: []
+  - title: Communication
+    target: "/fr/les-donnees/communication/"
+    kind: page
+    children: []
 - title: Administrer un site web
   target: "/fr/administrer-son-site-web/"
   kind: page
