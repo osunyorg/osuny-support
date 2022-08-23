@@ -39,4 +39,8 @@
     target: "/fr/les-blocs-de-contenus/les-blocs-de-base/"
     kind: page
     children: []
+  - title: Les blocs narratifs
+    target: "/fr/les-blocs-de-contenus/les-blocs-narratifs/"
+    kind: page
+    children: []
 
