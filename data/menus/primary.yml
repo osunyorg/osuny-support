@@ -11,4 +11,8 @@
   target: "/fr/les-blocs-de-contenus/"
   kind: page
   children: []
+- title: Administrer un site web
+  target: "/fr/administrer-son-site-web/"
+  kind: page
+  children: []
 
