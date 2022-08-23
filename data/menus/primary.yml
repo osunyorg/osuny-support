@@ -15,6 +15,10 @@
     target: "/fr/les-donnees/enseignements/"
     kind: page
     children: []
+  - title: Recherche
+    target: "/fr/les-donnees/recherche/"
+    kind: page
+    children: []
 - title: Administrer un site web
   target: "/fr/administrer-son-site-web/"
   kind: page
