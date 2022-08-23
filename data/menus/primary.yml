@@ -11,6 +11,10 @@
     target: "/fr/les-donnees/universites/"
     kind: page
     children: []
+  - title: Enseignements
+    target: "/fr/les-donnees/enseignements/"
+    kind: page
+    children: []
 - title: Administrer un site web
   target: "/fr/administrer-son-site-web/"
   kind: page
