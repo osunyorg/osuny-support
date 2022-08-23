@@ -27,7 +27,7 @@
     target: "/fr/les-donnees/administration/"
     kind: page
     children: []
-- title: Administrer un site web
+- title: Administrer son site
   target: "/fr/administrer-son-site-web/"
   kind: page
   children: []
