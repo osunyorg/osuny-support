@@ -6,7 +6,11 @@
 - title: Les données
   target: "/fr/les-donnees/"
   kind: page
-  children: []
+  children:
+  - title: Universités
+    target: "/fr/les-donnees/universites/"
+    kind: page
+    children: []
 - title: Administrer un site web
   target: "/fr/administrer-son-site-web/"
   kind: page
