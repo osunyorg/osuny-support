@@ -4,27 +4,27 @@
   kind: page
   children: []
 - title: Les données
-  target: "/fr/les-donnees/"
+  target: "/fr/les-ressources/"
   kind: page
   children:
   - title: Universités
-    target: "/fr/les-donnees/universites/"
+    target: "/fr/les-ressources/universites/"
     kind: page
     children: []
   - title: Enseignements
-    target: "/fr/les-donnees/enseignements/"
+    target: "/fr/les-ressources/enseignements/"
     kind: page
     children: []
   - title: Recherche
-    target: "/fr/les-donnees/recherche/"
+    target: "/fr/les-ressources/recherche/"
     kind: page
     children: []
   - title: Communication
-    target: "/fr/les-donnees/communication/"
+    target: "/fr/les-ressources/communication/"
     kind: page
     children: []
   - title: Administration
-    target: "/fr/les-donnees/administration/"
+    target: "/fr/les-ressources/administration/"
     kind: page
     children: []
 - title: Les contenus
