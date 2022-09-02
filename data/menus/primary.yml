@@ -3,7 +3,7 @@
   target: "/fr/l-outil/"
   kind: page
   children: []
-- title: Les données
+- title: Les ressources
   target: "/fr/les-ressources/"
   kind: page
   children:
