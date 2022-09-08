@@ -67,4 +67,8 @@
     target: "/fr/les-blocs-de-contenus/les-blocs-techniques/"
     kind: page
     children: []
+- title: La communauté
+  target: "/fr/la-communaute/"
+  kind: page
+  children: []
 
