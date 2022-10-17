@@ -51,6 +51,10 @@
   target: "/fr/les-blocs-de-contenus/"
   kind: page
   children:
+  - title: Les blocs
+    target: "/fr/les-blocs-de-contenus/les-blocs/"
+    kind: page
+    children: []
   - title: Les blocs de base
     target: "/fr/les-blocs-de-contenus/les-blocs-de-base/"
     kind: page
@@ -65,10 +69,6 @@
     children: []
   - title: Les blocs techniques
     target: "/fr/les-blocs-de-contenus/les-blocs-techniques/"
-    kind: page
-    children: []
-  - title: Les blocs
-    target: "/fr/les-blocs-de-contenus/les-blocs/"
     kind: page
     children: []
 - title: La communauté
