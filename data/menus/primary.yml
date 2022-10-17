@@ -67,6 +67,10 @@
     target: "/fr/les-blocs-de-contenus/les-blocs-techniques/"
     kind: page
     children: []
+  - title: Les blocs
+    target: "/fr/les-blocs-de-contenus/les-blocs/"
+    kind: page
+    children: []
 - title: Les blocs
   target: "/fr/les-blocs-de-contenus/les-blocs/"
   kind: page
