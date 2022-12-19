@@ -1,78 +1,78 @@
 ---
 - title: L'outil
-  target: "/fr/l-outil/"
+  target: "/l-outil/"
   kind: page
   children: []
 - title: Les ressources
-  target: "/fr/les-ressources/"
+  target: "/les-ressources/"
   kind: page
   children:
   - title: Universités
-    target: "/fr/les-ressources/universites/"
+    target: "/les-ressources/universites/"
     kind: page
     children: []
   - title: Enseignements
-    target: "/fr/les-ressources/enseignements/"
+    target: "/les-ressources/enseignements/"
     kind: page
     children: []
   - title: Recherche
-    target: "/fr/les-ressources/recherche/"
+    target: "/les-ressources/recherche/"
     kind: page
     children: []
   - title: Communication
-    target: "/fr/les-ressources/communication/"
+    target: "/les-ressources/communication/"
     kind: page
     children: []
   - title: Administration
-    target: "/fr/les-ressources/administration/"
+    target: "/les-ressources/administration/"
     kind: page
     children: []
 - title: Administrer son site
-  target: "/fr/administrer-son-site-web/"
+  target: "/administrer-son-site-web/"
   kind: page
   children:
   - title: Site Web
-    target: "/fr/administrer-son-site-web/site-web/"
+    target: "/administrer-son-site-web/site-web/"
     kind: page
     children: []
   - title: Actualités
-    target: "/fr/administrer-son-site-web/actualites/"
+    target: "/administrer-son-site-web/actualites/"
     kind: page
     children: []
   - title: Arborescence
-    target: "/fr/administrer-son-site-web/arborescence/"
+    target: "/administrer-son-site-web/arborescence/"
     kind: page
     children: []
   - title: Menus
-    target: "/fr/administrer-son-site-web/menus/"
+    target: "/administrer-son-site-web/menus/"
     kind: page
     children: []
 - title: Les contenus
-  target: "/fr/les-blocs-de-contenus/"
+  target: "/les-blocs-de-contenus/"
   kind: page
   children:
   - title: Les blocs
-    target: "/fr/les-blocs-de-contenus/les-blocs/"
+    target: "/les-blocs-de-contenus/les-blocs/"
     kind: page
     children: []
   - title: Les blocs de base
-    target: "/fr/les-blocs-de-contenus/les-blocs-de-base/"
+    target: "/les-blocs-de-contenus/les-blocs-de-base/"
     kind: page
     children: []
   - title: Les blocs narratifs
-    target: "/fr/les-blocs-de-contenus/les-blocs-narratifs/"
+    target: "/les-blocs-de-contenus/les-blocs-narratifs/"
     kind: page
     children: []
   - title: Les blocs de listes
-    target: "/fr/les-blocs-de-contenus/les-blocs-de-listes/"
+    target: "/les-blocs-de-contenus/les-blocs-de-listes/"
     kind: page
     children: []
   - title: Les blocs techniques
-    target: "/fr/les-blocs-de-contenus/les-blocs-techniques/"
+    target: "/les-blocs-de-contenus/les-blocs-techniques/"
     kind: page
     children: []
 - title: La communauté
-  target: "/fr/la-communaute/"
+  target: "/la-communaute/"
   kind: page
   children: []
 
