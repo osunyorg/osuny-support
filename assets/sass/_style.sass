@@ -1,0 +1,102 @@
+body
+    background-color: black
+    background-image: url('/assets/images/sun-top.svg'), linear-gradient(180deg, black 0%, $color-background 700px)
+    background-position-x: center
+    background-position-y: top
+    background-repeat: no-repeat
+    @include media-breakpoint-down(desktop)
+        background-size: 300%, auto
+
+header#document-header
+    @include media-breakpoint-up(desktop)
+        .container
+            flex-direction: column
+            .logo
+                margin: 10px 0 30px
+    @include media-breakpoint-down(desktop)
+        nav
+            .logo
+                margin: auto
+                transform: translateX(18px)
+            button[type="button"]
+                align-self: flex-end
+                span:first-of-type
+                    display: none
+    .dropdown-menu
+        .nav-level-2
+            a
+                font-weight: bold
+        li
+            p
+                @extend .small
+                @include media-breakpoint-down(desktop)
+                    margin-bottom: 10px
+                @include media-breakpoint-up(desktop)
+                    margin-top: 10px
+
+.lead
+    color: $color-accent
+
+.hero
+    padding-bottom: 0
+    margin-bottom: $spacing1
+    .container
+        margin-top: $spacing3
+    .content
+        padding-top: 0
+
+.hero:not(.hero--with-image)
+    .content > h1
+        text-align: center
+        margin-bottom: $spacing2
+        @include media-breakpoint-up(desktop)
+            margin-left: offset(2)
+            width: col(8)
+.hero
+    @include media-breakpoint-down(desktop)
+        .content > h1
+            text-align: center
+
+
+.block-pages--cards .card
+    min-height: 200px
+
+.page__home
+    .block-partners
+        .organization
+            h1
+                display: none
+            .media
+                padding: 0
+                padding-right: $spacing2
+                background: transparent
+                aspect-ratio: 2
+
+footer#document-footer
+    .container
+        align-items: flex-end
+    @include media-breakpoint-up(desktop)
+        background: $color-background-alt
+        .footer-site
+            a
+                display: none // Pas de lien haut de page en desktop 
+    @include media-breakpoint-down(desktop)
+        align-items: center
+        display: flex
+        flex-flow: column-reverse
+        background-image: url('/assets/images/sun.svg'), linear-gradient($color-background, black)
+        background-position-x: center
+        background-position-y: 268px
+        background-repeat: no-repeat
+        background-size: 1000px auto
+        .container:first-of-type
+            text-align: center
+            padding: $spacing5 0 0
+        .footer-site
+            p
+                font-family: $serif-font-family
+                font-style: italic
+                font-size: px2rem(20)
+                line-height: px2rem(34)
+                max-width: 300px
+                margin: $spacing4 auto
