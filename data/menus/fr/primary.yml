@@ -41,10 +41,6 @@ items:
     target: "/administrer-son-site-web/actualites-1/"
     kind: page
     children: []
-  - title: Arborescence
-    target: "/administrer-son-site-web/arborescence/"
-    kind: page
-    children: []
   - title: Menus
     target: "/administrer-son-site-web/menus/"
     kind: page
