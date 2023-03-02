@@ -38,7 +38,7 @@ items:
     kind: page
     children: []
   - title: Actualités
-    target: "/administrer-son-site-web/actualites/"
+    target: "/administrer-son-site-web/actualites-1/"
     kind: page
     children: []
   - title: Arborescence
