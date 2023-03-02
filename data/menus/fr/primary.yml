@@ -5,7 +5,7 @@ items:
   target: "/l-outil/"
   kind: page
   children: []
-- title: Les ressources
+- title: Les données
   target: "/les-donnees/"
   kind: page
   children:
