@@ -6,27 +6,27 @@ items:
   kind: page
   children: []
 - title: Les ressources
-  target: "/les-ressources/"
+  target: "/les-donnees/"
   kind: page
   children:
   - title: Universités
-    target: "/les-ressources/universites/"
+    target: "/les-donnees/universites/"
     kind: page
     children: []
   - title: Enseignements
-    target: "/les-ressources/enseignements/"
+    target: "/les-donnees/enseignements/"
     kind: page
     children: []
   - title: Recherche
-    target: "/les-ressources/recherche/"
+    target: "/les-donnees/recherche/"
     kind: page
     children: []
   - title: Communication
-    target: "/les-ressources/communication/"
+    target: "/les-donnees/communication/"
     kind: page
     children: []
   - title: Administration
-    target: "/les-ressources/administration/"
+    target: "/les-donnees/administration/"
     kind: page
     children: []
 - title: Administrer son site
