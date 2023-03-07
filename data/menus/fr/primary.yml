@@ -65,6 +65,10 @@ items:
       target: "/les-blocs-de-contenus/les-blocs-de-base/creer-un-chapitre/"
       kind: page
       children: []
+    - title: Ajouter une image
+      target: "/les-blocs-de-contenus/les-blocs-de-base/ajouter-une-image/"
+      kind: page
+      children: []
   - title: Les blocs narratifs
     target: "/les-blocs-de-contenus/les-blocs-narratifs/"
     kind: page
