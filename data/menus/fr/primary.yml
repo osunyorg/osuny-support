@@ -60,7 +60,11 @@ items:
   - title: Les blocs de base
     target: "/les-blocs-de-contenus/les-blocs-de-base/"
     kind: page
-    children: []
+    children:
+    - title: Créer un chapitre
+      target: "/les-blocs-de-contenus/les-blocs-de-base/creer-un-chapitre/"
+      kind: page
+      children: []
   - title: Les blocs narratifs
     target: "/les-blocs-de-contenus/les-blocs-narratifs/"
     kind: page
