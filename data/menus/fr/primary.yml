@@ -65,6 +65,10 @@ items:
       target: "/les-blocs-de-contenus/les-blocs/actions-sur-un-bloc/"
       kind: page
       children: []
+    - title: Accesibilité
+      target: "/les-blocs-de-contenus/les-blocs/accessibilite-1/"
+      kind: page
+      children: []
   - title: Les blocs de base
     target: "/les-blocs-de-contenus/les-blocs-de-base/"
     kind: page
