@@ -61,6 +61,10 @@ items:
       target: "/les-blocs-de-contenus/les-blocs/emploi-dun-bloc/"
       kind: page
       children: []
+    - title: Actions sur un bloc
+      target: "/les-blocs-de-contenus/les-blocs/actions-sur-un-bloc/"
+      kind: page
+      children: []
   - title: Les blocs de base
     target: "/les-blocs-de-contenus/les-blocs-de-base/"
     kind: page
