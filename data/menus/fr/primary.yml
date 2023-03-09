@@ -101,7 +101,7 @@ items:
       target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
       kind: page
       children: []
-    - title: Ajouter un Appel à actions
+    - title: Ajouter un appel à actions
       target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
       kind: page
       children: []
