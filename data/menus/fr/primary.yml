@@ -101,4 +101,8 @@ items:
     target: "/les-blocs-de-contenus/les-blocs-techniques/"
     kind: page
     children: []
+  - title: Transcription
+    target: "/les-blocs-de-contenus/transcription/"
+    kind: page
+    children: []
 
