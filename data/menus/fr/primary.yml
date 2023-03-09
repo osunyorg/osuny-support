@@ -97,6 +97,10 @@ items:
       target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
       kind: page
       children: []
+    - title: Ajouter une galerie d'images
+      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
+      kind: page
+      children: []
   - title: Les blocs de listes
     target: "/les-blocs-de-contenus/les-blocs-de-listes/"
     kind: page
