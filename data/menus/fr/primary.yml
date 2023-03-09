@@ -92,7 +92,11 @@ items:
   - title: Les blocs narratifs
     target: "/les-blocs-de-contenus/les-blocs-narratifs/"
     kind: page
-    children: []
+    children:
+    - title: Ajouter des Chiffres Clés
+      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
+      kind: page
+      children: []
   - title: Les blocs de listes
     target: "/les-blocs-de-contenus/les-blocs-de-listes/"
     kind: page
