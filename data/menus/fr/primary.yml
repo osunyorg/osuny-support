@@ -109,4 +109,8 @@ items:
       target: "/les-blocs-de-contenus/transcription/accessibilite-2/"
       kind: page
       children: []
+    - title: Sous- titres
+      target: "/les-blocs-de-contenus/transcription/sous-titres/"
+      kind: page
+      children: []
 
