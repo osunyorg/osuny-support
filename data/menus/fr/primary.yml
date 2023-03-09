@@ -109,6 +109,10 @@ items:
       target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
       kind: page
       children: []
+    - title: Ajouter une frise chronologique
+      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
+      kind: page
+      children: []
   - title: Les blocs de listes
     target: "/les-blocs-de-contenus/les-blocs-de-listes/"
     kind: page
