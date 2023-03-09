@@ -73,7 +73,7 @@ items:
     target: "/les-blocs-de-contenus/les-blocs-de-base/"
     kind: page
     children:
-    - title: Créer un chapitre
+    - title: Ajouter du texte
       target: "/les-blocs-de-contenus/les-blocs-de-base/creer-un-chapitre/"
       kind: page
       children: []
