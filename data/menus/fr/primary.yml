@@ -105,6 +105,10 @@ items:
       target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
       kind: page
       children: []
+    - title: Ajouter un témoignage
+      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
+      kind: page
+      children: []
   - title: Les blocs de listes
     target: "/les-blocs-de-contenus/les-blocs-de-listes/"
     kind: page
