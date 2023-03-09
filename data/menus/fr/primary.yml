@@ -102,7 +102,7 @@ items:
       kind: page
       children: []
     - title: Les blocs narratifs
-      target: "/ajouter-un-appel-a-actions/"
+      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
       kind: page
       children: []
   - title: Les blocs de listes
