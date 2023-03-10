@@ -56,7 +56,11 @@ items:
   - title: Recherche
     target: "/les-donnees/recherche/"
     kind: page
-    children: []
+    children:
+    - title: Gérer les chercheu.rs.ses
+      target: "/les-donnees/recherche/chercheursses/"
+      kind: page
+      children: []
   - title: Communication
     target: "/les-donnees/communication/"
     kind: page
