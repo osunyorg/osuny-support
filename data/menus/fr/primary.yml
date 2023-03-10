@@ -49,6 +49,10 @@ items:
       target: "/les-donnees/enseignements/diplomes/"
       kind: page
       children: []
+    - title: Gerer les formations
+      target: "/les-donnees/enseignements/formations/"
+      kind: page
+      children: []
   - title: Recherche
     target: "/les-donnees/recherche/"
     kind: page
