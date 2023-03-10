@@ -9,7 +9,7 @@ items:
   target: "/tableau-de-bord/"
   kind: page
   children: []
-- title: Les données
+- title: Gérer ses données
   target: "/les-donnees/"
   kind: page
   children:
