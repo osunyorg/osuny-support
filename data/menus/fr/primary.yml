@@ -73,6 +73,10 @@ items:
       target: "/administrer-son-site-web/arborescence/structure-dune-page/"
       kind: page
       children: []
+    - title: Publier une page
+      target: "/administrer-son-site-web/arborescence/publier-une-page/"
+      kind: page
+      children: []
   - title: Menus
     target: "/administrer-son-site-web/menus/"
     kind: page
