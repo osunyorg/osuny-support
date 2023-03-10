@@ -41,7 +41,7 @@ items:
       target: "/les-donnees/enseignements/enseignantses/"
       kind: page
       children: []
-    - title: Gérez les écoles
+    - title: Gérer les écoles
       target: "/les-donnees/enseignements/ecoles/"
       kind: page
       children: []
