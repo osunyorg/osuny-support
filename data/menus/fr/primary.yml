@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Le tableau de bord
-  target: "/tableau-de-bord/"
+  target: "/l-outil/tableau-de-bord/"
   kind: page
   children: []
 - title: Gérer ses données
