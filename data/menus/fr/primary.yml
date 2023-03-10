@@ -69,7 +69,7 @@ items:
       target: "/les-blocs-de-contenus/les-blocs/actions-sur-un-bloc/"
       kind: page
       children: []
-    - title: Accesibilité
+    - title: Accessibilité du contenu
       target: "/les-blocs-de-contenus/les-blocs/accessibilite-1/"
       kind: page
       children: []
