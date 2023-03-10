@@ -25,6 +25,10 @@ items:
       target: "/les-donnees/universites/personnes/"
       kind: page
       children: []
+    - title: Gérer les organisations
+      target: "/les-donnees/universites/organisations/"
+      kind: page
+      children: []
   - title: Enseignements
     target: "/les-donnees/enseignements/"
     kind: page
