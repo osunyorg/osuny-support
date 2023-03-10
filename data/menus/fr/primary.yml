@@ -36,7 +36,11 @@ items:
   - title: Enseignements
     target: "/les-donnees/enseignements/"
     kind: page
-    children: []
+    children:
+    - title: Gérer les enseignants.es
+      target: "/les-donnees/enseignements/enseignantses/"
+      kind: page
+      children: []
   - title: Recherche
     target: "/les-donnees/recherche/"
     kind: page
