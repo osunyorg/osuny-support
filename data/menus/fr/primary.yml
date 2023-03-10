@@ -5,10 +5,6 @@ items:
   target: "/l-outil/"
   kind: page
   children: []
-- title: Le tableau de bord
-  target: "/l-outil/tableau-de-bord/"
-  kind: page
-  children: []
 - title: Gérer ses données
   target: "/les-donnees/"
   kind: page
