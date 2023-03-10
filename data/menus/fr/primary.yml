@@ -20,7 +20,11 @@ items:
   - title: Universités
     target: "/les-donnees/universites/"
     kind: page
-    children: []
+    children:
+    - title: Gérer les personnes
+      target: "/les-donnees/universites/personnes/"
+      kind: page
+      children: []
   - title: Enseignements
     target: "/les-donnees/enseignements/"
     kind: page
