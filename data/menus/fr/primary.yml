@@ -60,7 +60,11 @@ items:
   - title: Arborescence
     target: "/administrer-son-site-web/arborescence/"
     kind: page
-    children: []
+    children:
+    - title: Créer une page
+      target: "/administrer-son-site-web/arborescence/creer-une-page/"
+      kind: page
+      children: []
   - title: Menus
     target: "/administrer-son-site-web/menus/"
     kind: page
