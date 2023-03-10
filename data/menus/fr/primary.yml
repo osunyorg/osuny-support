@@ -65,7 +65,7 @@ items:
       target: "/les-blocs-de-contenus/les-blocs/emploi-dun-bloc/"
       kind: page
       children: []
-    - title: Actions sur un bloc
+    - title: Les différents blocs
       target: "/les-blocs-de-contenus/les-blocs/actions-sur-un-bloc/"
       kind: page
       children: []
