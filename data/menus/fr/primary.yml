@@ -88,7 +88,11 @@ items:
   - title: Menus
     target: "/administrer-son-site-web/menus/"
     kind: page
-    children: []
+    children:
+    - title: Fonctionnement
+      target: "/administrer-son-site-web/menus/fonctionnement/"
+      kind: page
+      children: []
 - title: Créer des contenus
   target: "/les-blocs-de-contenus/"
   kind: page
