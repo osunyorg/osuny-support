@@ -72,7 +72,11 @@ items:
   - title: Administration
     target: "/les-donnees/administration/"
     kind: page
-    children: []
+    children:
+    - title: Gérer la qualité
+      target: "/les-donnees/administration/qualite/"
+      kind: page
+      children: []
 - title: Administrer son site
   target: "/administrer-son-site-web/"
   kind: page
