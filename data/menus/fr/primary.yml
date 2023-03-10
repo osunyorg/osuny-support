@@ -93,6 +93,10 @@ items:
       target: "/administrer-son-site-web/menus/fonctionnement/"
       kind: page
       children: []
+    - title: Créer un menu
+      target: "/administrer-son-site-web/menus/creer-un-menu/"
+      kind: page
+      children: []
 - title: Créer des contenus
   target: "/les-blocs-de-contenus/"
   kind: page
