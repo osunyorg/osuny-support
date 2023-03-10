@@ -29,7 +29,7 @@ items:
       target: "/les-donnees/universites/organisations/"
       kind: page
       children: []
-    - title: Gérez les alumni
+    - title: Gérer les alumni
       target: "/les-donnees/universites/alumni/"
       kind: page
       children: []
