@@ -60,7 +60,11 @@ items:
   - title: Communication
     target: "/les-donnees/communication/"
     kind: page
-    children: []
+    children:
+    - title: " Gérer les sites Web"
+      target: "/les-donnees/communication/sites-web/"
+      kind: page
+      children: []
   - title: Administration
     target: "/les-donnees/administration/"
     kind: page
