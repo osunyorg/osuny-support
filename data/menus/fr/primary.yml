@@ -53,7 +53,7 @@ items:
     target: "/administrer-son-site-web/menus/"
     kind: page
     children: []
-- title: Les contenus
+- title: Créer des contenus
   target: "/les-blocs-de-contenus/"
   kind: page
   children:
