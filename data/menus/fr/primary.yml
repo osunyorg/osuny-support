@@ -45,6 +45,10 @@ items:
       target: "/administrer-son-site-web/site-web/modifier-le-site-web/"
       kind: page
       children: []
+    - title: Importer le site
+      target: "/administrer-son-site-web/site-web/importer-le-site/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/administrer-son-site-web/actualites-1/"
     kind: page
