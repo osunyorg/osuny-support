@@ -57,7 +57,7 @@ items:
   target: "/les-blocs-de-contenus/"
   kind: page
   children:
-  - title: Ajouter des contenus
+  - title: Ajouter du contenu
     target: "/les-blocs-de-contenus/les-blocs/"
     kind: page
     children:
