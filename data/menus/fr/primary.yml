@@ -61,7 +61,7 @@ items:
     target: "/les-blocs-de-contenus/les-blocs/"
     kind: page
     children:
-    - title: Emploi d'un bloc
+    - title: Les blocs de contenus
       target: "/les-blocs-de-contenus/les-blocs/emploi-dun-bloc/"
       kind: page
       children: []
