@@ -5,6 +5,10 @@ items:
   target: "/l-outil/"
   kind: page
   children: []
+- title: Le tableau de bord
+  target: "/tableau-de-bord/"
+  kind: page
+  children: []
 - title: Les données
   target: "/les-donnees/"
   kind: page
