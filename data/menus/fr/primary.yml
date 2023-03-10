@@ -9,6 +9,10 @@ items:
     target: "/l-outil/fonctionnement-osuny/"
     kind: page
     children: []
+  - title: Tableau de bord
+    target: "/l-outil/tableau-de-bord/"
+    kind: page
+    children: []
 - title: Gérer ses données
   target: "/les-donnees/"
   kind: page
