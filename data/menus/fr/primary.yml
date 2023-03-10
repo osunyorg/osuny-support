@@ -65,6 +65,10 @@ items:
       target: "/les-donnees/communication/sites-web/"
       kind: page
       children: []
+    - title: Gérer les extranet
+      target: "/les-donnees/communication/extranet/"
+      kind: page
+      children: []
   - title: Administration
     target: "/les-donnees/administration/"
     kind: page
