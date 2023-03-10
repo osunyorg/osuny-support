@@ -4,7 +4,11 @@ items:
 - title: L'outil
   target: "/l-outil/"
   kind: page
-  children: []
+  children:
+  - title: Fonctionnement Osuny
+    target: "/l-outil/fonctionnement-osuny/"
+    kind: page
+    children: []
 - title: Gérer ses données
   target: "/les-donnees/"
   kind: page
