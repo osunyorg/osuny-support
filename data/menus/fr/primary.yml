@@ -29,6 +29,10 @@ items:
       target: "/les-donnees/universites/organisations/"
       kind: page
       children: []
+    - title: Gérez les alumni
+      target: "/les-donnees/universites/alumni/"
+      kind: page
+      children: []
   - title: Enseignements
     target: "/les-donnees/enseignements/"
     kind: page
