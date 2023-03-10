@@ -44,7 +44,11 @@ items:
   - title: Actualités
     target: "/administrer-son-site-web/actualites-1/"
     kind: page
-    children: []
+    children:
+    - title: Créer une actualité
+      target: "/administrer-son-site-web/actualites-1/creer-une-actualite/"
+      kind: page
+      children: []
   - title: Arborescence
     target: "/administrer-son-site-web/arborescence/"
     kind: page
