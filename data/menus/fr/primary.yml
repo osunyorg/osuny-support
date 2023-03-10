@@ -97,7 +97,7 @@ items:
     target: "/les-blocs-de-contenus/les-blocs-narratifs/"
     kind: page
     children:
-    - title: Ajouter des Chiffres Clés
+    - title: Ajouter un chiffre clé
       target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
       kind: page
       children: []
