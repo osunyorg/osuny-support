@@ -57,7 +57,7 @@ items:
   target: "/les-blocs-de-contenus/"
   kind: page
   children:
-  - title: Les blocs
+  - title: Rajouter des contenus
     target: "/les-blocs-de-contenus/les-blocs/"
     kind: page
     children:
