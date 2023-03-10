@@ -40,7 +40,11 @@ items:
   - title: Site Web
     target: "/administrer-son-site-web/site-web/"
     kind: page
-    children: []
+    children:
+    - title: Modifier le site web
+      target: "/administrer-son-site-web/site-web/modifier-le-site-web/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/administrer-son-site-web/actualites-1/"
     kind: page
