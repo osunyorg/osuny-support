@@ -65,6 +65,10 @@ items:
       target: "/administrer-son-site-web/arborescence/creer-une-page/"
       kind: page
       children: []
+    - title: Modifier une page
+      target: "/administrer-son-site-web/arborescence/modifier-une-page/"
+      kind: page
+      children: []
   - title: Menus
     target: "/administrer-son-site-web/menus/"
     kind: page
