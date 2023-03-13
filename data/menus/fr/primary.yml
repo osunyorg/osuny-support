@@ -245,7 +245,7 @@ items:
       target: "/creer-des-contenus/transcription/bonnes-pratiques/"
       kind: page
       children: []
-    - title: Sous- titres
+    - title: Méthodologie sous-titres
       target: "/creer-des-contenus/transcription/methodologie-sous-titres/"
       kind: page
       children: []
