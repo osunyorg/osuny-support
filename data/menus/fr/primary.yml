@@ -245,6 +245,10 @@ items:
       target: "/creer-des-contenus/les-blocs-techniques/ajouter-des-definitions/"
       kind: page
       children: []
+    - title: Ajouter du code HTML
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-une-integration-html/"
+      kind: page
+      children: []
   - title: Transcription vidéos
     target: "/creer-des-contenus/transcription/"
     kind: page
