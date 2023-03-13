@@ -249,4 +249,8 @@ items:
       target: "/creer-des-contenus/transcription/methodologie-sous-titres/"
       kind: page
       children: []
+    - title: Transcription textuelle
+      target: "/creer-des-contenus/transcription/transcription-textuelle/"
+      kind: page
+      children: []
 
