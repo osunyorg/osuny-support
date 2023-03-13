@@ -249,6 +249,10 @@ items:
       target: "/creer-des-contenus/les-blocs-techniques/ajouter-une-integration-html/"
       kind: page
       children: []
+    - title: Ajouter un contact
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-un-contact/"
+      kind: page
+      children: []
   - title: Transcription vidéos
     target: "/creer-des-contenus/transcription/"
     kind: page
