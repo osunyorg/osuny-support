@@ -241,7 +241,7 @@ items:
     target: "/creer-des-contenus/transcription/"
     kind: page
     children:
-    - title: Accessibilité
+    - title: Bonnes pratiques
       target: "/creer-des-contenus/transcription/bonnes-pratiques/"
       kind: page
       children: []
