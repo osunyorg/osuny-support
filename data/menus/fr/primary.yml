@@ -154,99 +154,99 @@ items:
       kind: page
       children: []
 - title: Créer des contenus
-  target: "/les-blocs-de-contenus/"
+  target: "/creer-des-contenus/"
   kind: page
   children:
   - title: Ajouter du contenu
-    target: "/les-blocs-de-contenus/les-blocs/"
+    target: "/creer-des-contenus/les-blocs/"
     kind: page
     children:
     - title: Les blocs de contenus
-      target: "/les-blocs-de-contenus/les-blocs/emploi-dun-bloc/"
+      target: "/creer-des-contenus/les-blocs/emploi-dun-bloc/"
       kind: page
       children: []
     - title: Les différents blocs
-      target: "/les-blocs-de-contenus/les-blocs/actions-sur-un-bloc/"
+      target: "/creer-des-contenus/les-blocs/actions-sur-un-bloc/"
       kind: page
       children: []
     - title: Accessibilité du contenu
-      target: "/les-blocs-de-contenus/les-blocs/accessibilite-1/"
+      target: "/creer-des-contenus/les-blocs/accessibilite-1/"
       kind: page
       children: []
   - title: Les blocs de base
-    target: "/les-blocs-de-contenus/les-blocs-de-base/"
+    target: "/creer-des-contenus/les-blocs-de-base/"
     kind: page
     children:
     - title: Ajouter du texte
-      target: "/les-blocs-de-contenus/les-blocs-de-base/creer-un-chapitre/"
+      target: "/creer-des-contenus/les-blocs-de-base/creer-un-chapitre/"
       kind: page
       children: []
     - title: Ajouter une image
-      target: "/les-blocs-de-contenus/les-blocs-de-base/ajouter-une-image/"
+      target: "/creer-des-contenus/les-blocs-de-base/ajouter-une-image/"
       kind: page
       children: []
     - title: Ajouter une vidéo
-      target: "/les-blocs-de-contenus/les-blocs-de-base/ajouter-une-video/"
+      target: "/creer-des-contenus/les-blocs-de-base/ajouter-une-video/"
       kind: page
       children: []
     - title: Ajouter un tableau
-      target: "/les-blocs-de-contenus/les-blocs-de-base/ajouter-un-tableau/"
+      target: "/creer-des-contenus/les-blocs-de-base/ajouter-un-tableau/"
       kind: page
       children: []
   - title: Les blocs narratifs
-    target: "/les-blocs-de-contenus/les-blocs-narratifs/"
+    target: "/creer-des-contenus/les-blocs-narratifs/"
     kind: page
     children:
     - title: Ajouter un chiffre clé
-      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
       kind: page
       children: []
     - title: Ajouter une galerie d'images
-      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
       kind: page
       children: []
     - title: Ajouter un appel à actions
-      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
       kind: page
       children: []
     - title: Ajouter un témoignage
-      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
       kind: page
       children: []
     - title: Ajouter une frise chronologique
-      target: "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
       kind: page
       children: []
   - title: Les blocs de listes
-    target: "/les-blocs-de-contenus/les-blocs-de-listes/"
+    target: "/creer-des-contenus/les-blocs-de-listes/"
     kind: page
     children:
     - title: Ajouter une liste de page
-      target: "/les-blocs-de-contenus/les-blocs-de-listes/ajouter-une-liste-de-page/"
+      target: "/creer-des-contenus/les-blocs-de-listes/ajouter-une-liste-de-page/"
       kind: page
       children: []
     - title: Ajouter une liste d'actualités
-      target: "/les-blocs-de-contenus/les-blocs-de-listes/actualites-2/"
+      target: "/creer-des-contenus/les-blocs-de-listes/actualites-2/"
       kind: page
       children: []
     - title: Ajouter une liste d'organisations
-      target: "/les-blocs-de-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
+      target: "/creer-des-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
       kind: page
       children: []
   - title: Les blocs techniques
-    target: "/les-blocs-de-contenus/les-blocs-techniques/"
+    target: "/creer-des-contenus/les-blocs-techniques/"
     kind: page
     children: []
   - title: Transcription
-    target: "/les-blocs-de-contenus/transcription/"
+    target: "/creer-des-contenus/transcription/"
     kind: page
     children:
     - title: Accessibilité
-      target: "/les-blocs-de-contenus/transcription/accessibilite-2/"
+      target: "/creer-des-contenus/transcription/accessibilite-2/"
       kind: page
       children: []
     - title: Sous- titres
-      target: "/les-blocs-de-contenus/transcription/sous-titres/"
+      target: "/creer-des-contenus/transcription/sous-titres/"
       kind: page
       children: []
 
