@@ -246,7 +246,7 @@ items:
       kind: page
       children: []
     - title: Sous- titres
-      target: "/creer-des-contenus/transcription/sous-titres/"
+      target: "/creer-des-contenus/transcription/methodologie/"
       kind: page
       children: []
 
