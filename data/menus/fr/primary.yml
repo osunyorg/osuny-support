@@ -13,6 +13,10 @@ items:
     target: "/l-outil/tableau-de-bord/"
     kind: page
     children: []
+  - title: Choix du thème
+    target: "/l-outil/choix-du-theme/"
+    kind: page
+    children: []
 - title: Gérer ses données
   target: "/les-donnees/"
   kind: page
