@@ -241,6 +241,10 @@ items:
       target: "/creer-des-contenus/les-blocs-techniques/ajouter-des-fichiers/"
       kind: page
       children: []
+    - title: Ajouter des définitions
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-des-definitions/"
+      kind: page
+      children: []
   - title: Transcription vidéos
     target: "/creer-des-contenus/transcription/"
     kind: page
