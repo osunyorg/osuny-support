@@ -237,7 +237,7 @@ items:
     target: "/creer-des-contenus/les-blocs-techniques/"
     kind: page
     children: []
-  - title: Transcription
+  - title: Transcription vidéos
     target: "/creer-des-contenus/transcription/"
     kind: page
     children:
