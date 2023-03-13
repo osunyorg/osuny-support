@@ -242,7 +242,7 @@ items:
     kind: page
     children:
     - title: Accessibilité
-      target: "/creer-des-contenus/transcription/accessibilite-2/"
+      target: "/creer-des-contenus/transcription/bonnes-pratiques/"
       kind: page
       children: []
     - title: Sous- titres
