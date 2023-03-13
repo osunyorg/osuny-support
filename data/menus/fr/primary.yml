@@ -109,6 +109,10 @@ items:
       target: "/administrer-son-site-web/actualites-1/modifier-une-actualite/"
       kind: page
       children: []
+    - title: Catégories d'actualités
+      target: "/administrer-son-site-web/actualites-1/categories-dactualites/"
+      kind: page
+      children: []
     - title: Auteur.rice.s
       target: "/administrer-son-site-web/actualites-1/auteurrices/"
       kind: page
