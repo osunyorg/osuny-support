@@ -236,7 +236,11 @@ items:
   - title: Les blocs techniques
     target: "/creer-des-contenus/les-blocs-techniques/"
     kind: page
-    children: []
+    children:
+    - title: Ajouter des fichiers
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-des-fichiers/"
+      kind: page
+      children: []
   - title: Transcription vidéos
     target: "/creer-des-contenus/transcription/"
     kind: page
