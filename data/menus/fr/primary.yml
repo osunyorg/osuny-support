@@ -73,6 +73,10 @@ items:
       target: "/gerer-ses-donnees/recherche/theses/"
       kind: page
       children: []
+    - title: Revues scientifiques
+      target: "/gerer-ses-donnees/recherche/revues-scientifiques/"
+      kind: page
+      children: []
   - title: Communication
     target: "/gerer-ses-donnees/communication/"
     kind: page
