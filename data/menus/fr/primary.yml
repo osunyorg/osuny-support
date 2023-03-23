@@ -77,6 +77,10 @@ items:
       target: "/gerer-ses-donnees/recherche/revues-scientifiques/"
       kind: page
       children: []
+    - title: Veille
+      target: "/gerer-ses-donnees/recherche/veille/"
+      kind: page
+      children: []
   - title: Communication
     target: "/gerer-ses-donnees/communication/"
     kind: page
