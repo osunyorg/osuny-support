@@ -69,6 +69,10 @@ items:
       target: "/gerer-ses-donnees/recherche/laboratoires/"
       kind: page
       children: []
+    - title: Thèses
+      target: "/gerer-ses-donnees/recherche/theses/"
+      kind: page
+      children: []
   - title: Communication
     target: "/gerer-ses-donnees/communication/"
     kind: page
