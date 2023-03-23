@@ -65,6 +65,10 @@ items:
       target: "/gerer-ses-donnees/recherche/chercheursses/"
       kind: page
       children: []
+    - title: Laboratoires
+      target: "/gerer-ses-donnees/recherche/laboratoires/"
+      kind: page
+      children: []
   - title: Communication
     target: "/gerer-ses-donnees/communication/"
     kind: page
