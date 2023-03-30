@@ -9,7 +9,7 @@ items:
     target: "/l-outil/osuny/"
     kind: page
     children: []
-  - title: Tableau de bord
+  - title: Interface Osuny
     target: "/l-outil/interface-osuny/"
     kind: page
     children: []
