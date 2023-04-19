@@ -1,0 +1,292 @@
+---
+title: Primary
+items:
+- title: L'outil
+  target: "/l-outil/"
+  kind: page
+  children:
+  - title: Osuny
+    target: "/l-outil/osuny/"
+    kind: page
+    children: []
+  - title: Interface Osuny
+    target: "/l-outil/interface-osuny/"
+    kind: page
+    children: []
+  - title: Choix du thème
+    target: "/l-outil/choix-du-theme/"
+    kind: page
+    children: []
+- title: Gérer ses données
+  target: "/gerer-ses-donnees/"
+  kind: page
+  children:
+  - title: Universités
+    target: "/gerer-ses-donnees/universites/"
+    kind: page
+    children:
+    - title: Gérer les personnes
+      target: "/gerer-ses-donnees/universites/personnes/"
+      kind: page
+      children: []
+    - title: Gérer les organisations
+      target: "/gerer-ses-donnees/universites/organisations/"
+      kind: page
+      children: []
+    - title: Gérer les alumni
+      target: "/gerer-ses-donnees/universites/alumni/"
+      kind: page
+      children: []
+  - title: Enseignements
+    target: "/gerer-ses-donnees/enseignements/"
+    kind: page
+    children:
+    - title: Gérer les enseignants.es
+      target: "/gerer-ses-donnees/enseignements/enseignantses/"
+      kind: page
+      children: []
+    - title: Gérer les écoles
+      target: "/gerer-ses-donnees/enseignements/ecoles/"
+      kind: page
+      children: []
+    - title: Gerer les diplômes
+      target: "/gerer-ses-donnees/enseignements/diplomes/"
+      kind: page
+      children: []
+    - title: Gerer les formations
+      target: "/gerer-ses-donnees/enseignements/formations/"
+      kind: page
+      children: []
+  - title: Recherche
+    target: "/gerer-ses-donnees/recherche/"
+    kind: page
+    children:
+    - title: Gérer les chercheu.rs.ses
+      target: "/gerer-ses-donnees/recherche/chercheursses/"
+      kind: page
+      children: []
+    - title: Laboratoires
+      target: "/gerer-ses-donnees/recherche/laboratoires/"
+      kind: page
+      children: []
+    - title: Thèses
+      target: "/gerer-ses-donnees/recherche/theses/"
+      kind: page
+      children: []
+    - title: Revues scientifiques
+      target: "/gerer-ses-donnees/recherche/revues-scientifiques/"
+      kind: page
+      children: []
+    - title: Veille
+      target: "/gerer-ses-donnees/recherche/veille/"
+      kind: page
+      children: []
+  - title: Communication
+    target: "/gerer-ses-donnees/communication/"
+    kind: page
+    children:
+    - title: " Gérer les sites Web"
+      target: "/gerer-ses-donnees/communication/sites-web/"
+      kind: page
+      children: []
+    - title: Gérer les extranet
+      target: "/gerer-ses-donnees/communication/extranet/"
+      kind: page
+      children: []
+  - title: Administration
+    target: "/gerer-ses-donnees/administration/"
+    kind: page
+    children:
+    - title: Gérer la qualité
+      target: "/gerer-ses-donnees/administration/qualite/"
+      kind: page
+      children: []
+- title: Administrer son site
+  target: "/administrer-son-site-web/"
+  kind: page
+  children:
+  - title: Site Web
+    target: "/administrer-son-site-web/site-web/"
+    kind: page
+    children:
+    - title: Modifier le site web
+      target: "/administrer-son-site-web/site-web/modifier-le-site-web/"
+      kind: page
+      children: []
+    - title: Importer le site
+      target: "/administrer-son-site-web/site-web/importer-le-site/"
+      kind: page
+      children: []
+  - title: Actualités
+    target: "/administrer-son-site-web/actualites-1/"
+    kind: page
+    children:
+    - title: Créer une actualité
+      target: "/administrer-son-site-web/actualites-1/creer-une-actualite/"
+      kind: page
+      children: []
+    - title: Modifier une actualité
+      target: "/administrer-son-site-web/actualites-1/modifier-une-actualite/"
+      kind: page
+      children: []
+    - title: Catégories d'actualités
+      target: "/administrer-son-site-web/actualites-1/categories-dactualites/"
+      kind: page
+      children: []
+    - title: Auteur.rice.s
+      target: "/administrer-son-site-web/actualites-1/auteurrices/"
+      kind: page
+      children: []
+  - title: Arborescence
+    target: "/administrer-son-site-web/arborescence/"
+    kind: page
+    children:
+    - title: Créer une page
+      target: "/administrer-son-site-web/arborescence/creer-une-page/"
+      kind: page
+      children: []
+    - title: Modifier une page
+      target: "/administrer-son-site-web/arborescence/modifier-une-page/"
+      kind: page
+      children: []
+    - title: Structure d'une page
+      target: "/administrer-son-site-web/arborescence/structure-dune-page/"
+      kind: page
+      children: []
+    - title: Publier une page
+      target: "/administrer-son-site-web/arborescence/publier-une-page/"
+      kind: page
+      children: []
+  - title: Menus
+    target: "/administrer-son-site-web/menus/"
+    kind: page
+    children:
+    - title: Fonctionnement
+      target: "/administrer-son-site-web/menus/fonctionnement/"
+      kind: page
+      children: []
+    - title: Créer un menu
+      target: "/administrer-son-site-web/menus/creer-un-menu/"
+      kind: page
+      children: []
+    - title: Modifier un menu
+      target: "/administrer-son-site-web/menus/modifier-un-menu/"
+      kind: page
+      children: []
+- title: Créer des contenus
+  target: "/creer-des-contenus/"
+  kind: page
+  children:
+  - title: Ajouter du contenu
+    target: "/creer-des-contenus/les-blocs/"
+    kind: page
+    children:
+    - title: Les blocs de contenus
+      target: "/creer-des-contenus/les-blocs/emploi-dun-bloc/"
+      kind: page
+      children: []
+    - title: Les différents blocs
+      target: "/creer-des-contenus/les-blocs/actions-sur-un-bloc/"
+      kind: page
+      children: []
+    - title: Accessibilité du contenu
+      target: "/creer-des-contenus/les-blocs/accessibilite-1/"
+      kind: page
+      children: []
+  - title: Les blocs de base
+    target: "/creer-des-contenus/les-blocs-de-base/"
+    kind: page
+    children:
+    - title: Ajouter du texte
+      target: "/creer-des-contenus/les-blocs-de-base/creer-un-chapitre/"
+      kind: page
+      children: []
+    - title: Ajouter une image
+      target: "/creer-des-contenus/les-blocs-de-base/ajouter-une-image/"
+      kind: page
+      children: []
+    - title: Ajouter une vidéo
+      target: "/creer-des-contenus/les-blocs-de-base/ajouter-une-video/"
+      kind: page
+      children: []
+    - title: Ajouter un tableau
+      target: "/creer-des-contenus/les-blocs-de-base/ajouter-un-tableau/"
+      kind: page
+      children: []
+  - title: Les blocs narratifs
+    target: "/creer-des-contenus/les-blocs-narratifs/"
+    kind: page
+    children:
+    - title: Ajouter un chiffre clé
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
+      kind: page
+      children: []
+    - title: Ajouter une galerie d'images
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
+      kind: page
+      children: []
+    - title: Ajouter un appel à actions
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
+      kind: page
+      children: []
+    - title: Ajouter un témoignage
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
+      kind: page
+      children: []
+    - title: Ajouter une frise chronologique
+      target: "/creer-des-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
+      kind: page
+      children: []
+  - title: Les blocs de listes
+    target: "/creer-des-contenus/les-blocs-de-listes/"
+    kind: page
+    children:
+    - title: Ajouter une liste de page
+      target: "/creer-des-contenus/les-blocs-de-listes/ajouter-une-liste-de-page/"
+      kind: page
+      children: []
+    - title: Ajouter une liste d'actualités
+      target: "/creer-des-contenus/les-blocs-de-listes/actualites-2/"
+      kind: page
+      children: []
+    - title: Ajouter une liste d'organisations
+      target: "/creer-des-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
+      kind: page
+      children: []
+  - title: Les blocs techniques
+    target: "/creer-des-contenus/les-blocs-techniques/"
+    kind: page
+    children:
+    - title: Ajouter des fichiers
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-des-fichiers/"
+      kind: page
+      children: []
+    - title: Ajouter des définitions
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-des-definitions/"
+      kind: page
+      children: []
+    - title: Ajouter du code HTML
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-une-integration-html/"
+      kind: page
+      children: []
+    - title: Ajouter un contact
+      target: "/creer-des-contenus/les-blocs-techniques/ajouter-un-contact/"
+      kind: page
+      children: []
+  - title: Transcription vidéos
+    target: "/creer-des-contenus/transcription/"
+    kind: page
+    children:
+    - title: Bonnes pratiques
+      target: "/creer-des-contenus/transcription/bonnes-pratiques/"
+      kind: page
+      children: []
+    - title: Méthodologie sous-titres
+      target: "/creer-des-contenus/transcription/methodologie-sous-titres/"
+      kind: page
+      children: []
+    - title: Transcription textuelle
+      target: "/creer-des-contenus/transcription/transcription-textuelle/"
+      kind: page
+      children: []
+
