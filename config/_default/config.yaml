@@ -3,7 +3,7 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 
-deployment:
-  targets:
-    - name: "production"
-      URL: "s3://8d5bbc72f8e59267283b7c74a8d48ac80409cd4ebda7e456f435ac6a91bb9aa7?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
+# deployment:
+#   targets:
+#     - name: "production"
+#       URL: "s3://8d5bbc72f8e59267283b7c74a8d48ac80409cd4ebda7e456f435ac6a91bb9aa7?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
