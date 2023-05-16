@@ -105,196 +105,196 @@ items:
       target: "/creer-gerer-ses-donnees/administration/qualite/"
       kind: page
       children: []
-- title: Création et gestion des pages
-  target: "/gestion-des-pages/"
+- title: Créer et gérer ses pages
+  target: "/creer-gerer-pages/"
   kind: page
   children:
   - title: Site Web
-    target: "/gestion-des-pages/site-web/"
+    target: "/creer-gerer-pages/site-web/"
     kind: page
     children:
     - title: Modifier le site web
-      target: "/gestion-des-pages/site-web/modifier-le-site-web/"
+      target: "/creer-gerer-pages/site-web/modifier-le-site-web/"
       kind: page
       children: []
     - title: Importer le site
-      target: "/gestion-des-pages/site-web/importer-le-site/"
+      target: "/creer-gerer-pages/site-web/importer-le-site/"
       kind: page
       children: []
   - title: Actualités
-    target: "/gestion-des-pages/actualites-1/"
+    target: "/creer-gerer-pages/actualites-1/"
     kind: page
     children:
     - title: Créer une actualité
-      target: "/gestion-des-pages/actualites-1/creer-une-actualite/"
+      target: "/creer-gerer-pages/actualites-1/creer-une-actualite/"
       kind: page
       children: []
     - title: Modifier une actualité
-      target: "/gestion-des-pages/actualites-1/modifier-une-actualite/"
+      target: "/creer-gerer-pages/actualites-1/modifier-une-actualite/"
       kind: page
       children: []
     - title: Catégories d'actualités
-      target: "/gestion-des-pages/actualites-1/categories-dactualites/"
+      target: "/creer-gerer-pages/actualites-1/categories-dactualites/"
       kind: page
       children: []
     - title: Auteur.rice.s
-      target: "/gestion-des-pages/actualites-1/auteurrices/"
+      target: "/creer-gerer-pages/actualites-1/auteurrices/"
       kind: page
       children: []
   - title: Arborescence
-    target: "/gestion-des-pages/arborescence/"
+    target: "/creer-gerer-pages/arborescence/"
     kind: page
     children:
     - title: Créer une page
-      target: "/gestion-des-pages/arborescence/creer-une-page/"
+      target: "/creer-gerer-pages/arborescence/creer-une-page/"
       kind: page
       children: []
     - title: Modifier une page
-      target: "/gestion-des-pages/arborescence/modifier-une-page/"
+      target: "/creer-gerer-pages/arborescence/modifier-une-page/"
       kind: page
       children: []
     - title: Structure d'une page
-      target: "/gestion-des-pages/arborescence/structure-dune-page/"
+      target: "/creer-gerer-pages/arborescence/structure-dune-page/"
       kind: page
       children: []
     - title: Publier une page
-      target: "/gestion-des-pages/arborescence/publier-une-page/"
+      target: "/creer-gerer-pages/arborescence/publier-une-page/"
       kind: page
       children: []
   - title: Menus
-    target: "/gestion-des-pages/menus/"
+    target: "/creer-gerer-pages/menus/"
     kind: page
     children:
     - title: Fonctionnement
-      target: "/gestion-des-pages/menus/fonctionnement/"
+      target: "/creer-gerer-pages/menus/fonctionnement/"
       kind: page
       children: []
     - title: Créer un menu
-      target: "/gestion-des-pages/menus/creer-un-menu/"
+      target: "/creer-gerer-pages/menus/creer-un-menu/"
       kind: page
       children: []
     - title: Modifier un menu
-      target: "/gestion-des-pages/menus/modifier-un-menu/"
+      target: "/creer-gerer-pages/menus/modifier-un-menu/"
       kind: page
       children: []
-- title: Créer des contenus
-  target: "/creation-gestion-contenus/"
+- title: Créer et gérer ses contenus
+  target: "/creer-gerer-contenus/"
   kind: page
   children:
   - title: Ajouter du contenu
-    target: "/creation-gestion-contenus/les-blocs/"
+    target: "/creer-gerer-contenus/les-blocs/"
     kind: page
     children:
     - title: Les blocs de contenus
-      target: "/creation-gestion-contenus/les-blocs/emploi-dun-bloc/"
+      target: "/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
       kind: page
       children: []
     - title: Les différents blocs
-      target: "/creation-gestion-contenus/les-blocs/actions-sur-un-bloc/"
+      target: "/creer-gerer-contenus/les-blocs/actions-sur-un-bloc/"
       kind: page
       children: []
     - title: Accessibilité du contenu
-      target: "/creation-gestion-contenus/les-blocs/accessibilite-1/"
+      target: "/creer-gerer-contenus/les-blocs/accessibilite-1/"
       kind: page
       children: []
   - title: Les blocs de base
-    target: "/creation-gestion-contenus/les-blocs-de-base/"
+    target: "/creer-gerer-contenus/les-blocs-de-base/"
     kind: page
     children:
     - title: Ajouter du texte
-      target: "/creation-gestion-contenus/les-blocs-de-base/creer-un-chapitre/"
+      target: "/creer-gerer-contenus/les-blocs-de-base/creer-un-chapitre/"
       kind: page
       children: []
     - title: Ajouter une image
-      target: "/creation-gestion-contenus/les-blocs-de-base/ajouter-une-image/"
+      target: "/creer-gerer-contenus/les-blocs-de-base/ajouter-une-image/"
       kind: page
       children: []
     - title: Ajouter une vidéo
-      target: "/creation-gestion-contenus/les-blocs-de-base/ajouter-une-video/"
+      target: "/creer-gerer-contenus/les-blocs-de-base/ajouter-une-video/"
       kind: page
       children: []
     - title: Ajouter un tableau
-      target: "/creation-gestion-contenus/les-blocs-de-base/ajouter-un-tableau/"
+      target: "/creer-gerer-contenus/les-blocs-de-base/ajouter-un-tableau/"
       kind: page
       children: []
   - title: Les blocs narratifs
-    target: "/creation-gestion-contenus/les-blocs-narratifs/"
+    target: "/creer-gerer-contenus/les-blocs-narratifs/"
     kind: page
     children:
     - title: Ajouter un chiffre clé
-      target: "/creation-gestion-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
+      target: "/creer-gerer-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
       kind: page
       children: []
     - title: Ajouter une galerie d'images
-      target: "/creation-gestion-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
+      target: "/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
       kind: page
       children: []
     - title: Ajouter un appel à actions
-      target: "/creation-gestion-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
+      target: "/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
       kind: page
       children: []
     - title: Ajouter un témoignage
-      target: "/creation-gestion-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
+      target: "/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
       kind: page
       children: []
     - title: Ajouter une frise chronologique
-      target: "/creation-gestion-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
+      target: "/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
       kind: page
       children: []
   - title: Les blocs de listes
-    target: "/creation-gestion-contenus/les-blocs-de-listes/"
+    target: "/creer-gerer-contenus/les-blocs-de-listes/"
     kind: page
     children:
     - title: Ajouter une liste de page
-      target: "/creation-gestion-contenus/les-blocs-de-listes/ajouter-une-liste-de-page/"
+      target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-page/"
       kind: page
       children: []
     - title: Ajouter une liste d'actualités
-      target: "/creation-gestion-contenus/les-blocs-de-listes/actualites-2/"
+      target: "/creer-gerer-contenus/les-blocs-de-listes/actualites-2/"
       kind: page
       children: []
     - title: Ajouter une liste de personnes
-      target: "/creation-gestion-contenus/les-blocs-de-listes/ajouter-une-liste-de-personnes/"
+      target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-personnes/"
       kind: page
       children: []
     - title: Ajouter une liste d'organisations
-      target: "/creation-gestion-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
+      target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
       kind: page
       children: []
   - title: Les blocs techniques
-    target: "/creation-gestion-contenus/les-blocs-techniques/"
+    target: "/creer-gerer-contenus/les-blocs-techniques/"
     kind: page
     children:
     - title: Ajouter des fichiers
-      target: "/creation-gestion-contenus/les-blocs-techniques/ajouter-des-fichiers/"
+      target: "/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/"
       kind: page
       children: []
     - title: Ajouter des définitions
-      target: "/creation-gestion-contenus/les-blocs-techniques/ajouter-des-definitions/"
+      target: "/creer-gerer-contenus/les-blocs-techniques/ajouter-des-definitions/"
       kind: page
       children: []
     - title: Ajouter du code HTML
-      target: "/creation-gestion-contenus/les-blocs-techniques/ajouter-une-integration-html/"
+      target: "/creer-gerer-contenus/les-blocs-techniques/ajouter-une-integration-html/"
       kind: page
       children: []
     - title: Ajouter un contact
-      target: "/creation-gestion-contenus/les-blocs-techniques/ajouter-un-contact/"
+      target: "/creer-gerer-contenus/les-blocs-techniques/ajouter-un-contact/"
       kind: page
       children: []
   - title: Transcription vidéos
-    target: "/creation-gestion-contenus/transcription/"
+    target: "/creer-gerer-contenus/transcription/"
     kind: page
     children:
     - title: Bonnes pratiques
-      target: "/creation-gestion-contenus/transcription/bonnes-pratiques/"
+      target: "/creer-gerer-contenus/transcription/bonnes-pratiques/"
       kind: page
       children: []
     - title: Méthodologie sous-titres
-      target: "/creation-gestion-contenus/transcription/methodologie-sous-titres/"
+      target: "/creer-gerer-contenus/transcription/methodologie-sous-titres/"
       kind: page
       children: []
     - title: Transcription textuelle
-      target: "/creation-gestion-contenus/transcription/transcription-textuelle/"
+      target: "/creer-gerer-contenus/transcription/transcription-textuelle/"
       kind: page
       children: []
 
