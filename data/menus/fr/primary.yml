@@ -57,7 +57,7 @@ items:
       target: "/creer-gerer-des-donnees/enseignements/formations/"
       kind: page
       children: []
-  - title: Recherche
+  - title: Les données de la Recherche
     target: "/creer-gerer-des-donnees/recherche/"
     kind: page
     children:
