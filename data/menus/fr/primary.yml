@@ -33,6 +33,10 @@ items:
       target: "/creer-gerer-des-donnees/universites/organisations-1/"
       kind: page
       children: []
+    - title: Gérer les utilisateur.rice.s
+      target: "/creer-gerer-des-donnees/universites/gerer-les-utilisateurrices/"
+      kind: page
+      children: []
   - title: Les enseignements
     target: "/creer-gerer-des-donnees/enseignements/"
     kind: page
