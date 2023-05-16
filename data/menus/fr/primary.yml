@@ -93,7 +93,7 @@ items:
       target: "/creer-gerer-des-donnees/communication/extranet/"
       kind: page
       children: []
-  - title: Administration
+  - title: Les données de l'Administration
     target: "/creer-gerer-des-donnees/administration/"
     kind: page
     children:
