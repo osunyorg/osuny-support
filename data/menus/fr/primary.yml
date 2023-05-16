@@ -249,6 +249,10 @@ items:
       target: "/creer-des-contenus/les-blocs-de-listes/actualites-2/"
       kind: page
       children: []
+    - title: Ajouter une liste de personnes
+      target: "/creer-des-contenus/les-blocs-de-listes/ajouter-une-liste-de-personnes/"
+      kind: page
+      children: []
     - title: Ajouter une liste d'organisations
       target: "/creer-des-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
       kind: page
