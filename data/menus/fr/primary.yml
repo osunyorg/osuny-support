@@ -33,10 +33,6 @@ items:
       target: "/creer-gerer-des-donnees/universites/organisations-1/"
       kind: page
       children: []
-    - title: Gérer les alumni
-      target: "/creer-gerer-des-donnees/enseignements/alumni/"
-      kind: page
-      children: []
   - title: Les enseignements
     target: "/creer-gerer-des-donnees/enseignements/"
     kind: page
@@ -55,6 +51,10 @@ items:
       children: []
     - title: Gerer les formations
       target: "/creer-gerer-des-donnees/enseignements/formations/"
+      kind: page
+      children: []
+    - title: Gérer les alumni
+      target: "/creer-gerer-des-donnees/enseignements/alumni/"
       kind: page
       children: []
   - title: Les données de la Recherche
