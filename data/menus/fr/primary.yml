@@ -37,7 +37,7 @@ items:
       target: "/creer-gerer-des-donnees/universites/alumni/"
       kind: page
       children: []
-  - title: Enseignements
+  - title: Les enseignements
     target: "/creer-gerer-des-donnees/enseignements/"
     kind: page
     children:
