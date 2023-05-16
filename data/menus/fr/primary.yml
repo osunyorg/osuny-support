@@ -81,7 +81,7 @@ items:
       target: "/creer-gerer-des-donnees/recherche/veille/"
       kind: page
       children: []
-  - title: Communication
+  - title: Les données de la Communication
     target: "/creer-gerer-des-donnees/communication/"
     kind: page
     children:
