@@ -34,7 +34,7 @@ items:
       kind: page
       children: []
     - title: Gérer les utilisateur.rice.s
-      target: "/creer-gerer-des-donnees/universites/gerer-les-utilisateurrices/"
+      target: "/creer-gerer-des-donnees/universites/utilisateur-rice-s/"
       kind: page
       children: []
   - title: Les enseignements
