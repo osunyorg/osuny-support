@@ -30,7 +30,7 @@ items:
       kind: page
       children: []
     - title: Gérer les organisations
-      target: "/gerer-ses-donnees/universites/organisations/"
+      target: "/gerer-ses-donnees/universites/organisations-1/"
       kind: page
       children: []
     - title: Gérer les alumni
