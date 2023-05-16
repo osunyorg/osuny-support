@@ -17,88 +17,88 @@ items:
     target: "/l-outil/choix-du-theme/"
     kind: page
     children: []
-- title: Gérer ses données
-  target: "/gerer-ses-donnees/"
+- title: Créer et gérer des données
+  target: "/creer-gerer-des-donnees/"
   kind: page
   children:
   - title: Universités
-    target: "/gerer-ses-donnees/universites/"
+    target: "/creer-gerer-des-donnees/universites/"
     kind: page
     children:
     - title: Gérer les personnes
-      target: "/gerer-ses-donnees/universites/personnes/"
+      target: "/creer-gerer-des-donnees/universites/personnes/"
       kind: page
       children: []
     - title: Gérer les organisations
-      target: "/gerer-ses-donnees/universites/organisations-1/"
+      target: "/creer-gerer-des-donnees/universites/organisations-1/"
       kind: page
       children: []
     - title: Gérer les alumni
-      target: "/gerer-ses-donnees/universites/alumni/"
+      target: "/creer-gerer-des-donnees/universites/alumni/"
       kind: page
       children: []
   - title: Enseignements
-    target: "/gerer-ses-donnees/enseignements/"
+    target: "/creer-gerer-des-donnees/enseignements/"
     kind: page
     children:
     - title: Gérer les enseignants.es
-      target: "/gerer-ses-donnees/enseignements/enseignantses/"
+      target: "/creer-gerer-des-donnees/enseignements/enseignantses/"
       kind: page
       children: []
     - title: Gérer les écoles
-      target: "/gerer-ses-donnees/enseignements/ecoles/"
+      target: "/creer-gerer-des-donnees/enseignements/ecoles/"
       kind: page
       children: []
     - title: Gerer les diplômes
-      target: "/gerer-ses-donnees/enseignements/diplomes/"
+      target: "/creer-gerer-des-donnees/enseignements/diplomes/"
       kind: page
       children: []
     - title: Gerer les formations
-      target: "/gerer-ses-donnees/enseignements/formations/"
+      target: "/creer-gerer-des-donnees/enseignements/formations/"
       kind: page
       children: []
   - title: Recherche
-    target: "/gerer-ses-donnees/recherche/"
+    target: "/creer-gerer-des-donnees/recherche/"
     kind: page
     children:
     - title: Gérer les chercheu.rs.ses
-      target: "/gerer-ses-donnees/recherche/chercheursses/"
+      target: "/creer-gerer-des-donnees/recherche/chercheursses/"
       kind: page
       children: []
     - title: Laboratoires
-      target: "/gerer-ses-donnees/recherche/laboratoires/"
+      target: "/creer-gerer-des-donnees/recherche/laboratoires/"
       kind: page
       children: []
     - title: Thèses
-      target: "/gerer-ses-donnees/recherche/theses/"
+      target: "/creer-gerer-des-donnees/recherche/theses/"
       kind: page
       children: []
     - title: Revues scientifiques
-      target: "/gerer-ses-donnees/recherche/revues-scientifiques/"
+      target: "/creer-gerer-des-donnees/recherche/revues-scientifiques/"
       kind: page
       children: []
     - title: Veille
-      target: "/gerer-ses-donnees/recherche/veille/"
+      target: "/creer-gerer-des-donnees/recherche/veille/"
       kind: page
       children: []
   - title: Communication
-    target: "/gerer-ses-donnees/communication/"
+    target: "/creer-gerer-des-donnees/communication/"
     kind: page
     children:
     - title: " Gérer les sites Web"
-      target: "/gerer-ses-donnees/communication/sites-web/"
+      target: "/creer-gerer-des-donnees/communication/sites-web/"
       kind: page
       children: []
     - title: Gérer les extranet
-      target: "/gerer-ses-donnees/communication/extranet/"
+      target: "/creer-gerer-des-donnees/communication/extranet/"
       kind: page
       children: []
   - title: Administration
-    target: "/gerer-ses-donnees/administration/"
+    target: "/creer-gerer-des-donnees/administration/"
     kind: page
     children:
     - title: Gérer la qualité
-      target: "/gerer-ses-donnees/administration/qualite/"
+      target: "/creer-gerer-des-donnees/administration/qualite/"
       kind: page
       children: []
 - title: Administrer son site
