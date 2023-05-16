@@ -106,75 +106,75 @@ items:
       kind: page
       children: []
 - title: Administrer son site
-  target: "/gestion-des-pages-de-son-site-web/"
+  target: "/gestion-des-pages/"
   kind: page
   children:
   - title: Site Web
-    target: "/gestion-des-pages-de-son-site-web/site-web/"
+    target: "/gestion-des-pages/site-web/"
     kind: page
     children:
     - title: Modifier le site web
-      target: "/gestion-des-pages-de-son-site-web/site-web/modifier-le-site-web/"
+      target: "/gestion-des-pages/site-web/modifier-le-site-web/"
       kind: page
       children: []
     - title: Importer le site
-      target: "/gestion-des-pages-de-son-site-web/site-web/importer-le-site/"
+      target: "/gestion-des-pages/site-web/importer-le-site/"
       kind: page
       children: []
   - title: Actualités
-    target: "/gestion-des-pages-de-son-site-web/actualites-1/"
+    target: "/gestion-des-pages/actualites-1/"
     kind: page
     children:
     - title: Créer une actualité
-      target: "/gestion-des-pages-de-son-site-web/actualites-1/creer-une-actualite/"
+      target: "/gestion-des-pages/actualites-1/creer-une-actualite/"
       kind: page
       children: []
     - title: Modifier une actualité
-      target: "/gestion-des-pages-de-son-site-web/actualites-1/modifier-une-actualite/"
+      target: "/gestion-des-pages/actualites-1/modifier-une-actualite/"
       kind: page
       children: []
     - title: Catégories d'actualités
-      target: "/gestion-des-pages-de-son-site-web/actualites-1/categories-dactualites/"
+      target: "/gestion-des-pages/actualites-1/categories-dactualites/"
       kind: page
       children: []
     - title: Auteur.rice.s
-      target: "/gestion-des-pages-de-son-site-web/actualites-1/auteurrices/"
+      target: "/gestion-des-pages/actualites-1/auteurrices/"
       kind: page
       children: []
   - title: Arborescence
-    target: "/gestion-des-pages-de-son-site-web/arborescence/"
+    target: "/gestion-des-pages/arborescence/"
     kind: page
     children:
     - title: Créer une page
-      target: "/gestion-des-pages-de-son-site-web/arborescence/creer-une-page/"
+      target: "/gestion-des-pages/arborescence/creer-une-page/"
       kind: page
       children: []
     - title: Modifier une page
-      target: "/gestion-des-pages-de-son-site-web/arborescence/modifier-une-page/"
+      target: "/gestion-des-pages/arborescence/modifier-une-page/"
       kind: page
       children: []
     - title: Structure d'une page
-      target: "/gestion-des-pages-de-son-site-web/arborescence/structure-dune-page/"
+      target: "/gestion-des-pages/arborescence/structure-dune-page/"
       kind: page
       children: []
     - title: Publier une page
-      target: "/gestion-des-pages-de-son-site-web/arborescence/publier-une-page/"
+      target: "/gestion-des-pages/arborescence/publier-une-page/"
       kind: page
       children: []
   - title: Menus
-    target: "/gestion-des-pages-de-son-site-web/menus/"
+    target: "/gestion-des-pages/menus/"
     kind: page
     children:
     - title: Fonctionnement
-      target: "/gestion-des-pages-de-son-site-web/menus/fonctionnement/"
+      target: "/gestion-des-pages/menus/fonctionnement/"
       kind: page
       children: []
     - title: Créer un menu
-      target: "/gestion-des-pages-de-son-site-web/menus/creer-un-menu/"
+      target: "/gestion-des-pages/menus/creer-un-menu/"
       kind: page
       children: []
     - title: Modifier un menu
-      target: "/gestion-des-pages-de-son-site-web/menus/modifier-un-menu/"
+      target: "/gestion-des-pages/menus/modifier-un-menu/"
       kind: page
       children: []
 - title: Créer des contenus
