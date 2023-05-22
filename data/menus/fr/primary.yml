@@ -101,7 +101,7 @@ items:
     target: "/creer-gerer-ses-donnees/administration/"
     kind: page
     children:
-    - title: Gérer la qualité
+    - title: La qualité
       target: "/creer-gerer-ses-donnees/administration/qualite/"
       kind: page
       children: []
