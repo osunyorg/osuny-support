@@ -77,7 +77,7 @@ items:
       target: "/creer-gerer-ses-donnees/recherche/theses/"
       kind: page
       children: []
-    - title: Revues scientifiques
+    - title: Les revues scientifiques
       target: "/creer-gerer-ses-donnees/recherche/revues-scientifiques/"
       kind: page
       children: []
