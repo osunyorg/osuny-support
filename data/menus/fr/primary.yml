@@ -21,7 +21,7 @@ items:
   target: "/creer-gerer-ses-donnees/"
   kind: page
   children:
-  - title: Les données de l'établissement
+  - title: Les données de l'Établissement
     target: "/creer-gerer-ses-donnees/universites/"
     kind: page
     children:
