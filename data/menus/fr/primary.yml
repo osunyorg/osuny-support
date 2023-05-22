@@ -165,7 +165,7 @@ items:
       target: "/creer-gerer-pages/arborescence/publier-une-page/"
       kind: page
       children: []
-  - title: Menus
+  - title: Les Menus
     target: "/creer-gerer-pages/menus/"
     kind: page
     children:
