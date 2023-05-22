@@ -53,7 +53,7 @@ items:
       target: "/creer-gerer-ses-donnees/enseignements/diplomes/"
       kind: page
       children: []
-    - title: Gerer les formations
+    - title: Les formations
       target: "/creer-gerer-ses-donnees/enseignements/formations/"
       kind: page
       children: []
