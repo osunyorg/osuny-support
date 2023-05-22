@@ -81,12 +81,12 @@ items:
       target: "/creer-gerer-ses-donnees/recherche/revues-scientifiques/"
       kind: page
       children: []
-    - title: La veille
-      target: "/creer-gerer-ses-donnees/recherche/veille/"
-      kind: page
-      children: []
     - title: Les publications
       target: "/creer-gerer-ses-donnees/recherche/publications/"
+      kind: page
+      children: []
+    - title: La veille
+      target: "/creer-gerer-ses-donnees/recherche/veille/"
       kind: page
       children: []
   - title: Les données de la Communication
