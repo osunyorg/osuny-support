@@ -113,7 +113,7 @@ items:
   target: "/creer-gerer-pages/"
   kind: page
   children:
-  - title: Site Web
+  - title: Le Site Web
     target: "/creer-gerer-pages/site-web/"
     kind: page
     children:
