@@ -29,7 +29,7 @@ items:
       target: "/creer-gerer-ses-donnees/universites/personnes/"
       kind: page
       children: []
-    - title: Gérer les organisations
+    - title: Les organisations
       target: "/creer-gerer-ses-donnees/universites/organisations-1/"
       kind: page
       children: []
