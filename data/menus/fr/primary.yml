@@ -285,7 +285,7 @@ items:
       target: "/creer-gerer-contenus/les-blocs-techniques/ajouter-un-contact/"
       kind: page
       children: []
-  - title: Les Transcription vidéos
+  - title: Les Transcriptions vidéos
     target: "/creer-gerer-contenus/transcription/"
     kind: page
     children:
