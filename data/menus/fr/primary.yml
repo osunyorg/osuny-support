@@ -41,7 +41,7 @@ items:
     target: "/creer-gerer-ses-donnees/enseignements/"
     kind: page
     children:
-    - title: Gérer les enseignants.es
+    - title: Les enseignants.es
       target: "/creer-gerer-ses-donnees/enseignements/enseignantses/"
       kind: page
       children: []
