@@ -61,7 +61,7 @@ items:
       target: "/creer-gerer-ses-donnees/enseignements/alumni/"
       kind: page
       children: []
-  - title: Les données liées à la Recherche
+  - title: Les données de la Recherche
     target: "/creer-gerer-ses-donnees/recherche/"
     kind: page
     children:
