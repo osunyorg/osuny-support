@@ -49,7 +49,7 @@ items:
       target: "/creer-gerer-ses-donnees/enseignements/ecoles/"
       kind: page
       children: []
-    - title: Gerer les diplômes
+    - title: Les diplômes
       target: "/creer-gerer-ses-donnees/enseignements/diplomes/"
       kind: page
       children: []
