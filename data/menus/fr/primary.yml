@@ -17,7 +17,7 @@ items:
     target: "/l-outil/choix-du-theme/"
     kind: page
     children: []
-- title: Les données de son établissement
+- title: Créer et gérer ses données
   target: "/creer-gerer-ses-donnees/"
   kind: page
   children:
