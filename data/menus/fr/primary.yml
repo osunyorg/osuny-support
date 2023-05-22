@@ -57,7 +57,7 @@ items:
       target: "/creer-gerer-ses-donnees/enseignements/formations/"
       kind: page
       children: []
-    - title: Gérer les alumni
+    - title: Les alumni
       target: "/creer-gerer-ses-donnees/enseignements/alumni/"
       kind: page
       children: []
