@@ -73,7 +73,7 @@ items:
       target: "/creer-gerer-ses-donnees/recherche/laboratoires/"
       kind: page
       children: []
-    - title: Thèses
+    - title: Les thèses
       target: "/creer-gerer-ses-donnees/recherche/theses/"
       kind: page
       children: []
