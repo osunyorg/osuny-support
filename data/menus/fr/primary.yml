@@ -101,7 +101,7 @@ items:
       target: "/creer-gerer-ses-donnees/communication/extranet/"
       kind: page
       children: []
-  - title: Les données de l'Administration
+  - title: Les données Administratives
     target: "/creer-gerer-ses-donnees/administration/"
     kind: page
     children:
