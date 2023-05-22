@@ -25,7 +25,7 @@ items:
     target: "/creer-gerer-ses-donnees/universites/"
     kind: page
     children:
-    - title: Gérer les personnes
+    - title: Les personnes
       target: "/creer-gerer-ses-donnees/universites/personnes/"
       kind: page
       children: []
