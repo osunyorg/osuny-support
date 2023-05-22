@@ -85,10 +85,6 @@ items:
       target: "/creer-gerer-ses-donnees/recherche/publications/"
       kind: page
       children: []
-    - title: La veille
-      target: "/creer-gerer-ses-donnees/recherche/veille/"
-      kind: page
-      children: []
   - title: Les données de la Communication
     target: "/creer-gerer-ses-donnees/communication/"
     kind: page
