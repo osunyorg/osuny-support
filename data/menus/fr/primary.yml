@@ -69,7 +69,7 @@ items:
       target: "/creer-gerer-ses-donnees/recherche/chercheursses/"
       kind: page
       children: []
-    - title: Laboratoires
+    - title: Les laboratoires
       target: "/creer-gerer-ses-donnees/recherche/laboratoires/"
       kind: page
       children: []
