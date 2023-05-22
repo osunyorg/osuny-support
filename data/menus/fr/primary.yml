@@ -5,7 +5,7 @@ items:
   target: "/l-outil/"
   kind: page
   children:
-  - title: Le commun Osuny
+  - title: Le Back-Office Osuny
     target: "/l-outil/osuny/"
     kind: page
     children: []
