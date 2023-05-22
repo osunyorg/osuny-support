@@ -93,7 +93,7 @@ items:
       target: "/creer-gerer-ses-donnees/communication/sites-web/"
       kind: page
       children: []
-    - title: Gérer les extranet
+    - title: Les extranet
       target: "/creer-gerer-ses-donnees/communication/extranet/"
       kind: page
       children: []
