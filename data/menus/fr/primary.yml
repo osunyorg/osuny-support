@@ -13,7 +13,7 @@ items:
     target: "/l-outil/interface-osuny/"
     kind: page
     children: []
-  - title: Choix du thème
+  - title: Le Choix du thème
     target: "/l-outil/choix-du-theme/"
     kind: page
     children: []
