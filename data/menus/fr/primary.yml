@@ -81,7 +81,7 @@ items:
       target: "/creer-gerer-ses-donnees/recherche/revues-scientifiques/"
       kind: page
       children: []
-    - title: Veille
+    - title: La veille
       target: "/creer-gerer-ses-donnees/recherche/veille/"
       kind: page
       children: []
