@@ -145,7 +145,7 @@ items:
       target: "/creer-gerer-pages/actualites-1/auteurrices/"
       kind: page
       children: []
-  - title: Arborescence
+  - title: L'Arborescence
     target: "/creer-gerer-pages/arborescence/"
     kind: page
     children:
