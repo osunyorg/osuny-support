@@ -89,7 +89,7 @@ items:
     target: "/creer-gerer-ses-donnees/communication/"
     kind: page
     children:
-    - title: " Gérer les sites Web"
+    - title: Les sites Web
       target: "/creer-gerer-ses-donnees/communication/sites-web/"
       kind: page
       children: []
