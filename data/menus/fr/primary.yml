@@ -37,7 +37,7 @@ items:
       target: "/creer-gerer-ses-donnees/universites/utilisateur-rice-s/"
       kind: page
       children: []
-  - title: Les enseignements
+  - title: Les données liées aux enseignements
     target: "/creer-gerer-ses-donnees/enseignements/"
     kind: page
     children:
