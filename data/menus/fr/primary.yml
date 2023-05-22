@@ -18,91 +18,91 @@ items:
     kind: page
     children: []
 - title: Les données de son établissement
-  target: "/creer-gerer-ses-informations/"
+  target: "/creer-gerer-ses-donnees/"
   kind: page
   children:
   - title: Les données de l'Université
-    target: "/creer-gerer-ses-informations/universites/"
+    target: "/creer-gerer-ses-donnees/universites/"
     kind: page
     children:
     - title: Gérer les personnes
-      target: "/creer-gerer-ses-informations/universites/personnes/"
+      target: "/creer-gerer-ses-donnees/universites/personnes/"
       kind: page
       children: []
     - title: Gérer les organisations
-      target: "/creer-gerer-ses-informations/universites/organisations-1/"
+      target: "/creer-gerer-ses-donnees/universites/organisations-1/"
       kind: page
       children: []
     - title: Gérer les utilisateur.rice.s
-      target: "/creer-gerer-ses-informations/universites/utilisateur-rice-s/"
+      target: "/creer-gerer-ses-donnees/universites/utilisateur-rice-s/"
       kind: page
       children: []
   - title: Les enseignements
-    target: "/creer-gerer-ses-informations/enseignements/"
+    target: "/creer-gerer-ses-donnees/enseignements/"
     kind: page
     children:
     - title: Gérer les enseignants.es
-      target: "/creer-gerer-ses-informations/enseignements/enseignantses/"
+      target: "/creer-gerer-ses-donnees/enseignements/enseignantses/"
       kind: page
       children: []
     - title: Gérer les écoles
-      target: "/creer-gerer-ses-informations/enseignements/ecoles/"
+      target: "/creer-gerer-ses-donnees/enseignements/ecoles/"
       kind: page
       children: []
     - title: Gerer les diplômes
-      target: "/creer-gerer-ses-informations/enseignements/diplomes/"
+      target: "/creer-gerer-ses-donnees/enseignements/diplomes/"
       kind: page
       children: []
     - title: Gerer les formations
-      target: "/creer-gerer-ses-informations/enseignements/formations/"
+      target: "/creer-gerer-ses-donnees/enseignements/formations/"
       kind: page
       children: []
     - title: Gérer les alumni
-      target: "/creer-gerer-ses-informations/enseignements/alumni/"
+      target: "/creer-gerer-ses-donnees/enseignements/alumni/"
       kind: page
       children: []
   - title: Les données de la Recherche
-    target: "/creer-gerer-ses-informations/recherche/"
+    target: "/creer-gerer-ses-donnees/recherche/"
     kind: page
     children:
     - title: Gérer les chercheu.rs.ses
-      target: "/creer-gerer-ses-informations/recherche/chercheursses/"
+      target: "/creer-gerer-ses-donnees/recherche/chercheursses/"
       kind: page
       children: []
     - title: Laboratoires
-      target: "/creer-gerer-ses-informations/recherche/laboratoires/"
+      target: "/creer-gerer-ses-donnees/recherche/laboratoires/"
       kind: page
       children: []
     - title: Thèses
-      target: "/creer-gerer-ses-informations/recherche/theses/"
+      target: "/creer-gerer-ses-donnees/recherche/theses/"
       kind: page
       children: []
     - title: Revues scientifiques
-      target: "/creer-gerer-ses-informations/recherche/revues-scientifiques/"
+      target: "/creer-gerer-ses-donnees/recherche/revues-scientifiques/"
       kind: page
       children: []
     - title: Veille
-      target: "/creer-gerer-ses-informations/recherche/veille/"
+      target: "/creer-gerer-ses-donnees/recherche/veille/"
       kind: page
       children: []
   - title: Les données de la Communication
-    target: "/creer-gerer-ses-informations/communication/"
+    target: "/creer-gerer-ses-donnees/communication/"
     kind: page
     children:
     - title: " Gérer les sites Web"
-      target: "/creer-gerer-ses-informations/communication/sites-web/"
+      target: "/creer-gerer-ses-donnees/communication/sites-web/"
       kind: page
       children: []
     - title: Gérer les extranet
-      target: "/creer-gerer-ses-informations/communication/extranet/"
+      target: "/creer-gerer-ses-donnees/communication/extranet/"
       kind: page
       children: []
   - title: Les données de l'Administration
-    target: "/creer-gerer-ses-informations/administration/"
+    target: "/creer-gerer-ses-donnees/administration/"
     kind: page
     children:
     - title: Gérer la qualité
-      target: "/creer-gerer-ses-informations/administration/qualite/"
+      target: "/creer-gerer-ses-donnees/administration/qualite/"
       kind: page
       children: []
 - title: Créer et gérer ses pages
