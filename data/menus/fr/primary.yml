@@ -125,7 +125,7 @@ items:
       target: "/creer-gerer-pages/site-web/importer-le-site/"
       kind: page
       children: []
-  - title: Actualités
+  - title: Les Actualités
     target: "/creer-gerer-pages/actualites-1/"
     kind: page
     children:
