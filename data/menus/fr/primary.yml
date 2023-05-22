@@ -65,7 +65,7 @@ items:
     target: "/creer-gerer-ses-donnees/recherche/"
     kind: page
     children:
-    - title: Les chercheu.rs.ses
+    - title: Les chercheur.e.s
       target: "/creer-gerer-ses-donnees/recherche/chercheur-e-s/"
       kind: page
       children: []
