@@ -121,26 +121,6 @@ items:
       target: "/creer-gerer-pages/site-web/importer-le-site/"
       kind: page
       children: []
-  - title: Les Actualités
-    target: "/creer-gerer-pages/actualites-1/"
-    kind: page
-    children:
-    - title: Créer une actualité
-      target: "/creer-gerer-pages/actualites-1/creer-une-actualite/"
-      kind: page
-      children: []
-    - title: Modifier une actualité
-      target: "/creer-gerer-pages/actualites-1/modifier-une-actualite/"
-      kind: page
-      children: []
-    - title: Catégories d'actualités
-      target: "/creer-gerer-pages/actualites-1/categories-dactualites/"
-      kind: page
-      children: []
-    - title: Auteur.rice.s
-      target: "/creer-gerer-pages/actualites-1/auteurrices/"
-      kind: page
-      children: []
   - title: L'Arborescence
     target: "/creer-gerer-pages/arborescence/"
     kind: page
@@ -159,6 +139,26 @@ items:
       children: []
     - title: Publier une page
       target: "/creer-gerer-pages/arborescence/publier-une-page/"
+      kind: page
+      children: []
+  - title: Les Actualités
+    target: "/creer-gerer-pages/actualites-1/"
+    kind: page
+    children:
+    - title: Créer une actualité
+      target: "/creer-gerer-pages/actualites-1/creer-une-actualite/"
+      kind: page
+      children: []
+    - title: Modifier une actualité
+      target: "/creer-gerer-pages/actualites-1/modifier-une-actualite/"
+      kind: page
+      children: []
+    - title: Catégories d'actualités
+      target: "/creer-gerer-pages/actualites-1/categories-dactualites/"
+      kind: page
+      children: []
+    - title: Auteur.rice.s
+      target: "/creer-gerer-pages/actualites-1/auteurrices/"
       kind: page
       children: []
   - title: Les Menus
