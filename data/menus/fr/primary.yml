@@ -265,6 +265,10 @@ items:
       target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-formations/"
       kind: page
       children: []
+    - title: Ajouter une liste de personnes
+      target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-personnes/"
+      kind: page
+      children: []
   - title: Les blocs techniques
     target: "/creer-gerer-contenus/les-blocs-techniques/"
     kind: page
