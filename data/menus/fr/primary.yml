@@ -261,7 +261,7 @@ items:
       target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
       kind: page
       children: []
-    - title: Ajouter une liste de Formations
+    - title: Ajouter une liste de formations
       target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-formations/"
       kind: page
       children: []
