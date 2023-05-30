@@ -253,12 +253,12 @@ items:
       target: "/creer-gerer-contenus/les-blocs-de-listes/actualites-2/"
       kind: page
       children: []
-    - title: Ajouter une liste de personnes
-      target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-personnes/"
-      kind: page
-      children: []
     - title: Ajouter une liste d'organisations
       target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
+      kind: page
+      children: []
+    - title: Ajouter une liste de Formations
+      target: "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation-2/"
       kind: page
       children: []
   - title: Les blocs techniques
