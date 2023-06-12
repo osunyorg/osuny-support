@@ -41,6 +41,10 @@ items:
     target: "/gerer-un-site-web/menus-1/"
     kind: page
     children: []
+  - title: Statistiques de visite
+    target: "/gerer-un-site-web/statistiques-de-visite/"
+    kind: page
+    children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
