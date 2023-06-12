@@ -93,4 +93,8 @@ items:
     target: "/gerer-une-universite/pedagogie/"
     kind: page
     children: []
+  - title: Recherche
+    target: "/gerer-une-universite/recherche-1/"
+    kind: page
+    children: []
 
