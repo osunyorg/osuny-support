@@ -169,6 +169,10 @@ items:
       target: "/gerer-un-extranet/documents/ajouter-un-document/"
       kind: page
       children: []
+    - title: Publier un document
+      target: "/gerer-un-extranet/documents/publier-un-document/"
+      kind: page
+      children: []
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
