@@ -125,6 +125,10 @@ items:
       target: "/gerer-un-extranet/annuaire/gerer-les-acces/"
       kind: page
       children: []
+    - title: Modifier des personnes
+      target: "/gerer-un-extranet/annuaire/modifier-des-personnes/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
