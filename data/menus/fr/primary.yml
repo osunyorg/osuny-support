@@ -236,7 +236,11 @@ items:
   - title: Les blocs de listes
     target: "/composer-avec-les-blocs/les-blocs-de-listes-1/"
     kind: page
-    children: []
+    children:
+    - title: Liste de pages
+      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
+      kind: page
+      children: []
   - title: Les blocs techniques
     target: "/composer-avec-les-blocs/les-blocs-techniques-1/"
     kind: page
