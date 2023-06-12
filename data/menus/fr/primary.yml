@@ -88,5 +88,9 @@ items:
 - title: Gérer une université
   target: "/gerer-une-universite/"
   kind: page
-  children: []
+  children:
+  - title: Pédagogie
+    target: "/gerer-une-universite/pedagogie/"
+    kind: page
+    children: []
 
