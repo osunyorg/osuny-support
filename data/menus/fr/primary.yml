@@ -21,6 +21,10 @@ items:
     target: "/commencer-simplement/equipe-1/"
     kind: page
     children: []
+  - title: Multilingue
+    target: "/commencer-simplement/multilingue/"
+    kind: page
+    children: []
 - title: Gérer un site web
   target: "/gerer-un-site-web/"
   kind: page
