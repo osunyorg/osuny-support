@@ -164,7 +164,11 @@ items:
   - title: Documents
     target: "/gerer-un-extranet/documents/"
     kind: page
-    children: []
+    children:
+    - title: Ajouter un document
+      target: "/gerer-un-extranet/documents/ajouter-un-document/"
+      kind: page
+      children: []
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
