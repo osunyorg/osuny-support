@@ -64,7 +64,11 @@ items:
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
-  children: []
+  children:
+  - title: La gestion des blocs
+    target: "/composer-avec-les-blocs/la-gestion-des-blocs/"
+    kind: page
+    children: []
 - title: Gérer une université
   target: "/gerer-une-universite/"
   kind: page
