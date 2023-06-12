@@ -129,6 +129,10 @@ items:
       target: "/gerer-un-extranet/annuaire/modifier-des-personnes/"
       kind: page
       children: []
+    - title: Modifier une organisation
+      target: "/gerer-un-extranet/annuaire/modifier-une-organisation/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
