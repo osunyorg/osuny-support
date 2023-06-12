@@ -53,6 +53,10 @@ items:
     target: "/gerer-un-extranet/annuaire/"
     kind: page
     children: []
+  - title: Actualités
+    target: "/gerer-un-extranet/actualites-4/"
+    kind: page
+    children: []
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
