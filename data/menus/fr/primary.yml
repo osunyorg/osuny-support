@@ -73,6 +73,10 @@ items:
       target: "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
       kind: page
       children: []
+    - title: Publier une actualité
+      target: "/gerer-un-site-web/actualites-3/publier-une-actualite/"
+      kind: page
+      children: []
   - title: Menus
     target: "/gerer-un-site-web/menus-1/"
     kind: page
