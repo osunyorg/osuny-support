@@ -13,6 +13,10 @@ items:
     target: "/commencer-simplement/compte/"
     kind: page
     children: []
+  - title: Interface
+    target: "/commencer-simplement/interface/"
+    kind: page
+    children: []
 - title: Gérer un site web
   target: "/gerer-un-site-web/"
   kind: page
