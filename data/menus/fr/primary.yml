@@ -265,6 +265,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
       kind: page
       children: []
+    - title: Les définitions
+      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
+      kind: page
+      children: []
 - title: Gérer une université
   target: "/gerer-une-universite/"
   kind: page
