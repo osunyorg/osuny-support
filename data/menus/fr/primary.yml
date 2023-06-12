@@ -273,6 +273,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
       kind: page
       children: []
+    - title: Contact
+      target: "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
+      kind: page
+      children: []
 - title: Gérer une université
   target: "/gerer-une-universite/"
   kind: page
