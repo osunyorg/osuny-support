@@ -65,6 +65,10 @@ items:
       target: "/gerer-un-site-web/actualites-3/gestion-des-categories/"
       kind: page
       children: []
+    - title: Mettre en avant une actualité
+      target: "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
+      kind: page
+      children: []
   - title: Menus
     target: "/gerer-un-site-web/menus-1/"
     kind: page
