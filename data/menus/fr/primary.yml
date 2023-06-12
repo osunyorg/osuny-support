@@ -28,7 +28,11 @@ items:
 - title: Gérer un site web
   target: "/gerer-un-site-web/"
   kind: page
-  children: []
+  children:
+  - title: Pages
+    target: "/gerer-un-site-web/pages/"
+    kind: page
+    children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
