@@ -221,6 +221,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
       kind: page
       children: []
+    - title: Appel à actions
+      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
+      kind: page
+      children: []
   - title: Les blocs de listes
     target: "/composer-avec-les-blocs/les-blocs-de-listes-1/"
     kind: page
