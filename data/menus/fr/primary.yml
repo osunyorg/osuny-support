@@ -217,6 +217,10 @@ items:
       target: "/gerer-une-universite/pedagogie/les-enseignantes/"
       kind: page
       children: []
+    - title: Les écoles
+      target: "/gerer-une-universite/pedagogie/les-ecoles/"
+      kind: page
+      children: []
   - title: Recherche
     target: "/gerer-une-universite/recherche-1/"
     kind: page
