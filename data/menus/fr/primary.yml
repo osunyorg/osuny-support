@@ -13,4 +13,8 @@ items:
   target: "/gerer-un-site-web/"
   kind: page
   children: []
+- title: Gérer un extranet
+  target: "/gerer-un-extranet/"
+  kind: page
+  children: []
 
