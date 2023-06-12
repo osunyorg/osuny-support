@@ -48,7 +48,11 @@ items:
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
-  children: []
+  children:
+  - title: Annuaire
+    target: "/gerer-un-extranet/annuaire/"
+    kind: page
+    children: []
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
