@@ -136,7 +136,11 @@ items:
   - title: Actualités
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
-    children: []
+    children:
+    - title: Créer une actualité
+      target: "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
+      kind: page
+      children: []
   - title: Documents
     target: "/gerer-un-extranet/documents/"
     kind: page
