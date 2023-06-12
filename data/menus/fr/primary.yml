@@ -253,6 +253,10 @@ items:
       target: "/gerer-une-universite/recherche-1/les-revues-scientifiques/"
       kind: page
       children: []
+    - title: Les thèses
+      target: "/gerer-une-universite/recherche-1/les-theses/"
+      kind: page
+      children: []
   - title: Administration
     target: "/gerer-une-universite/administration-1/"
     kind: page
