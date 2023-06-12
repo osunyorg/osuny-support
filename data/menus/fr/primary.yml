@@ -1,4 +1,8 @@
 ---
 title: Primary
-items: []
+items:
+- title: Découvrir Osuny
+  target: "/decouvrir-osuny/"
+  kind: page
+  children: []
 
