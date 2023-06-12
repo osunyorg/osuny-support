@@ -61,6 +61,10 @@ items:
       target: "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
       kind: page
       children: []
+    - title: Gestion des catégories
+      target: "/gerer-un-site-web/actualites-3/gestion-des-categories/"
+      kind: page
+      children: []
   - title: Menus
     target: "/gerer-un-site-web/menus-1/"
     kind: page
