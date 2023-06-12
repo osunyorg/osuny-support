@@ -21,4 +21,8 @@ items:
   target: "/composer-avec-les-blocs/"
   kind: page
   children: []
+- title: Gérer une université
+  target: "/gerer-une-universite/"
+  kind: page
+  children: []
 
