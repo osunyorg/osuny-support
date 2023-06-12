@@ -245,8 +245,8 @@ items:
       target: "/gerer-une-universite/recherche-1/les-laboratoires/"
       kind: page
       children: []
-    - title: Les formations
-      target: "/gerer-une-universite/pedagogie/les-formations/"
+    - title: Les publications
+      target: "/gerer-une-universite/recherche-1/les-publications/"
       kind: page
       children: []
     - title: Les diplômes
