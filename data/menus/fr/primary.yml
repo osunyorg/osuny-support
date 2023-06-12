@@ -249,8 +249,8 @@ items:
       target: "/gerer-une-universite/recherche-1/les-publications/"
       kind: page
       children: []
-    - title: Les diplômes
-      target: "/gerer-une-universite/pedagogie/les-diplomes/"
+    - title: Les revues scientifiques
+      target: "/gerer-une-universite/recherche-1/les-revues-scientifiques/"
       kind: page
       children: []
   - title: Administration
