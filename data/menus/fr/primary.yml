@@ -153,6 +153,10 @@ items:
       target: "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
       kind: page
       children: []
+    - title: Publier une actualité
+      target: "/gerer-un-site-web/actualites-3/publier-une-actualite/"
+      kind: page
+      children: []
   - title: Documents
     target: "/gerer-un-extranet/documents/"
     kind: page
