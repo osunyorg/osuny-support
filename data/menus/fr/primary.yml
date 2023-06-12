@@ -97,4 +97,8 @@ items:
     target: "/gerer-une-universite/recherche-1/"
     kind: page
     children: []
+  - title: Administration
+    target: "/gerer-une-universite/administration-1/"
+    kind: page
+    children: []
 
