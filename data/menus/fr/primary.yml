@@ -229,6 +229,10 @@ items:
       target: "/gerer-une-universite/pedagogie/les-diplomes/"
       kind: page
       children: []
+    - title: Les alumni
+      target: "/gerer-une-universite/pedagogie/les-alumni/"
+      kind: page
+      children: []
   - title: Recherche
     target: "/gerer-une-universite/recherche-1/"
     kind: page
