@@ -249,6 +249,10 @@ items:
       target: "/gerer-une-universite/pedagogie/les-formations/"
       kind: page
       children: []
+    - title: Les diplômes
+      target: "/gerer-une-universite/pedagogie/les-diplomes/"
+      kind: page
+      children: []
   - title: Administration
     target: "/gerer-une-universite/administration-1/"
     kind: page
