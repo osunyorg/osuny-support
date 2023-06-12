@@ -8,7 +8,11 @@ items:
 - title: Commencer simplement
   target: "/commencer-simplement/"
   kind: page
-  children: []
+  children:
+  - title: Compte
+    target: "/commencer-simplement/compte/"
+    kind: page
+    children: []
 - title: Gérer un site web
   target: "/gerer-un-site-web/"
   kind: page
