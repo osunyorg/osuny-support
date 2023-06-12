@@ -17,4 +17,8 @@ items:
   target: "/gerer-un-extranet/"
   kind: page
   children: []
+- title: Composer avec les blocs
+  target: "/composer-avec-les-blocs/"
+  kind: page
+  children: []
 
