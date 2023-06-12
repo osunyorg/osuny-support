@@ -93,6 +93,10 @@ items:
       target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
       kind: page
       children: []
+    - title: Ajouter des pages au menu
+      target: "/gerer-un-site-web/menus-1/ajouter-des-pages-au-menu/"
+      kind: page
+      children: []
   - title: Statistiques de visite
     target: "/gerer-un-site-web/statistiques-de-visite/"
     kind: page
