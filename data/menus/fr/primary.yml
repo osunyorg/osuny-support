@@ -84,7 +84,11 @@ items:
   - title: Menus
     target: "/gerer-un-site-web/menus-1/"
     kind: page
-    children: []
+    children:
+    - title: Créer un menu
+      target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
+      kind: page
+      children: []
   - title: Statistiques de visite
     target: "/gerer-un-site-web/statistiques-de-visite/"
     kind: page
