@@ -33,7 +33,7 @@ items:
     target: "/gerer-un-site-web/pages/"
     kind: page
     children: []
-  - title: Équipe
+  - title: Actualités
     target: "/gerer-un-site-web/actualites-3/"
     kind: page
     children: []
