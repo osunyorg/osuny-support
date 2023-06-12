@@ -141,6 +141,10 @@ items:
       target: "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
       kind: page
       children: []
+    - title: Gestion des catégories
+      target: "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
+      kind: page
+      children: []
   - title: Documents
     target: "/gerer-un-extranet/documents/"
     kind: page
