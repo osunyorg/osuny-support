@@ -49,6 +49,10 @@ items:
       target: "/gerer-un-site-web/pages/publier-une-page-1/"
       kind: page
       children: []
+    - title: Modifier une page
+      target: "/gerer-un-site-web/pages/modifier-une-page-1/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/gerer-un-site-web/actualites-3/"
     kind: page
