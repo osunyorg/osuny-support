@@ -192,7 +192,11 @@ items:
   - title: Les blocs de base
     target: "/composer-avec-les-blocs/les-blocs-de-base-1/"
     kind: page
-    children: []
+    children:
+    - title: Chapitre
+      target: "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
+      kind: page
+      children: []
   - title: Les blocs narratifs
     target: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
     kind: page
