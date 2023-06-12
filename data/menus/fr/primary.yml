@@ -113,6 +113,10 @@ items:
       target: "/gerer-un-extranet/annuaire/creer-des-personnes/"
       kind: page
       children: []
+    - title: Créer des organisations
+      target: "/gerer-un-extranet/annuaire/creer-des-organisations/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
