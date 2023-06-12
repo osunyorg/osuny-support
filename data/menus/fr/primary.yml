@@ -9,4 +9,8 @@ items:
   target: "/commencer-simplement/"
   kind: page
   children: []
+- title: Gérer un site web
+  target: "/gerer-un-site-web/"
+  kind: page
+  children: []
 
