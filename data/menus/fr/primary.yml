@@ -205,6 +205,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
       kind: page
       children: []
+    - title: Tableau
+      target: "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
+      kind: page
+      children: []
   - title: Les blocs narratifs
     target: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
     kind: page
