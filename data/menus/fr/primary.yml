@@ -33,6 +33,10 @@ items:
     target: "/gerer-un-site-web/pages/"
     kind: page
     children: []
+  - title: Équipe
+    target: "/gerer-un-site-web/actualites-3/"
+    kind: page
+    children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
