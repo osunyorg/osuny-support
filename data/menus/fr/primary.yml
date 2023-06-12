@@ -145,6 +145,10 @@ items:
       target: "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
       kind: page
       children: []
+    - title: Mettre en avant une actualité
+      target: "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
+      kind: page
+      children: []
   - title: Documents
     target: "/gerer-un-extranet/documents/"
     kind: page
