@@ -260,7 +260,11 @@ items:
   - title: Les blocs techniques
     target: "/composer-avec-les-blocs/les-blocs-techniques-1/"
     kind: page
-    children: []
+    children:
+    - title: Les fichiers
+      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
+      kind: page
+      children: []
 - title: Gérer une université
   target: "/gerer-une-universite/"
   kind: page
