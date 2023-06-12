@@ -37,6 +37,10 @@ items:
       target: "/gerer-un-site-web/pages/larborescence/"
       kind: page
       children: []
+    - title: Créer une page
+      target: "/gerer-un-site-web/pages/creer-une-page-1/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/gerer-un-site-web/actualites-3/"
     kind: page
