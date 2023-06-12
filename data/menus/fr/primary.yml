@@ -173,8 +173,8 @@ items:
       target: "/gerer-un-extranet/documents/publier-un-document/"
       kind: page
       children: []
-    - title: Publier une actualité
-      target: "/gerer-un-extranet/actualites-4/publier-une-actualite-1/"
+    - title: Gestion des catégories
+      target: "/gerer-un-extranet/documents/gestion-des-categories-3/"
       kind: page
       children: []
 - title: Composer avec les blocs
