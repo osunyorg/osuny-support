@@ -236,7 +236,11 @@ items:
   - title: Recherche
     target: "/gerer-une-universite/recherche-1/"
     kind: page
-    children: []
+    children:
+    - title: Les chercheur.e.s
+      target: "/gerer-une-universite/recherche-1/les-chercheures/"
+      kind: page
+      children: []
   - title: Administration
     target: "/gerer-une-universite/administration-1/"
     kind: page
