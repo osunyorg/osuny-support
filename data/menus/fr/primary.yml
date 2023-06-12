@@ -188,7 +188,11 @@ items:
   - title: La gestion des blocs
     target: "/composer-avec-les-blocs/la-gestion-des-blocs/"
     kind: page
-    children: []
+    children:
+    - title: Chapitre
+      target: "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
+      kind: page
+      children: []
   - title: Les blocs de base
     target: "/composer-avec-les-blocs/les-blocs-de-base-1/"
     kind: page
