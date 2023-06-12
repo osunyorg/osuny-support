@@ -212,7 +212,11 @@ items:
   - title: Pédagogie
     target: "/gerer-une-universite/pedagogie/"
     kind: page
-    children: []
+    children:
+    - title: Les enseignant.e.s
+      target: "/gerer-une-universite/pedagogie/les-enseignantes/"
+      kind: page
+      children: []
   - title: Recherche
     target: "/gerer-une-universite/recherche-1/"
     kind: page
