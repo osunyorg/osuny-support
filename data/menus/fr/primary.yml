@@ -241,6 +241,10 @@ items:
       target: "/gerer-une-universite/recherche-1/les-chercheures/"
       kind: page
       children: []
+    - title: Les laboratoires
+      target: "/gerer-une-universite/recherche-1/les-laboratoires/"
+      kind: page
+      children: []
   - title: Administration
     target: "/gerer-une-universite/administration-1/"
     kind: page
