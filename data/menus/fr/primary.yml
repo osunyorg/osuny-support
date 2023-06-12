@@ -121,6 +121,10 @@ items:
       target: "/gerer-un-extranet/annuaire/gestion-des-categories-1/"
       kind: page
       children: []
+    - title: Gérer les accès
+      target: "/gerer-un-extranet/annuaire/gerer-les-acces/"
+      kind: page
+      children: []
   - title: Actualités
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
