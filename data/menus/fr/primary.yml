@@ -260,5 +260,9 @@ items:
   - title: Administration
     target: "/gerer-une-universite/administration-1/"
     kind: page
-    children: []
+    children:
+    - title: Qualiopi
+      target: "/gerer-une-universite/administration-1/qualiopi/"
+      kind: page
+      children: []
 
