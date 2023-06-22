@@ -45,10 +45,6 @@ items:
       target: "/gerer-un-site-web/pages/avant-de-publier/"
       kind: page
       children: []
-    - title: Publier une page
-      target: "/gerer-un-site-web/pages/publier-une-page-1/"
-      kind: page
-      children: []
     - title: Modifier une page
       target: "/gerer-un-site-web/pages/modifier-une-page-1/"
       kind: page
