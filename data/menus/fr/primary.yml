@@ -273,7 +273,7 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
       kind: page
       children: []
-- title: Gérer une université
+- title: Université
   target: "/gerer-une-universite/"
   kind: page
   children:
