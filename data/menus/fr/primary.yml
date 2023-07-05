@@ -69,10 +69,6 @@ items:
       target: "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
       kind: page
       children: []
-    - title: Publier une actualité
-      target: "/gerer-un-site-web/actualites-3/publier-une-actualite/"
-      kind: page
-      children: []
     - title: Modifier une actualité
       target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
       kind: page
@@ -147,10 +143,6 @@ items:
       children: []
     - title: Avant de publier
       target: "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
-      kind: page
-      children: []
-    - title: Publier une actualité
-      target: "/gerer-un-site-web/actualites-3/publier-une-actualite/"
       kind: page
       children: []
     - title: Modifier une actualité
