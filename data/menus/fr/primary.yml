@@ -86,7 +86,7 @@ items:
       kind: page
       children: []
     - title: Ajouter des pages au menu
-      target: "/gerer-un-site-web/menus-1/pages-reliees-menu/"
+      target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
       kind: page
       children: []
     - title: Modifier un menu
