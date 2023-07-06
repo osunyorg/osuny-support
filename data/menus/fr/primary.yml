@@ -85,7 +85,7 @@ items:
       target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
       kind: page
       children: []
-    - title: Ajouter des pages au menu
+    - title: Relier des éléments au menu
       target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
       kind: page
       children: []
