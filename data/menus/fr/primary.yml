@@ -180,7 +180,11 @@ items:
   - title: La gestion des blocs
     target: "/composer-avec-les-blocs/composer-une-page/"
     kind: page
-    children: []
+    children:
+    - title: Les titres
+      target: "/composer-avec-les-blocs/composer-une-page/les-titres/"
+      kind: page
+      children: []
   - title: Les blocs de base
     target: "/composer-avec-les-blocs/les-blocs-de-base-1/"
     kind: page
