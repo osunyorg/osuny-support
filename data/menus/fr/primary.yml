@@ -106,7 +106,7 @@ items:
     kind: page
     children:
     - title: Créer des personnes
-      target: "/gerer-un-extranet/annuaire/creer-des-personnes/"
+      target: "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
       kind: page
       children: []
     - title: Créer des organisations
