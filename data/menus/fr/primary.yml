@@ -110,7 +110,7 @@ items:
       kind: page
       children: []
     - title: Créer des organisations
-      target: "/gerer-un-extranet/annuaire/creer-des-organisations/"
+      target: "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
       kind: page
       children: []
     - title: Gestion des catégories
