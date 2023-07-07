@@ -105,16 +105,16 @@ items:
     target: "/gerer-un-extranet/annuaire/"
     kind: page
     children:
+    - title: Fonctionnement
+      target: "/gerer-un-extranet/annuaire/fonctionnement-1/"
+      kind: page
+      children: []
     - title: Créer des personnes
       target: "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
       kind: page
       children: []
     - title: Créer des organisations
       target: "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
-      kind: page
-      children: []
-    - title: Gestion des catégories
-      target: "/gerer-un-extranet/annuaire/gestion-des-categories-1/"
       kind: page
       children: []
     - title: Gérer les accès
