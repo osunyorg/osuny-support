@@ -2,7 +2,7 @@
 title: Primary
 items:
 - title: Découvrir Osuny
-  target: "/decouvrir-osuny/"
+  target: "/commencer-simplement/decouvrir-osuny/"
   kind: page
   children: []
 - title: Commencer simplement
