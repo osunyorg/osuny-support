@@ -5,6 +5,10 @@ items:
   target: "/commencer-simplement/"
   kind: page
   children:
+  - title: Découvrir Osuny
+    target: "/commencer-simplement/decouvrir-osuny/"
+    kind: page
+    children: []
   - title: Compte
     target: "/commencer-simplement/compte/"
     kind: page
