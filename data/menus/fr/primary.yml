@@ -25,10 +25,6 @@ items:
     target: "/commencer-simplement/multilingue/"
     kind: page
     children: []
-- title: Découvrir Osuny
-  target: "/commencer-simplement/decouvrir-osuny/"
-  kind: page
-  children: []
 - title: Gérer un site web
   target: "/gerer-un-site-web/"
   kind: page
