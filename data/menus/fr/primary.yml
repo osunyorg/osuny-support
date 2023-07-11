@@ -13,10 +13,6 @@ items:
     target: "/commencer-simplement/compte/"
     kind: page
     children: []
-  - title: Interface
-    target: "/commencer-simplement/interface/"
-    kind: page
-    children: []
   - title: Équipe
     target: "/aller-plus-loin/gerer-une-universite/equipe-1/"
     kind: page
