@@ -21,10 +21,6 @@ items:
     target: "/aller-plus-loin/gerer-une-universite/equipe-1/"
     kind: page
     children: []
-  - title: Multilingue
-    target: "/aller-plus-loin/gerer-une-universite/multilingue/"
-    kind: page
-    children: []
 - title: Gérer un site web
   target: "/gerer-un-site-web/"
   kind: page
@@ -287,6 +283,10 @@ items:
     children:
     - title: Équipe
       target: "/aller-plus-loin/gerer-une-universite/equipe-1/"
+      kind: page
+      children: []
+    - title: Multilingue
+      target: "/aller-plus-loin/gerer-une-universite/multilingue/"
       kind: page
       children: []
   - title: Pédagogie
