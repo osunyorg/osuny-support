@@ -337,4 +337,8 @@ items:
       target: "/aller-plus-loin/administration-1/qualiopi/"
       kind: page
       children: []
+- title: Aller plus loin
+  target: "/aller-plus-loin/"
+  kind: page
+  children: []
 
