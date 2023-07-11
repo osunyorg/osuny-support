@@ -284,7 +284,11 @@ items:
   - title: Université
     target: "/aller-plus-loin/gerer-une-universite/"
     kind: page
-    children: []
+    children:
+    - title: Équipe
+      target: "/aller-plus-loin/gerer-une-universite/equipe-1/"
+      kind: page
+      children: []
   - title: Pédagogie
     target: "/aller-plus-loin/pedagogie/"
     kind: page
