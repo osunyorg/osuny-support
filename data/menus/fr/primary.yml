@@ -18,11 +18,11 @@ items:
     kind: page
     children: []
   - title: Équipe
-    target: "/commencer-simplement/equipe-1/"
+    target: "/aller-plus-loin/gerer-une-universite/equipe-1/"
     kind: page
     children: []
   - title: Multilingue
-    target: "/commencer-simplement/multilingue/"
+    target: "/aller-plus-loin/gerer-une-universite/multilingue/"
     kind: page
     children: []
 - title: Gérer un site web
