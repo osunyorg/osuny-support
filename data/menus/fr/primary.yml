@@ -278,7 +278,7 @@ items:
       kind: page
       children: []
 - title: Université
-  target: "/gerer-une-universite/"
+  target: "/aller-plus-loin/gerer-une-universite/"
   kind: page
   children:
   - title: Pédagogie
@@ -330,11 +330,11 @@ items:
       kind: page
       children: []
   - title: Administration
-    target: "/gerer-une-universite/administration-1/"
+    target: "/aller-plus-loin/administration-1/"
     kind: page
     children:
     - title: Qualiopi
-      target: "/gerer-une-universite/administration-1/qualiopi/"
+      target: "/aller-plus-loin/administration-1/qualiopi/"
       kind: page
       children: []
 
