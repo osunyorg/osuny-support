@@ -282,51 +282,51 @@ items:
   kind: page
   children:
   - title: Pédagogie
-    target: "/gerer-une-universite/pedagogie/"
+    target: "/aller-plus-loin/pedagogie/"
     kind: page
     children:
     - title: Les enseignant.e.s
-      target: "/gerer-une-universite/pedagogie/les-enseignantes/"
+      target: "/aller-plus-loin/pedagogie/les-enseignantes/"
       kind: page
       children: []
     - title: Les écoles
-      target: "/gerer-une-universite/pedagogie/les-ecoles/"
+      target: "/aller-plus-loin/pedagogie/les-ecoles/"
       kind: page
       children: []
     - title: Les formations
-      target: "/gerer-une-universite/pedagogie/les-formations/"
+      target: "/aller-plus-loin/pedagogie/les-formations/"
       kind: page
       children: []
     - title: Les diplômes
-      target: "/gerer-une-universite/pedagogie/les-diplomes/"
+      target: "/aller-plus-loin/pedagogie/les-diplomes/"
       kind: page
       children: []
     - title: Les alumni
-      target: "/gerer-une-universite/pedagogie/les-alumni/"
+      target: "/aller-plus-loin/pedagogie/les-alumni/"
       kind: page
       children: []
   - title: Recherche
-    target: "/gerer-une-universite/recherche-1/"
+    target: "/aller-plus-loin/recherche-1/"
     kind: page
     children:
     - title: Les chercheur.e.s
-      target: "/gerer-une-universite/recherche-1/les-chercheures/"
+      target: "/aller-plus-loin/recherche-1/les-chercheures/"
       kind: page
       children: []
     - title: Les laboratoires
-      target: "/gerer-une-universite/recherche-1/les-laboratoires/"
+      target: "/aller-plus-loin/recherche-1/les-laboratoires/"
       kind: page
       children: []
     - title: Les publications
-      target: "/gerer-une-universite/recherche-1/les-publications/"
+      target: "/aller-plus-loin/recherche-1/les-publications/"
       kind: page
       children: []
     - title: Les revues scientifiques
-      target: "/gerer-une-universite/recherche-1/les-revues-scientifiques/"
+      target: "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
       kind: page
       children: []
     - title: Les thèses
-      target: "/gerer-une-universite/recherche-1/les-theses/"
+      target: "/aller-plus-loin/recherche-1/les-theses/"
       kind: page
       children: []
   - title: Administration
