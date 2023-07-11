@@ -277,10 +277,6 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
       kind: page
       children: []
-- title: Université
-  target: "/aller-plus-loin/gerer-une-universite/"
-  kind: page
-  children: []
 - title: Aller plus loin
   target: "/aller-plus-loin/"
   kind: page
