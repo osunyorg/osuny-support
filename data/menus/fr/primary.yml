@@ -305,6 +305,10 @@ items:
       target: "/aller-plus-loin/pedagogie/les-alumni/"
       kind: page
       children: []
+- title: Aller plus loin
+  target: "/aller-plus-loin/"
+  kind: page
+  children:
   - title: Recherche
     target: "/aller-plus-loin/recherche-1/"
     kind: page
@@ -337,8 +341,4 @@ items:
       target: "/aller-plus-loin/administration-1/qualiopi/"
       kind: page
       children: []
-- title: Aller plus loin
-  target: "/aller-plus-loin/"
-  kind: page
-  children: []
 
