@@ -9,7 +9,7 @@ items:
     target: "/commencer-simplement/decouvrir-osuny/"
     kind: page
     children: []
-  - title: Compte
+  - title: Gérer son compte
     target: "/commencer-simplement/compte/"
     kind: page
     children: []
