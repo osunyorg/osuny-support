@@ -149,16 +149,8 @@ items:
       target: "/gerer-un-extranet/documents/ajouter-un-document/"
       kind: page
       children: []
-    - title: Publier un document
-      target: "/gerer-un-extranet/documents/publier-un-document/"
-      kind: page
-      children: []
     - title: Gestion des catégories
       target: "/gerer-un-extranet/documents/gestion-des-categories-3/"
-      kind: page
-      children: []
-    - title: Gestion des types
-      target: "/gerer-un-extranet/documents/gestion-des-types/"
       kind: page
       children: []
 - title: Composer avec les blocs
@@ -270,15 +262,15 @@ items:
   kind: page
   children:
   - title: Université
-    target: "/aller-plus-loin/gerer-une-universite/"
+    target: "/aller-plus-loin/universite/"
     kind: page
     children:
     - title: Équipe
-      target: "/aller-plus-loin/gerer-une-universite/equipe-1/"
+      target: "/aller-plus-loin/universite/equipe-1/"
       kind: page
       children: []
     - title: Multilingue
-      target: "/aller-plus-loin/gerer-une-universite/multilingue/"
+      target: "/aller-plus-loin/universite/multilingue/"
       kind: page
       children: []
   - title: Pédagogie
