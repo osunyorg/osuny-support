@@ -185,6 +185,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
       kind: page
       children: []
+    - title: Son
+      target: "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
+      kind: page
+      children: []
     - title: Tableau
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
       kind: page
