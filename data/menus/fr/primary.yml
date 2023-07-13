@@ -153,10 +153,6 @@ items:
       target: "/gerer-un-extranet/documents/gestion-des-categories-3/"
       kind: page
       children: []
-    - title: Gestion des types
-      target: "/gerer-un-extranet/documents/gestion-des-types/"
-      kind: page
-      children: []
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
