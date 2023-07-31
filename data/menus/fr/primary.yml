@@ -233,16 +233,16 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
       kind: page
       children: []
+    - title: Liste de personnes
+      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
+      kind: page
+      children: []
     - title: Liste d'organisations
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
       kind: page
       children: []
     - title: Liste de formations
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
-      kind: page
-      children: []
-    - title: Liste de personnes
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
       kind: page
       children: []
   - title: Les blocs techniques
