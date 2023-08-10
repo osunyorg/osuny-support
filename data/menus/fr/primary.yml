@@ -206,7 +206,7 @@ items:
       kind: page
       children: []
     - title: Fonctionnalités
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/bloc-fonctionnalites/"
+      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
       kind: page
       children: []
     - title: Galerie d'images
