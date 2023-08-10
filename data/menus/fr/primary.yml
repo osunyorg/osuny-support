@@ -221,6 +221,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
       kind: page
       children: []
+    - title: Fonctionnalités
+      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/bloc-fonctionnalites/"
+      kind: page
+      children: []
   - title: Les blocs de listes
     target: "/composer-avec-les-blocs/les-blocs-de-listes-1/"
     kind: page
