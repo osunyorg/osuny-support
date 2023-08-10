@@ -205,6 +205,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
       kind: page
       children: []
+    - title: Fonctionnalités
+      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/bloc-fonctionnalites/"
+      kind: page
+      children: []
     - title: Galerie d'images
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
       kind: page
@@ -219,10 +223,6 @@ items:
       children: []
     - title: Frise chronologique
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
-      kind: page
-      children: []
-    - title: Fonctionnalités
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/bloc-fonctionnalites/"
       kind: page
       children: []
   - title: Les blocs de listes
