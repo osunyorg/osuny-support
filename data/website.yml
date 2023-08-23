@@ -5,6 +5,6 @@ external_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "plausible.io"
-  - "peertube.my.noesya.coop"
+  - "player.vimeo.com"
   - "www.youtube.com"
   - "www.google.com"
