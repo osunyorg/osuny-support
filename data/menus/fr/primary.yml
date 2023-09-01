@@ -29,6 +29,10 @@ items:
       target: "/gerer-un-site-web/sites/sites-statiques/"
       kind: page
       children: []
+    - title: Statistiques de visite
+      target: "/gerer-un-site-web/sites/statistiques-de-visite/"
+      kind: page
+      children: []
   - title: Pages
     target: "/gerer-un-site-web/pages/"
     kind: page
