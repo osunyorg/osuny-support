@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: Gérer son compte
-    target: "/commencer-simplement/compte/"
+    target: "/commencer-simplement/demarrer-rapidement/"
     kind: page
     children: []
 - title: Gérer un site web
