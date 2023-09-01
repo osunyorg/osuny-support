@@ -20,7 +20,11 @@ items:
   - title: Sites
     target: "/gerer-un-site-web/sites/"
     kind: page
-    children: []
+    children:
+    - title: Fondamentaux
+      target: "/gerer-un-site-web/sites/fondamentaux/"
+      kind: page
+      children: []
   - title: Pages
     target: "/gerer-un-site-web/pages/"
     kind: page
