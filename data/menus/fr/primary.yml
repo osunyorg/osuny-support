@@ -86,7 +86,7 @@ items:
       kind: page
       children: []
   - title: Statistiques de visite
-    target: "/gerer-un-site-web/statistiques-de-visite/"
+    target: "/gerer-un-site-web/sites/statistiques-de-visite/"
     kind: page
     children: []
 - title: Gérer un extranet
