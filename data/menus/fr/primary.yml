@@ -17,6 +17,10 @@ items:
   target: "/gerer-un-site-web/"
   kind: page
   children:
+  - title: Sites
+    target: "/gerer-un-site-web/sites/"
+    kind: page
+    children: []
   - title: Pages
     target: "/gerer-un-site-web/pages/"
     kind: page
@@ -83,10 +87,6 @@ items:
       children: []
   - title: Statistiques de visite
     target: "/gerer-un-site-web/statistiques-de-visite/"
-    kind: page
-    children: []
-  - title: Sites
-    target: "/gerer-un-site-web/sites/"
     kind: page
     children: []
 - title: Gérer un extranet
