@@ -5,12 +5,12 @@ items:
   target: "/commencer-simplement/"
   kind: page
   children:
-  - title: Découvrir Osuny
-    target: "/commencer-simplement/decouvrir-osuny/"
+  - title: Démarrer rapidement
+    target: "/commencer-simplement/demarrer-rapidement/"
     kind: page
     children: []
-  - title: Gérer son compte
-    target: "/commencer-simplement/demarrer-rapidement/"
+  - title: Découvrir Osuny
+    target: "/commencer-simplement/decouvrir-osuny/"
     kind: page
     children: []
 - title: Gérer un site web
