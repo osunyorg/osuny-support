@@ -101,6 +101,10 @@ items:
   target: "/gerer-un-extranet/"
   kind: page
   children:
+  - title: Extranet
+    target: "/gerer-un-extranet/extranet-1/"
+    kind: page
+    children: []
   - title: Annuaire
     target: "/gerer-un-extranet/annuaire/"
     kind: page
