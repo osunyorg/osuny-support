@@ -109,6 +109,10 @@ items:
       target: "/gerer-un-extranet/extranet-1/fondamentaux-1/"
       kind: page
       children: []
+    - title: Types d'extranets
+      target: "/gerer-un-extranet/extranet-1/types-dextranets/"
+      kind: page
+      children: []
   - title: Annuaire
     target: "/gerer-un-extranet/annuaire/"
     kind: page
