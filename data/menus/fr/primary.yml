@@ -97,10 +97,6 @@ items:
       target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
       kind: page
       children: []
-    - title: Menu automatique
-      target: "/gerer-un-site-web/menus-1/menu-automatique/"
-      kind: page
-      children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
