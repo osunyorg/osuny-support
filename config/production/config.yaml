@@ -6,3 +6,8 @@ baseURL: https://support.osuny.org
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
 
+## DEUXFLEURS
+deployment:
+  targets:
+    - name: "production"
+      URL: "s3://support.osuny.org?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
