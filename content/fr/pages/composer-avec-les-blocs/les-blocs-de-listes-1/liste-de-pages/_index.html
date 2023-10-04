@@ -154,8 +154,61 @@ contents:
   - kind: block
     template: pages
     title: >-
-      Exemple page principale
+      Exemple sélection de pages
     position: 1
+    data:
+      show_main_description: false
+      show_descriptions: true
+      show_images: true
+      layout: cards
+      pages:
+        - page: "/composer-avec-les-blocs/les-blocs-de-base-1/"
+          slug: "/composer-avec-les-blocs/les-blocs-de-base-1/"
+        - page: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
+          slug: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
+        - page: "/composer-avec-les-blocs/les-blocs-techniques-1/"
+          slug: "/composer-avec-les-blocs/les-blocs-techniques-1/"
+      elements:
+        - title: >-
+            Les blocs de base
+          summary: >-
+            
+          slug: "les-blocs-de-base-1"
+          path: "/composer-avec-les-blocs/les-blocs-de-base-1/"
+          url: "/composer-avec-les-blocs/les-blocs-de-base-1/"
+          bodyclass: >-
+            
+        - title: >-
+            Les blocs narratifs
+          summary: >-
+            
+          slug: "les-blocs-narratifs-1"
+          path: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
+          url: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
+          bodyclass: >-
+            
+        - title: >-
+            Les blocs techniques
+          summary: >-
+            
+          slug: "les-blocs-techniques-1"
+          path: "/composer-avec-les-blocs/les-blocs-techniques-1/"
+          url: "/composer-avec-les-blocs/les-blocs-techniques-1/"
+          bodyclass: >-
+            
+
+
+
+  - kind: heading
+    title: >-
+      Choisissez les options d'affichage
+    position: 3
+    level: 2
+  - kind: block
+    template: pages
+    title: >-
+      Exemple page principale
+    position: 0
     data:
       page: /gerer-un-site-web/
       show_main_description: true
@@ -211,63 +264,10 @@ contents:
 
 
   - kind: block
-    template: pages
-    title: >-
-      Exemple sélection de pages
-    position: 2
-    data:
-      show_main_description: false
-      show_descriptions: true
-      show_images: true
-      layout: cards
-      pages:
-        - page: "/composer-avec-les-blocs/les-blocs-de-base-1/"
-          slug: "/composer-avec-les-blocs/les-blocs-de-base-1/"
-        - page: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
-          slug: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
-        - page: "/composer-avec-les-blocs/les-blocs-techniques-1/"
-          slug: "/composer-avec-les-blocs/les-blocs-techniques-1/"
-      elements:
-        - title: >-
-            Les blocs de base
-          summary: >-
-            
-          slug: "les-blocs-de-base-1"
-          path: "/composer-avec-les-blocs/les-blocs-de-base-1/"
-          url: "/composer-avec-les-blocs/les-blocs-de-base-1/"
-          bodyclass: >-
-            
-        - title: >-
-            Les blocs narratifs
-          summary: >-
-            
-          slug: "les-blocs-narratifs-1"
-          path: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
-          url: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
-          bodyclass: >-
-            
-        - title: >-
-            Les blocs techniques
-          summary: >-
-            
-          slug: "les-blocs-techniques-1"
-          path: "/composer-avec-les-blocs/les-blocs-techniques-1/"
-          url: "/composer-avec-les-blocs/les-blocs-techniques-1/"
-          bodyclass: >-
-            
-
-
-
-  - kind: heading
-    title: >-
-      Choisissez les options d'affichage
-    position: 3
-    level: 2
-  - kind: block
     template: chapter
     title: >-
       
-    position: 0
+    position: 1
     data:
       layout: no_background
       text: >-
@@ -349,6 +349,25 @@ contents:
       Tutoriel vidéo
     position: 5
     level: 2
+  - kind: block
+    template: video
+    title: >-
+      
+    position: 0
+    data:
+      url: >-
+        https://vimeo.com/857074923
+
+      video_title: >-
+        
+
+      video_iframe: >-
+        <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/857074923" title=""></iframe>
+      transcription: >-
+        Tutoriel vidéo : explication bloc de contenu liste de pages.
+
+
+
 
   - kind: heading
     title: >-
@@ -385,25 +404,6 @@ contents:
             https://example.osuny.org/fr/blocks/blocs-de-liste/pages/
 
           target_blank: true
-
-
-
-  - kind: block
-    template: video
-    title: >-
-      
-    position: 1
-    data:
-      url: >-
-        https://vimeo.com/857074923
-
-      video_title: >-
-        
-
-      video_iframe: >-
-        <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/857074923" title=""></iframe>
-      transcription: >-
-        Tutoriel vidéo : explication bloc de contenu liste de pages.
 
 
 
