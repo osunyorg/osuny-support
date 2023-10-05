@@ -1,7 +1,8 @@
 ---
-title: >
-  Centre d'aide d'Osuny
+title: "Centre d'aide d'Osuny"
 breadcrumb_title: "Accueil"
+breadcrumbs:
+  - title: "Centre d'aide d'Osuny"
 url: "/"
 
 full_width: true
@@ -18,14 +19,14 @@ translation_key: communication-website-page-26d4a4a2-a16f-4dc5-81a7-20caff2bdd63
 bodyclass: 
 
 children:
-  - /commencer-simplement/
-  - /gerer-un-site-web/
-  - /gerer-un-extranet/
-  - /composer-avec-les-blocs/
-  - /aller-plus-loin/
-  - /actualites/
-  - /equipe/
-  - /organisations/
+  - "content/fr/pages/commencer-simplement/_index.html"
+  - "content/fr/pages/gerer-un-site-web/_index.html"
+  - "content/fr/pages/gerer-un-extranet/_index.html"
+  - "content/fr/pages/composer-avec-les-blocs/_index.html"
+  - "content/fr/pages/aller-plus-loin/_index.html"
+  - "content/fr/posts/_index.html"
+  - "content/fr/persons/_index.html"
+  - "content/fr/organizations/_index.html"
 meta_description: >
   
 description: >
@@ -89,40 +90,18 @@ contents:
       show_images: true
       layout: cards
       pages:
-        - page: "/gerer-un-site-web/"
-          slug: "/gerer-un-site-web/"
-        - page: "/gerer-un-extranet/"
-          slug: "/gerer-un-extranet/"
-        - page: "/composer-avec-les-blocs/"
-          slug: "/composer-avec-les-blocs/"
-      elements:
-        - title: >-
-            Gérer un site web
-          summary: >-
-            Comment organiser et gérer son site web ? Comment créer, modifier et publier des pages ?
+        - path: "/gerer-un-site-web/"
           slug: "gerer-un-site-web"
-          path: "/gerer-un-site-web/"
-          url: "/gerer-un-site-web/"
-          bodyclass: >-
-            
-        - title: >-
-            Gérer un extranet
-          summary: >-
-            Comment créer et gérer un extranet ? Comment gérer un annuaire de membres, publier des actualités et des documents ?
+          file: "content/fr/pages/gerer-un-site-web/_index.html"
+          external: false
+        - path: "/gerer-un-extranet/"
           slug: "gerer-un-extranet"
-          path: "/gerer-un-extranet/"
-          url: "/gerer-un-extranet/"
-          bodyclass: >-
-            
-        - title: >-
-            Composer avec les blocs
-          summary: >-
-            Comment publier du contenu ? Comment composer ses pages avec des blocs de contenus ?
+          file: "content/fr/pages/gerer-un-extranet/_index.html"
+          external: false
+        - path: "/composer-avec-les-blocs/"
           slug: "composer-avec-les-blocs"
-          path: "/composer-avec-les-blocs/"
-          url: "/composer-avec-les-blocs/"
-          bodyclass: >-
-            
+          file: "content/fr/pages/composer-avec-les-blocs/_index.html"
+          external: false
 
 
   - kind: block
@@ -131,57 +110,31 @@ contents:
       
     position: 3
     data:
-      page: /aller-plus-loin/
+      page: 
+        path: "/aller-plus-loin/"
+        slug: "aller-plus-loin"
+        file: "content/fr/pages/aller-plus-loin/_index.html"
       show_main_description: true
       show_descriptions: false
       show_images: false
       layout: list
       pages:
-        - page: "/aller-plus-loin/universite/"
-          slug: "/aller-plus-loin/universite/"
-        - page: "/aller-plus-loin/pedagogie/"
-          slug: "/aller-plus-loin/pedagogie/"
-        - page: "/aller-plus-loin/recherche-1/"
-          slug: "/aller-plus-loin/recherche-1/"
-        - page: "/aller-plus-loin/administration-1/"
-          slug: "/aller-plus-loin/administration-1/"
-      elements:
-        - title: >-
-            Université
-          summary: >-
-            Gérer votre Université
+        - path: "/aller-plus-loin/universite/"
           slug: "universite"
-          path: "/aller-plus-loin/universite/"
-          url: "/aller-plus-loin/universite/"
-          bodyclass: >-
-            
-        - title: >-
-            Pédagogie
-          summary: >-
-            Gérer la pédagogie d'un établissement
+          file: "content/fr/pages/aller-plus-loin/universite/_index.html"
+          external: false
+        - path: "/aller-plus-loin/pedagogie/"
           slug: "pedagogie"
-          path: "/aller-plus-loin/pedagogie/"
-          url: "/aller-plus-loin/pedagogie/"
-          bodyclass: >-
-            
-        - title: >-
-            Recherche
-          summary: >-
-            Gérer la recherche au sein d'un établissement
+          file: "content/fr/pages/aller-plus-loin/pedagogie/_index.html"
+          external: false
+        - path: "/aller-plus-loin/recherche-1/"
           slug: "recherche-1"
-          path: "/aller-plus-loin/recherche-1/"
-          url: "/aller-plus-loin/recherche-1/"
-          bodyclass: >-
-            
-        - title: >-
-            Administration
-          summary: >-
-            Gérer la partie administrative d'un établissement
+          file: "content/fr/pages/aller-plus-loin/recherche-1/_index.html"
+          external: false
+        - path: "/aller-plus-loin/administration-1/"
           slug: "administration-1"
-          path: "/aller-plus-loin/administration-1/"
-          url: "/aller-plus-loin/administration-1/"
-          bodyclass: >-
-            
+          file: "content/fr/pages/aller-plus-loin/administration-1/_index.html"
+          external: false
 
 
 
