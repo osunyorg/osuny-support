@@ -49,7 +49,8 @@ contents:
     title: >-
       
     position: 0
-    heading_level: 2
+    ranks:
+      self: false
     data:
       layout: alt_background
       text: >-
@@ -71,13 +72,14 @@ contents:
     title: >-
       Cliquez sur Ajouter un bloc
     position: 0
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -103,13 +105,14 @@ contents:
     title: >-
       Cliquez sur le bloc Pages
     position: 1
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -135,13 +138,14 @@ contents:
     title: >-
       Choisissez la mise en page
     position: 2
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -167,13 +171,14 @@ contents:
     title: >-
       Choisissez les options d'affichage
     position: 3
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -199,13 +204,14 @@ contents:
     title: >-
       Choisissez le type de liste
     position: 4
-    level: 2
+    rank: 2
   - kind: block
     template: gallery
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       description: >-
         
@@ -255,13 +261,14 @@ contents:
     title: >-
       Tutoriel vidéo
     position: 5
-    level: 2
+    rank: 2
   - kind: block
     template: video
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       url: >-
         https://vimeo.com/857074923
@@ -293,13 +300,15 @@ contents:
     title: >-
       Exemples
     position: 6
-    level: 2
+    rank: 2
   - kind: block
     template: pages
     title: >-
       Exemple page principale
     position: 0
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       page: 
         path: "/gerer-un-site-web/"
@@ -333,7 +342,9 @@ contents:
     title: >-
       Exemple sélection de pages
     position: 1
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       show_main_description: false
       show_descriptions: true
@@ -359,13 +370,14 @@ contents:
     title: >-
       Aller plus loin
     position: 7
-    level: 2
+    rank: 2
   - kind: block
     template: call_to_action
     title: >-
       Bloc Pages
     position: 0
-    heading_level: 3
+    ranks:
+      self: 3
     data:
       text: >-
         
