@@ -197,7 +197,7 @@ items:
       target: "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
       kind: page
       children: []
-    - title: Copier coller un bloc
+    - title: Copier-coller un bloc
       target: "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
       kind: page
       children: []
