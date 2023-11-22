@@ -273,6 +273,10 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
       kind: page
       children: []
+    - title: Liste d'événements
+      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
+      kind: page
+      children: []
   - title: Les blocs techniques
     target: "/composer-avec-les-blocs/les-blocs-techniques-1/"
     kind: page
