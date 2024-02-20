@@ -109,6 +109,10 @@ items:
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement/"
       kind: page
       children: []
+    - title: Modifier un événement
+      target: "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
+      kind: page
+      children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
