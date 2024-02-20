@@ -97,6 +97,22 @@ items:
       target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
       kind: page
       children: []
+  - title: Agenda
+    target: "/gerer-un-site-web/agenda-1/"
+    kind: page
+    children:
+    - title: Activer l'agenda
+      target: "/gerer-un-site-web/agenda-1/activer-lagenda/"
+      kind: page
+      children: []
+    - title: Créer un événement
+      target: "/gerer-un-site-web/agenda-1/creer-un-evenement/"
+      kind: page
+      children: []
+    - title: Modifier un événement
+      target: "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
+      kind: page
+      children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
