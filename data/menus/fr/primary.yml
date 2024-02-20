@@ -100,7 +100,11 @@ items:
   - title: Agenda
     target: "/gerer-un-site-web/agenda-1/"
     kind: page
-    children: []
+    children:
+    - title: Activer l'agenda
+      target: "/gerer-un-site-web/agenda-1/activer-lagenda/"
+      kind: page
+      children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
