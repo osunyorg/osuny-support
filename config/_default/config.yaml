@@ -4,3 +4,8 @@ enableRobotsTXT: true
 removePathAccents: true
 params:
   plausible: support.osuny.org
+  pages:
+    default_image: true
+  search:
+    active: true
+    position: footer
