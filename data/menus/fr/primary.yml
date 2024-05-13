@@ -133,6 +133,10 @@ items:
       target: "/gerer-un-site-web/portfolio/modifier-un-projet/"
       kind: page
       children: []
+    - title: Créer des catégories
+      target: "/gerer-un-site-web/portfolio/creer-des-categories-1/"
+      kind: page
+      children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
