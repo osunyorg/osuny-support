@@ -33,6 +33,10 @@ items:
       target: "/gerer-un-site-web/sites/statistiques-de-visite/"
       kind: page
       children: []
+    - title: Créer un site
+      target: "/gerer-un-site-web/sites/creer-un-site/"
+      kind: page
+      children: []
   - title: Pages
     target: "/gerer-un-site-web/pages/"
     kind: page
