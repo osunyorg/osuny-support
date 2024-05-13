@@ -116,7 +116,15 @@ items:
   - title: Portfolio
     target: "/gerer-un-site-web/portfolio/"
     kind: page
-    children: []
+    children:
+    - title: Activer le portfolio
+      target: "/gerer-un-site-web/portfolio/activer-le-portfolio/"
+      kind: page
+      children: []
+    - title: Créer un projet
+      target: "/gerer-un-site-web/portfolio/creer-un-projet/"
+      kind: page
+      children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
