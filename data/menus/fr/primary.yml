@@ -129,6 +129,10 @@ items:
       target: "/gerer-un-site-web/portfolio/creer-un-projet/"
       kind: page
       children: []
+    - title: Modifier un projet
+      target: "/gerer-un-site-web/portfolio/modifier-un-projet/"
+      kind: page
+      children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
