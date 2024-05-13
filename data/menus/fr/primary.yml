@@ -113,6 +113,10 @@ items:
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement/"
       kind: page
       children: []
+    - title: Créer des catégories
+      target: "/gerer-un-site-web/agenda-1/creer-des-categories/"
+      kind: page
+      children: []
     - title: Modifier un événement
       target: "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
       kind: page
