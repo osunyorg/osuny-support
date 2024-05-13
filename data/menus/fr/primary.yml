@@ -113,6 +113,10 @@ items:
       target: "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
       kind: page
       children: []
+  - title: Portfolio
+    target: "/gerer-un-site-web/portfolio/"
+    kind: page
+    children: []
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
