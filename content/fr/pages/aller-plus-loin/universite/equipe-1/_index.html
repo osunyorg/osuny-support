@@ -57,19 +57,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 29
+  seconds: 30
   text: >-
-    moins d'une minute
+    1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Les rôles
-    slug: "les-roles"
-    position: 1
-    rank: 2
+    slug: >-
+      les-roles
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: datatable
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -101,16 +109,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Inviter des utilisateur.rice.s
-    slug: "inviter-des-utilisateur-rice-s"
-    position: 2
-    rank: 2
+    slug: >-
+      inviter-des-utilisateur-rice-s
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -131,17 +146,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Tutoriel vidéo
-    slug: "tutoriel-video"
-    position: 3
-    rank: 2
+    slug: >-
+      tutoriel-video
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
       Gérer une équipe
+    slug: >-
+      gerer-une-equipe
     ranks:
       self: 3
     data:
@@ -172,7 +194,6 @@ contents:
           https://player.vimeo.com/video/857937829?autoplay=1&amp;quality=360p
         iframe: >-
           <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/857937829" title="Tutoriel vidéo : explication gestion d'une équipe."></iframe>
-
 
 
 

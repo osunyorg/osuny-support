@@ -56,13 +56,15 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 80
+  seconds: 83
   text: >-
     1 minute
 contents:
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -83,15 +85,23 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Ajouter une thèse
-    slug: "ajouter-une-these"
-    position: 1
-    rank: 2
+    slug: >-
+      ajouter-une-these
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: gallery
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -151,16 +161,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Modifier une thèse
-    slug: "modifier-une-these"
-    position: 2
-    rank: 2
+    slug: >-
+      modifier-une-these
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: gallery
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -220,16 +237,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Gérer les thèses
-    slug: "gerer-les-theses"
-    position: 3
-    rank: 2
+    slug: >-
+      gerer-les-theses
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: gallery
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -301,17 +325,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Tutoriels vidéo
-    slug: "tutoriels-video"
-    position: 4
-    rank: 2
+    slug: >-
+      tutoriels-video
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
       Ajouter une thèse
+    slug: >-
+      ajouter-une-these
     ranks:
       self: 3
     data:
@@ -348,6 +379,8 @@ contents:
     template: video
     title: >-
       Modifier une thèse
+    slug: >-
+      modifier-une-these
     ranks:
       self: 3
     data:
@@ -384,6 +417,8 @@ contents:
     template: video
     title: >-
       Gérer une thèse
+    slug: >-
+      gerer-une-these
     ranks:
       self: 3
     data:
@@ -414,7 +449,6 @@ contents:
           https://player.vimeo.com/video/857937406?autoplay=1&amp;quality=360p
         iframe: >-
           <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/857937406" title="Tutoriel vidéo : gestion d'une thèse"></iframe>
-
 
 
 

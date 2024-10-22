@@ -54,13 +54,15 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 31
+  seconds: 32
   text: >-
     1 minute
 contents:
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -81,15 +83,23 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Structurer la page
-    slug: "structurer-la-page"
-    position: 1
-    rank: 2
+    slug: >-
+      structurer-la-page
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -113,17 +123,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Tutoriel vidéo
-    slug: "tutoriel-video"
-    position: 2
-    rank: 2
+    slug: >-
+      tutoriel-video
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
       Créer un titre
+    slug: >-
+      creer-un-titre
     ranks:
       self: 3
     data:
@@ -160,6 +177,8 @@ contents:
     template: video
     title: >-
       Organiser autrement
+    slug: >-
+      organiser-autrement
     ranks:
       self: 3
     data:
@@ -190,7 +209,6 @@ contents:
           https://player.vimeo.com/video/857097110?share=copy?autoplay=1&amp;quality=360p
         iframe: >-
           <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/857097110?share=copy" title="Tutoriel vidéo : explication organiser les blocs de contenu et les titres"></iframe>
-
 
 
 

@@ -54,13 +54,15 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 19
+  seconds: 20
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -81,15 +83,23 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Ajouter une formation
-    slug: "ajouter-une-formation"
-    position: 1
-    rank: 2
+    slug: >-
+      ajouter-une-formation
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: gallery
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -125,16 +135,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Tutoriel vidéo
-    slug: "tutoriel-video"
-    position: 2
-    rank: 2
+    slug: >-
+      tutoriel-video
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -168,17 +185,24 @@ contents:
           <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/857074895" title="Tutoriel vidéo : explication bloc de contenu liste de formations"></iframe>
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Aller plus loin
-    slug: "aller-plus-loin"
-    position: 3
-    rank: 2
+    slug: >-
+      aller-plus-loin
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: call_to_action
     title: >-
       Blocs de liste de formations
+    slug: >-
+      blocs-de-liste-de-formations
     ranks:
       self: 3
     data:
@@ -201,7 +225,6 @@ contents:
             https://example.osuny.org/fr/blocks/blocs-de-liste/programmes/
 
           target_blank: true
-
 
 
 
