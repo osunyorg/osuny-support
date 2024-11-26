@@ -9,10 +9,13 @@ items:
     target: "/commencer-simplement/demarrer-rapidement/"
     kind: page
     children: []
+    file: content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html
   - title: Découvrir Osuny
     target: "/commencer-simplement/decouvrir-osuny/"
     kind: page
     children: []
+    file: content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html
+  file: content/fr/pages/commencer-simplement/_index.html
 - title: Gérer un site web
   target: "/gerer-un-site-web/"
   kind: page
@@ -25,18 +28,23 @@ items:
       target: "/gerer-un-site-web/sites/fondamentaux/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/sites/fondamentaux/_index.html
     - title: Sites statiques
       target: "/gerer-un-site-web/sites/sites-statiques/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/sites/sites-statiques/_index.html
     - title: Statistiques de visite
       target: "/gerer-un-site-web/sites/statistiques-de-visite/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/sites/statistiques-de-visite/_index.html
     - title: Créer un site
       target: "/gerer-un-site-web/sites/creer-un-site/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/sites/creer-un-site/_index.html
+    file: content/fr/pages/gerer-un-site-web/sites/_index.html
   - title: Pages
     target: "/gerer-un-site-web/pages/"
     kind: page
@@ -45,18 +53,23 @@ items:
       target: "/gerer-un-site-web/pages/larborescence/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/pages/larborescence/_index.html
     - title: Créer une page
       target: "/gerer-un-site-web/pages/creer-une-page-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/pages/creer-une-page-1/_index.html
     - title: Avant de publier
       target: "/gerer-un-site-web/pages/avant-de-publier/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/pages/avant-de-publier/_index.html
     - title: Modifier une page
       target: "/gerer-un-site-web/pages/modifier-une-page-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/pages/modifier-une-page-1/_index.html
+    file: content/fr/pages/gerer-un-site-web/pages/_index.html
   - title: Actualités
     target: "/gerer-un-site-web/actualites-3/"
     kind: page
@@ -65,26 +78,33 @@ items:
       target: "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/actualites-3/creer-une-actualite-1/_index.html
     - title: Gestion des catégories
       target: "/gerer-un-site-web/actualites-3/gestion-des-categories/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/actualites-3/gestion-des-categories/_index.html
     - title: Gestion des auteur.e.s
       target: "/gerer-un-site-web/actualites-3/gestion-des-auteures/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/actualites-3/gestion-des-auteures/_index.html
     - title: Mettre en avant une actualité
       target: "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/_index.html
     - title: Avant de publier
       target: "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/actualites-3/avant-de-publier-1/_index.html
     - title: Modifier une actualité
       target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
+    file: content/fr/pages/gerer-un-site-web/actualites-3/_index.html
   - title: Menus
     target: "/gerer-un-site-web/menus-1/"
     kind: page
@@ -93,14 +113,18 @@ items:
       target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/menus-1/creer-un-menu-1/_index.html
     - title: Relier des éléments au menu
       target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/menus-1/relier-elements-menu/_index.html
     - title: Modifier un menu
       target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
+    file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
   - title: Agenda
     target: "/gerer-un-site-web/agenda-1/"
     kind: page
@@ -109,18 +133,23 @@ items:
       target: "/gerer-un-site-web/agenda-1/activer-lagenda/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/agenda-1/activer-lagenda/_index.html
     - title: Créer un événement
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement/_index.html
     - title: Créer des catégories
       target: "/gerer-un-site-web/agenda-1/creer-des-categories/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-des-categories/_index.html
     - title: Modifier un événement
       target: "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/agenda-1/modifier-un-evenement/_index.html
+    file: content/fr/pages/gerer-un-site-web/agenda-1/_index.html
   - title: Portfolio
     target: "/gerer-un-site-web/portfolio/"
     kind: page
@@ -129,18 +158,24 @@ items:
       target: "/gerer-un-site-web/portfolio/activer-le-portfolio/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/portfolio/activer-le-portfolio/_index.html
     - title: Créer un projet
       target: "/gerer-un-site-web/portfolio/creer-un-projet/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/portfolio/creer-un-projet/_index.html
     - title: Créer des catégories
       target: "/gerer-un-site-web/portfolio/creer-des-categories-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/portfolio/creer-des-categories-1/_index.html
     - title: Modifier un projet
       target: "/gerer-un-site-web/portfolio/modifier-un-projet/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/portfolio/modifier-un-projet/_index.html
+    file: content/fr/pages/gerer-un-site-web/portfolio/_index.html
+  file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
   target: "/gerer-un-extranet/"
   kind: page
@@ -153,10 +188,13 @@ items:
       target: "/gerer-un-extranet/extranet-1/fondamentaux-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/extranet-1/fondamentaux-1/_index.html
     - title: Types d'extranets
       target: "/gerer-un-extranet/extranet-1/types-dextranets/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/extranet-1/types-dextranets/_index.html
+    file: content/fr/pages/gerer-un-extranet/extranet-1/_index.html
   - title: Annuaire
     target: "/gerer-un-extranet/annuaire/"
     kind: page
@@ -165,26 +203,33 @@ items:
       target: "/gerer-un-extranet/annuaire/fonctionnement-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/annuaire/fonctionnement-1/_index.html
     - title: Créer des personnes
       target: "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-personnes/_index.html
     - title: Créer des organisations
       target: "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-organisations/_index.html
     - title: Gérer les accès
       target: "/gerer-un-extranet/annuaire/gerer-les-acces/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/annuaire/gerer-les-acces/_index.html
     - title: Modifier des personnes
       target: "/gerer-un-extranet/annuaire/modifier-des-personnes/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/annuaire/modifier-des-personnes/_index.html
     - title: Modifier une organisation
       target: "/gerer-un-extranet/annuaire/modifier-une-organisation/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/annuaire/modifier-une-organisation/_index.html
+    file: content/fr/pages/gerer-un-extranet/annuaire/_index.html
   - title: Actualités
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
@@ -193,22 +238,28 @@ items:
       target: "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/actualites-4/creer-une-actualite-2/_index.html
     - title: Gestion des catégories
       target: "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/actualites-4/gestion-des-categories-2/_index.html
     - title: Mettre en avant une actualité
       target: "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/_index.html
     - title: Avant de publier
       target: "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/actualites-4/avant-de-publier-2/_index.html
     - title: Modifier une actualité
       target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
+    file: content/fr/pages/gerer-un-extranet/actualites-4/_index.html
   - title: Documents
     target: "/gerer-un-extranet/documents/"
     kind: page
@@ -217,14 +268,19 @@ items:
       target: "/gerer-un-extranet/documents/ajouter-un-document/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/documents/ajouter-un-document/_index.html
     - title: Gestion des catégories
       target: "/gerer-un-extranet/documents/gestion-des-categories-3/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/documents/gestion-des-categories-3/_index.html
     - title: Gestion des types
       target: "/gerer-un-extranet/documents/gestion-des-types/"
       kind: page
       children: []
+      file: content/fr/pages/gerer-un-extranet/documents/gestion-des-types/_index.html
+    file: content/fr/pages/gerer-un-extranet/documents/_index.html
+  file: content/fr/pages/gerer-un-extranet/_index.html
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
@@ -237,14 +293,18 @@ items:
       target: "/composer-avec-les-blocs/composer-une-page/les-titres/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/composer-une-page/les-titres/_index.html
     - title: La gestion des blocs
       target: "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/_index.html
     - title: Copier-coller un bloc
       target: "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/_index.html
+    file: content/fr/pages/composer-avec-les-blocs/composer-une-page/_index.html
   - title: Les blocs de base
     target: "/composer-avec-les-blocs/les-blocs-de-base-1/"
     kind: page
@@ -253,22 +313,28 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/_index.html
     - title: Image
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/image/_index.html
     - title: Vidéo
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/video/_index.html
     - title: Son
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/son/_index.html
     - title: Tableau
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/tableau/_index.html
+    file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/_index.html
   - title: Les blocs narratifs
     target: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
     kind: page
@@ -277,26 +343,33 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/_index.html
     - title: Fonctionnalités
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/_index.html
     - title: Galerie d'images
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/_index.html
     - title: Appel à actions
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/_index.html
     - title: Témoignages
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/_index.html
     - title: Frise chronologique
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/_index.html
+    file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/_index.html
   - title: Les blocs de listes
     target: "/composer-avec-les-blocs/les-blocs-de-listes-1/"
     kind: page
@@ -305,26 +378,33 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/_index.html
     - title: Liste d'actualités
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/_index.html
     - title: Liste de personnes
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/_index.html
     - title: Liste d'organisations
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/_index.html
     - title: Liste de formations
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/_index.html
     - title: Liste d'événements
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/_index.html
+    file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/_index.html
   - title: Les blocs techniques
     target: "/composer-avec-les-blocs/les-blocs-techniques-1/"
     kind: page
@@ -333,18 +413,24 @@ items:
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/_index.html
     - title: Les définitions
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/_index.html
     - title: Le code HTML
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/_index.html
     - title: Contact
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
       kind: page
       children: []
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/contact/_index.html
+    file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/_index.html
+  file: content/fr/pages/composer-avec-les-blocs/_index.html
 - title: Aller plus loin
   target: "/aller-plus-loin/"
   kind: page
@@ -357,10 +443,13 @@ items:
       target: "/aller-plus-loin/universite/equipe-1/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/universite/equipe-1/_index.html
     - title: Multilingue
       target: "/aller-plus-loin/universite/multilingue/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/universite/multilingue/_index.html
+    file: content/fr/pages/aller-plus-loin/universite/_index.html
   - title: Pédagogie
     target: "/aller-plus-loin/pedagogie/"
     kind: page
@@ -369,22 +458,28 @@ items:
       target: "/aller-plus-loin/pedagogie/les-enseignantes/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/pedagogie/les-enseignantes/_index.html
     - title: Les écoles
       target: "/aller-plus-loin/pedagogie/les-ecoles/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/pedagogie/les-ecoles/_index.html
     - title: Les formations
       target: "/aller-plus-loin/pedagogie/les-formations/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/pedagogie/les-formations/_index.html
     - title: Les diplômes
       target: "/aller-plus-loin/pedagogie/les-diplomes/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/pedagogie/les-diplomes/_index.html
     - title: Les alumni
       target: "/aller-plus-loin/pedagogie/les-alumni/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/pedagogie/les-alumni/_index.html
+    file: content/fr/pages/aller-plus-loin/pedagogie/_index.html
   - title: Recherche
     target: "/aller-plus-loin/recherche-1/"
     kind: page
@@ -393,22 +488,28 @@ items:
       target: "/aller-plus-loin/recherche-1/les-chercheures/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/recherche-1/les-chercheures/_index.html
     - title: Les laboratoires
       target: "/aller-plus-loin/recherche-1/les-laboratoires/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/recherche-1/les-laboratoires/_index.html
     - title: Les publications
       target: "/aller-plus-loin/recherche-1/les-publications/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/recherche-1/les-publications/_index.html
     - title: Les revues scientifiques
       target: "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/recherche-1/les-revues-scientifiques/_index.html
     - title: Les thèses
       target: "/aller-plus-loin/recherche-1/les-theses/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/recherche-1/les-theses/_index.html
+    file: content/fr/pages/aller-plus-loin/recherche-1/_index.html
   - title: Administration
     target: "/aller-plus-loin/administration-1/"
     kind: page
@@ -417,4 +518,7 @@ items:
       target: "/aller-plus-loin/administration-1/qualiopi/"
       kind: page
       children: []
+      file: content/fr/pages/aller-plus-loin/administration-1/qualiopi/_index.html
+    file: content/fr/pages/aller-plus-loin/administration-1/_index.html
+  file: content/fr/pages/aller-plus-loin/_index.html
 
