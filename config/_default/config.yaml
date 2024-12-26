@@ -8,4 +8,5 @@ params:
     default_image: true
   search:
     active: true
-    position: footer
+    positions:
+      - footer
