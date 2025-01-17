@@ -3,11 +3,15 @@ title: >-
   Université de Bordeaux
 url: "/organisations/universite-de-bordeaux/"
 slug: "universite-de-bordeaux"
-hugo:
-  permalink: "/organisations/universite-de-bordeaux/"
-  file: "content/fr/organizations/universite-de-bordeaux.html"
-  path: "universite-de-bordeaux"
-  slug: "universite-de-bordeaux"
+meta:
+  hugo:
+    permalink: "/organisations/universite-de-bordeaux/"
+    path: "/organizations/universite-de-bordeaux"
+    file: "content/fr/organizations/universite-de-bordeaux.html"
+    slug: "universite-de-bordeaux"
+  dates:
+    created_at: 2022-04-29T13:23:44+02:00
+    updated_at: 2024-09-29T10:33:49+02:00
 
 breadcrumbs:
   - title: >-
@@ -19,7 +23,6 @@ breadcrumbs:
   - title: >-
       Université de Bordeaux
 
-full_width: true
 design:
   full_width: true
   toc:
@@ -32,6 +35,7 @@ meta_description: >-
   
 
 
+
 summary: >-
   
 
@@ -39,8 +43,10 @@ backlinks:
   current_website:
     name: "Support Osuny"
     pages:
-      - path: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
-        file: "pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/_index.html"
+      - permalink: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
+        path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations"
+        slug: "liste-dorganisations"
+        file: "content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/_index.html"
     posts:
     events:
     projects:
@@ -53,31 +59,34 @@ kind:
   code: "government"
   label: "Structure gouvernementale"
 contact_details:
+  websites:
+    website:
+      label: >-
+        www.u-bordeaux.fr
+      value: >-
+        https://www.u-bordeaux.fr
 
-
-
-
-
-
-  website:
-    label: "www.u-bordeaux.fr"
-    value: "https://www.u-bordeaux.fr"
-
-
-
-
-
-
-  geolocation:
-    latitude: 
-    longitude: 
 logo: "0dd5cd91-fa54-4896-842f-9854c5bb1780"
 logo_on_dark_background: "6433ffee-7b5e-47a0-ac96-082f9b5f1c41"
 organizations_categories:
-  - slug: "nouvelle-aquitaine"
-    path: "/organisations/categories/nouvelle-aquitaine/"
-    name: >-
-      Nouvelle Aquitaine
+  - "localisation/nouvelle-aquitaine"
+taxonomies:
+  - name: "Localisation"
+    slug: "localisation"
+    categories:
+      - permalink: "/organisations/categories/localisation/nouvelle-aquitaine/"
+        path: "/organizations_categories/localisation/nouvelle-aquitaine"
+        slug: "localisation/nouvelle-aquitaine"
+        file: "content/fr/organizations_categories/localisation/nouvelle-aquitaine/_index.html"
+        name: "Nouvelle Aquitaine"
+  - name: "Domaine"
+    slug: "domaine"
+    categories:
+  - name: "Secteur"
+    slug: "secteur"
+    categories:
+free_categories:
+
 contents_reading_time:
   seconds: 0
   text: >-
@@ -90,7 +99,9 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 2
+    top:
+      active: false
     data:
       description: >-
         
@@ -110,7 +121,9 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 2
+    top:
+      active: false
     data:
       layout: grid
       description: >-

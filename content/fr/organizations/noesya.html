@@ -3,11 +3,15 @@ title: >-
   noesya
 url: "/organisations/noesya/"
 slug: "noesya"
-hugo:
-  permalink: "/organisations/noesya/"
-  file: "content/fr/organizations/noesya.html"
-  path: "noesya"
-  slug: "noesya"
+meta:
+  hugo:
+    permalink: "/organisations/noesya/"
+    path: "/organizations/noesya"
+    file: "content/fr/organizations/noesya.html"
+    slug: "noesya"
+  dates:
+    created_at: 2022-03-10T15:25:28+01:00
+    updated_at: 2024-09-29T12:08:03+02:00
 
 breadcrumbs:
   - title: >-
@@ -19,7 +23,6 @@ breadcrumbs:
   - title: >-
       noesya
 
-full_width: true
 design:
   full_width: true
   toc:
@@ -32,6 +35,7 @@ meta_description: >-
   La coopérative noesya s’engage pour un numérique de grande qualité, éco-conçu, esthétique, éthique et durable.
 
 
+
 summary: >-
   <p>La coopérative noesya s'engage pour un numérique de grande qualité, éco-conçu, esthétique, éthique et durable</p>
 
@@ -39,8 +43,10 @@ backlinks:
   current_website:
     name: "Support Osuny"
     pages:
-      - path: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
-        file: "pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/_index.html"
+      - permalink: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
+        path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations"
+        slug: "liste-dorganisations"
+        file: "content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/_index.html"
     posts:
     events:
     projects:
@@ -53,59 +59,107 @@ kind:
   code: "company"
   label: "Entreprise"
 contact_details:
+  postal_address:
+    data:
+      address_name: >-
+        
+      address: >-
+        15 Rue Hélène
+      address_additional: >-
+        
+      zipcode: >-
+        75017
+      city: >-
+        Paris
+      country:
+        name: >-
+          France
+        alpha2: >-
+          FR
+        alpha3: >-
+          FRA
+    geolocation:
+      latitude: 48.8862136
+      longitude: 2.3246629
+    text: >-
+      15 Rue Hélène 75017 Paris FRANCE
+    html: >-
+      <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">15 Rue Hélène</span> <span itemprop="postalCode">75017</span> <span itemprop="addressLocality">Paris</span> <span itemprop="addressCountry">FRANCE</span></address>
+  phone_numbers:
+    phone:
+      label: >-
+        +33687602193
+      value: >-
+        tel:+33687602193
+  emails:
+    email:
+      label: >-
+        contact@noesya.coop
+      value: >-
+        mailto:contact@noesya.coop
+  websites:
+    website:
+      label: >-
+        noesya.coop/
+      value: >-
+        https://noesya.coop/
+  social_networks:
+    linkedin:
+      label: >-
+        noesyacoop
+      value: >-
+        https://www.linkedin.com/company/noesyacoop
+    twitter:
+      label: >-
+        noesya_coop
+      value: >-
+        https://x.com/noesya_coop
 
-  address:
-    label: "15 Rue Hélène"
-    value: "15 Rue Hélène"
-
-
-  zipcode:
-    label: "75017"
-    value: "75017"
-
-  city:
-    label: "Paris"
-    value: "Paris"
-
-  country:
-    label: "France"
-    value: "FR"
-
-  website:
-    label: "noesya.coop/"
-    value: "https://noesya.coop/"
-
-  linkedin:
-    label: "noesyacoop"
-    value: "https://www.linkedin.com/company/noesyacoop"
-
-  twitter:
-    label: "noesya_coop"
-    value: "https://x.com/noesya_coop"
-
-
-  phone:
-    label: "+33687602193"
-    value: "tel:+33687602193"
-
-  email:
-    label: "contact@noesya.coop"
-    value: "mailto:contact@noesya.coop"
-
-  geolocation:
-    latitude: 48.8862136
-    longitude: 2.3246629
 logo: "03c85a24-3001-4baf-acb0-311ac032812b"
 logo_on_dark_background: "a990314c-c1f0-494d-88ae-ae8fe1284e18"
 organizations_categories:
-  - slug: "nouvelle-aquitaine"
-    path: "/organisations/categories/nouvelle-aquitaine/"
-    name: >-
-      Nouvelle Aquitaine
-  - slug: "ile-de-france"
-    path: "/organisations/categories/ile-de-france/"
-    name: >-
-      Île de France
+  - "localisation/ile-de-france"
+  - "localisation/nouvelle-aquitaine"
+  - "domaine/numerique"
+  - "domaine/enseignement"
+  - "secteur/prive"
+taxonomies:
+  - name: "Localisation"
+    slug: "localisation"
+    categories:
+      - permalink: "/organisations/categories/localisation/ile-de-france/"
+        path: "/organizations_categories/localisation/ile-de-france"
+        slug: "localisation/ile-de-france"
+        file: "content/fr/organizations_categories/localisation/ile-de-france/_index.html"
+        name: "Île de France"
+      - permalink: "/organisations/categories/localisation/nouvelle-aquitaine/"
+        path: "/organizations_categories/localisation/nouvelle-aquitaine"
+        slug: "localisation/nouvelle-aquitaine"
+        file: "content/fr/organizations_categories/localisation/nouvelle-aquitaine/_index.html"
+        name: "Nouvelle Aquitaine"
+  - name: "Domaine"
+    slug: "domaine"
+    categories:
+      - permalink: "/organisations/categories/domaine/numerique/"
+        path: "/organizations_categories/domaine/numerique"
+        slug: "domaine/numerique"
+        file: "content/fr/organizations_categories/domaine/numerique/_index.html"
+        name: "Numérique"
+      - permalink: "/organisations/categories/domaine/enseignement/"
+        path: "/organizations_categories/domaine/enseignement"
+        slug: "domaine/enseignement"
+        file: "content/fr/organizations_categories/domaine/enseignement/_index.html"
+        name: "Enseignement"
+  - name: "Secteur"
+    slug: "secteur"
+    categories:
+      - permalink: "/organisations/categories/secteur/prive/"
+        path: "/organizations_categories/secteur/prive"
+        slug: "secteur/prive"
+        file: "content/fr/organizations_categories/secteur/prive/_index.html"
+        name: "Privé"
+free_categories:
+
 contents_reading_time:
   seconds: 226
   text: >-
@@ -118,7 +172,14 @@ contents:
     slug: >-
       developpement-de-communs-numeriques
     ranks:
+      base: 2
       self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Développement de communs numériques
+        heading: 2
     data:
       layout: classic
 
@@ -130,14 +191,16 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 3
+    top:
+      active: false
     data:
       layout: no_background
       text: >-
-        <p>Le numérique permet de développer des communs bénéficiant d’un coût marginal zéro<sup>1</sup>, en mutualisant les infrastructures et le développement de fonctionnalités bénéficiant à tous. De Linux à Wikipedia, ces communs numériques présentent une grande variété<sup>2</sup>, et des enjeux à la fois technologiques et politiques. La publication en source ouverte et la gouvernance par une structure multi-partite (association loi 1901, Société Coopérative d’Intérêt Collectif [SCIC]…) favorisent leur pérennité.<br></p>
+        <p>Le numérique permet de développer des communs bénéficiant d’un coût marginal zéro<sup>1</sup>, en mutualisant les infrastructures et le développement de fonctionnalités bénéficiant à tous. De Linux à Wikipedia, ces communs numériques présentent une grande variété<sup>2</sup>, et des enjeux à la fois technologiques et politiques. La publication en source ouverte et la gouvernance par une structure multi-partite (association loi 1901, Société Coopérative d’Intérêt Collectif [SCIC]…) favorisent leur pérennité.</p>
 
       notes: >-
-        <p><sup>1.</sup> Voir <a href="http://www.editionslesliensquiliberent.fr/livre-La_nouvelle_soci%C3%A9t%C3%A9_du_co%C3%BBt_marginal_z%C3%A9ro-400-1-1-0-1.html" target="_blank">La nouvelle société du coût marginal zéro, Jeremy Rifkin<span class="sr-only"> - lien externe</span></a><br></p><p><sup>2.</sup> Voir <a href="https://journals.openedition.org/terminal/7595" target="_blank">Communs et capitalisme numérique, Sébastien Broca<span class="sr-only"> - lien externe</span></a><br></p>
+        <p><sup>1.</sup> Voir <a href="http://www.editionslesliensquiliberent.fr/livre-La_nouvelle_soci%C3%A9t%C3%A9_du_co%C3%BBt_marginal_z%C3%A9ro-400-1-1-0-1.html" target="_blank">La nouvelle société du coût marginal zéro, Jeremy Rifkin<span class="sr-only"> - lien externe</span></a></p><p><sup>2.</sup> Voir <a href="https://journals.openedition.org/terminal/7595" target="_blank">Communs et capitalisme numérique, Sébastien Broca<span class="sr-only"> - lien externe</span></a></p>
 
 
       alt: >-
@@ -155,7 +218,14 @@ contents:
     slug: >-
       integration-de-sites-eco-concus
     ranks:
+      base: 2
       self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Intégration de sites éco‑conçus
+        heading: 2
     data:
       layout: classic
 
@@ -167,7 +237,9 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 3
+    top:
+      active: false
     data:
       layout: no_background
       text: >-
@@ -192,7 +264,14 @@ contents:
     slug: >-
       creation-d-experiences-interactives
     ranks:
+      base: 2
       self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Création d’expériences interactives
+        heading: 2
     data:
       layout: classic
 
@@ -204,11 +283,13 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 3
+    top:
+      active: false
     data:
       layout: no_background
       text: >-
-        <p>Le Web, c’est aussi de la découverte et de l’émotion !  Qu’il s’agisse de grands formats journalistiques, de data visualisation, de narration interactive, de jeux multi-joueurs ou d’installations dans des lieux physiques, nous souhaitons mettre notre art au service de la culture. Les dispositifs peuvent se déployer sur plusieurs médias, tirant profit des spécificités et des temporalités spécifiques de chacun, on parle alors de storytelling transmedia<sup>1</sup>, comme l’illustre l’articulation TV / Web déployée par France TV pour “Le dernier gaulois”<sup>2</sup>.  WebGL, 3D, réalité virtuelle, réalité augmentée, utilisation audacieuse du son, interactions utilisateurs surprenantes sont autant d’approches techniques et créatives<sup>3</sup> qui repoussent les limites du Web classique et tiennent plutôt du game design, et plus généralement de la narration interactive<sup>4</sup>.<br></p>
+        <p>Le Web, c’est aussi de la découverte et de l’émotion !  Qu’il s’agisse de grands formats journalistiques, de data visualisation, de narration interactive, de jeux multi-joueurs ou d’installations dans des lieux physiques, nous souhaitons mettre notre art au service de la culture. Les dispositifs peuvent se déployer sur plusieurs médias, tirant profit des spécificités et des temporalités spécifiques de chacun, on parle alors de storytelling transmedia<sup>1</sup>, comme l’illustre l’articulation TV / Web déployée par France TV pour “Le dernier gaulois”<sup>2</sup>.  WebGL, 3D, réalité virtuelle, réalité augmentée, utilisation audacieuse du son, interactions utilisateurs surprenantes sont autant d’approches techniques et créatives<sup>3</sup> qui repoussent les limites du Web classique et tiennent plutôt du game design, et plus généralement de la narration interactive<sup>4</sup>.</p>
 
       notes: >-
         <p>1. Voir <a href="https://journals.openedition.org/terminal/447" target="_blank"><em>Le transmedia storytelling</em>, Mélanie Bourdaa<span class="sr-only"> - lien externe</span></a></p><p>2. Voir <a href="http://lederniergaulois.nouvelles-ecritures.francetv.fr/" target="_blank">Le dernier gaulois<span class="sr-only"> - lien externe</span></a></p><p>3. Voir <a href="http://residente.com/" target="_blank">Residente<span class="sr-only"> - lien externe</span></a></p><p>4. Voir <a href="https://www.cairn.info/l-etre-et-l-ecran--9782130621706-page-249.htm" target="_blank"><em>Le design (numérique) de l'expérience</em>, Stéphane Vial<span class="sr-only"> - lien externe</span></a></p>
@@ -229,7 +310,14 @@ contents:
     slug: >-
       engagements
     ranks:
+      base: 2
       self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Engagements
+        heading: 2
     data:
       layout: classic
 
@@ -241,7 +329,11 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 3
+    top:
+      active: true
+      description: >-
+        <p>Les engagements de noesya</p>
     data:
       description: >-
         <p>Les engagements de noesya</p>

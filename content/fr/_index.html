@@ -1,20 +1,27 @@
 ---
-title: >-
-  Centre d'aide d'Osuny
 breadcrumb_title: >-
   Accueil
+title: >-
+  Centre d'aide d'Osuny
 url: "/"
-hugo:
-  permalink: "/"
-  file: "content/fr/_index.html"
-  path: ""
-  slug: ""
+slug: ""
+date: 2023-09-01T16:18:14+02:00
+lastmod: 2024-09-29T10:40:54+02:00
+meta:
+  hugo:
+    permalink: "/"
+    path: "/"
+    file: "content/fr/_index.html"
+    slug: ""
+  dates:
+    created_at: 2022-08-22T11:37:01+02:00
+    updated_at: 2024-09-29T10:40:54+02:00
+    published_at: 2023-09-01T16:18:14+02:00
 
 breadcrumbs:
   - title: >-
       Accueil
 
-full_width: true
 design:
   full_width: true
   toc:
@@ -66,7 +73,16 @@ contents:
     slug: >-
       le-back-office-osuny
     ranks:
+      base: 2
       self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Le back office Osuny
+        heading: 2
+      description: >-
+        <p>Retrouvez toute la documentation d'Osuny pour les personnes gérant le contenu.</p>
     data:
       layout: accent_background
       text: >-
@@ -87,7 +103,6 @@ contents:
             /commencer-simplement/demarrer-rapidement/
 
           target_blank: false
-
         - title: >-
             Découvrir Osuny
 
@@ -97,7 +112,6 @@ contents:
           target_blank: false
 
 
-
   - kind: block
     template: pages
     title: >-
@@ -105,8 +119,10 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 2
       children: 2
+    top:
+      active: false
     data:
       options:
         image: true
@@ -115,18 +131,19 @@ contents:
 
       layout: cards
       pages:
-        - path: "/gerer-un-site-web/"
+        - permalink: "/gerer-un-site-web/"
+          path: "/pages/gerer-un-site-web"
           slug: "gerer-un-site-web"
-          file: "pages/gerer-un-site-web/_index.html"
-          external: false
-        - path: "/gerer-un-extranet/"
+          file: "content/fr/pages/gerer-un-site-web/_index.html"
+        - permalink: "/gerer-un-extranet/"
+          path: "/pages/gerer-un-extranet"
           slug: "gerer-un-extranet"
-          file: "pages/gerer-un-extranet/_index.html"
-          external: false
-        - path: "/composer-avec-les-blocs/"
+          file: "content/fr/pages/gerer-un-extranet/_index.html"
+        - permalink: "/composer-avec-les-blocs/"
+          path: "/pages/composer-avec-les-blocs"
           slug: "composer-avec-les-blocs"
-          file: "pages/composer-avec-les-blocs/_index.html"
-          external: false
+          file: "content/fr/pages/composer-avec-les-blocs/_index.html"
+
 
 
   - kind: block
@@ -136,13 +153,23 @@ contents:
     slug: >-
       
     ranks:
-      self: false
+      base: 2
       children: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Aller plus loin
+        heading: 2
+        link: "/aller-plus-loin/"
+      description: >-
+        <p>Retrouvez ici des modules réservés aux universités. Comment gérer la pédagogie, la recherche et l’administration de votre établissement ?</p>
     data:
       page:
-        path: "/aller-plus-loin/"
+        permalink: "/aller-plus-loin/"
+        path: "/pages/aller-plus-loin"
         slug: "aller-plus-loin"
-        file: "pages/aller-plus-loin/_index.html"
+        file: "content/fr/pages/aller-plus-loin/_index.html"
       options:
         image: false
         main_summary: true
@@ -150,22 +177,23 @@ contents:
 
       layout: list
       pages:
-        - path: "/aller-plus-loin/universite/"
+        - permalink: "/aller-plus-loin/universite/"
+          path: "/pages/aller-plus-loin/universite"
           slug: "universite"
-          file: "pages/aller-plus-loin/universite/_index.html"
-          external: false
-        - path: "/aller-plus-loin/pedagogie/"
+          file: "content/fr/pages/aller-plus-loin/universite/_index.html"
+        - permalink: "/aller-plus-loin/pedagogie/"
+          path: "/pages/aller-plus-loin/pedagogie"
           slug: "pedagogie"
-          file: "pages/aller-plus-loin/pedagogie/_index.html"
-          external: false
-        - path: "/aller-plus-loin/recherche-1/"
+          file: "content/fr/pages/aller-plus-loin/pedagogie/_index.html"
+        - permalink: "/aller-plus-loin/recherche-1/"
+          path: "/pages/aller-plus-loin/recherche-1"
           slug: "recherche-1"
-          file: "pages/aller-plus-loin/recherche-1/_index.html"
-          external: false
-        - path: "/aller-plus-loin/administration-1/"
+          file: "content/fr/pages/aller-plus-loin/recherche-1/_index.html"
+        - permalink: "/aller-plus-loin/administration-1/"
+          path: "/pages/aller-plus-loin/administration-1"
           slug: "administration-1"
-          file: "pages/aller-plus-loin/administration-1/_index.html"
-          external: false
+          file: "content/fr/pages/aller-plus-loin/administration-1/_index.html"
+
 
 
 
