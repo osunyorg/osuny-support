@@ -1,7 +1,5 @@
 theme: osuny-www-design-system
-paginate: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 params:
   plausible: support.osuny.org
   pages:
