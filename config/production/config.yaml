@@ -2,6 +2,11 @@
 
 baseURL: https://support.osuny.org
 
+## OSUNY
+osuny:
+  website:
+    id: 0aee4b28-85b6-463c-9395-f300fa131763
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
