@@ -207,6 +207,13 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/agenda-1/modifier-un-evenement"
       file: content/fr/pages/gerer-un-site-web/agenda-1/modifier-un-evenement/_index.html
+    - title: Créer un événement récurrent
+      target: "/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent"
+      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/_index.html
     path: "/pages/gerer-un-site-web/agenda-1"
     file: content/fr/pages/gerer-un-site-web/agenda-1/_index.html
   - title: Portfolio
