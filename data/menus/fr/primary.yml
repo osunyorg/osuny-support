@@ -186,7 +186,7 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/agenda-1/activer-lagenda"
       file: content/fr/pages/gerer-un-site-web/agenda-1/activer-lagenda/_index.html
-    - title: Créer un événement
+    - title: Créer un événement simple
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement/"
       kind: page
       new_tab: false
