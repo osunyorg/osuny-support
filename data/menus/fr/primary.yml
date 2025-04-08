@@ -200,6 +200,13 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/_index.html
+    - title: Créer un événement parent
+      target: "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent"
+      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent/_index.html
     - title: Créer des catégories
       target: "/gerer-un-site-web/agenda-1/creer-des-categories/"
       kind: page
@@ -214,13 +221,6 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/agenda-1/modifier-un-evenement"
       file: content/fr/pages/gerer-un-site-web/agenda-1/modifier-un-evenement/_index.html
-    - title: Créer un événement parent
-      target: "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent/_index.html
     - title: Créer un événement enfant
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
       kind: page
