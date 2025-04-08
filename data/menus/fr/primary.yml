@@ -228,6 +228,13 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/agenda-1/modifier-un-evenement"
       file: content/fr/pages/gerer-un-site-web/agenda-1/modifier-un-evenement/_index.html
+    - title: Créer une exposition
+      target: "/gerer-un-site-web/agenda-1/creer-une-exposition/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/agenda-1/creer-une-exposition"
+      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-une-exposition/_index.html
     path: "/pages/gerer-un-site-web/agenda-1"
     file: content/fr/pages/gerer-un-site-web/agenda-1/_index.html
   - title: Portfolio
