@@ -221,6 +221,13 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent/_index.html
+    - title: Créer un événement enfant
+      target: "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-enfant"
+      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/_index.html
     path: "/pages/gerer-un-site-web/agenda-1"
     file: content/fr/pages/gerer-un-site-web/agenda-1/_index.html
   - title: Portfolio
