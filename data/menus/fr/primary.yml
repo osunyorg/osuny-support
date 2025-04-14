@@ -431,7 +431,7 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: La gestion des blocs
+    - title: Composer sa page avec les blocs
       target: "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
       kind: page
       new_tab: false
