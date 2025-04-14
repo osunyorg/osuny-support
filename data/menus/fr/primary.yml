@@ -431,13 +431,6 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Les titres
-      target: "/composer-avec-les-blocs/composer-une-page/les-titres/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/composer-avec-les-blocs/composer-une-page/les-titres"
-      file: content/fr/pages/composer-avec-les-blocs/composer-une-page/les-titres/_index.html
     - title: La gestion des blocs
       target: "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
       kind: page
