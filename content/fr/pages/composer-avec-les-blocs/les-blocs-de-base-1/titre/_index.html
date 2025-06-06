@@ -8,7 +8,7 @@ bodyclass: >-
 url: "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
 slug: "titre"
 date: 2025-06-06T15:00:33+02:00
-lastmod: 2025-06-06T15:07:35+02:00
+lastmod: 2025-06-06T15:16:06+02:00
 meta:
   hugo:
     permalink: "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
@@ -17,7 +17,7 @@ meta:
     slug: "titre"
   dates:
     created_at: 2025-06-06T15:00:33+02:00
-    updated_at: 2025-06-06T15:07:35+02:00
+    updated_at: 2025-06-06T15:16:06+02:00
     published_at: 2025-06-06T15:00:33+02:00
 search:
   id: "1109d86c-1342-4aba-b95a-eed536eff991"
@@ -30,7 +30,7 @@ search:
   summary: >-
     <p>Rajoutez des titres pour structurer les contenus de votre page.</p>
   body: >-
-    <p>Ajout d'un bloc  <br>   <br>Sur la page ou l'actualité que vous avez créée, cliquez sur "ajouter un bloc" pour commencer à ajouter des blocs de contenu.</p>  <p> Ajout du bloc Titre  <br>   <br>Cliquez sur le bloc titre pour l'ajouter.</p>  <p> Remplir les informations du bloc  <br>   <br>Vous pouvez choisir la mise en page du bloc : une mise en page classique avec le titre tout simplement ou une mise en page replié, avce le titre replié et tous les </p>
+    <p>  <br>Le bloc titre va vous permettre de rajouter des titres pour structurer et ranger votre page.</p>  <p> Ajout d'un bloc  <br>   <br>Sur la page ou l'actualité que vous avez créée, cliquez sur "ajouter un bloc" pour commencer à ajouter des blocs de contenu.</p>  <p> Ajout du bloc Titre  <br>   <br>Cliquez sur le bloc titre pour l'ajouter.</p>  <p> Remplir les informations du bloc  <br>   <br>Vous pouvez choisir entre deux mises en page du bloc : soit une mise en page classique avec uniquement le titre visible ou une mise en page comprenant le titre replié et tous les blocs qui le suivent cachés avec un bouton pour les afficher.</p>  <p> Tutoriel vidéo  <br> Exemples  <br> Titre Classique  <br> Titre replié  <br>   <br>Chapitre 1 du titre replié</p>  <p>   <br>Chapitre 2 du titre replié</p>
 
 breadcrumbs:
   - title: >-
@@ -52,8 +52,8 @@ design:
     offcanvas: false
 
 
-position: 6
-weight: 6
+position: 1
+weight: 1
 
 translationKey: communication-website-page-dc8b0303-0065-49db-859a-c479972bad56
 
@@ -75,10 +75,37 @@ header_cta:
   external: false
 
 contents_reading_time:
-  seconds: 19
+  seconds: 31
   text: >-
-    moins d'une minute
+    1 minute
 contents:
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 2
+    top:
+      active: false
+    data:
+      layout: alt_background
+      text: >-
+        <p>Le bloc titre va vous permettre de rajouter des titres pour structurer et ranger votre page.</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
   - kind: block
     template: title
     title: >-
@@ -281,7 +308,7 @@ contents:
     data:
       layout: no_background
       text: >-
-        <p>Vous pouvez choisir la mise en page du bloc : une mise en page classique avec le titre tout simplement ou une mise en page replié, avce le titre replié et tous les </p>
+        <p>Vous pouvez choisir entre deux mises en page du bloc : soit une mise en page classique avec uniquement le titre visible ou une mise en page comprenant le titre replié et tous les blocs qui le suivent cachés avec un bouton pour les afficher.</p>
 
       notes: >-
         
@@ -318,6 +345,162 @@ contents:
 
         credit: >-
           
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Tutoriel vidéo
+    slug: >-
+      tutoriel-video
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Tutoriel vidéo
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: video
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      description: >-
+        
+
+      url: >-
+        
+
+      video_title: >-
+        
+
+      layout: player
+      transcription: >-
+        
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Exemples
+    slug: >-
+      exemples
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Exemples
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: title
+    title: >-
+      Titre Classique
+    slug: >-
+      titre-classique
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Titre Classique
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: title
+    title: >-
+      Titre replié
+    slug: >-
+      titre-replie
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Titre replié
+        heading: 2
+    data:
+      layout: collapsed
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p>Chapitre 1 du titre replié</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p>Chapitre 2 du titre replié</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
 
 
 

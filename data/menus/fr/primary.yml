@@ -452,6 +452,13 @@ items:
     kind: page
     new_tab: false
     children:
+    - title: Titre
+      target: "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/titre"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/titre/_index.html
     - title: Chapitre
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
       kind: page
