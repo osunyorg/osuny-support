@@ -599,6 +599,20 @@ items:
     kind: page
     new_tab: false
     children:
+    - title: Les liens
+      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-liens"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/_index.html
+    - title: Les licences
+      target: "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences/_index.html
     - title: Les fichiers
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
       kind: page
