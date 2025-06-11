@@ -592,6 +592,27 @@ items:
       children: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/_index.html
+    - title: Liste de campus
+      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/_index.html
+    - title: Liste de projets
+      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/_index.html
+    - title: Liste de catégories
+      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/_index.html
     path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/_index.html
   - title: Les blocs techniques
