@@ -62,6 +62,27 @@ items:
       file: content/fr/pages/gerer-un-site-web/sites/creer-un-site/_index.html
     path: "/pages/gerer-un-site-web/sites"
     file: content/fr/pages/gerer-un-site-web/sites/_index.html
+  - title: Répertoire
+    target: "/gerer-un-site-web/repertoire/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Personnes
+      target: "/gerer-un-site-web/repertoire/personnes-1/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/repertoire/personnes-1"
+      file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
+    - title: Organisations
+      target: "/gerer-un-site-web/repertoire/organisations-2/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/repertoire/organisations-2"
+      file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
+    path: "/pages/gerer-un-site-web/repertoire"
+    file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
   - title: Pages
     target: "/gerer-un-site-web/pages/"
     kind: page
@@ -272,27 +293,13 @@ items:
       file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
     path: "/pages/gerer-un-site-web/menus-1"
     file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
-  - title: Répertoire
-    target: "/gerer-un-site-web/repertoire/"
+  - title: Médiathèque
+    target: "/gerer-un-site-web/mediatheque/"
     kind: page
     new_tab: false
-    children:
-    - title: Personnes
-      target: "/gerer-un-site-web/repertoire/personnes-1/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gerer-un-site-web/repertoire/personnes-1"
-      file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
-    - title: Organisations
-      target: "/gerer-un-site-web/repertoire/organisations-2/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gerer-un-site-web/repertoire/organisations-2"
-      file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
-    path: "/pages/gerer-un-site-web/repertoire"
-    file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
+    children: []
+    path: "/pages/gerer-un-site-web/mediatheque"
+    file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
