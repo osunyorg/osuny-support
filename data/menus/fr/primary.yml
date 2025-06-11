@@ -146,34 +146,6 @@ items:
       file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
     path: "/pages/gerer-un-site-web/actualites-3"
     file: content/fr/pages/gerer-un-site-web/actualites-3/_index.html
-  - title: Menus
-    target: "/gerer-un-site-web/menus-1/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Créer un menu
-      target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gerer-un-site-web/menus-1/creer-un-menu-1"
-      file: content/fr/pages/gerer-un-site-web/menus-1/creer-un-menu-1/_index.html
-    - title: Relier des éléments au menu
-      target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gerer-un-site-web/menus-1/relier-elements-menu"
-      file: content/fr/pages/gerer-un-site-web/menus-1/relier-elements-menu/_index.html
-    - title: Modifier un menu
-      target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gerer-un-site-web/menus-1/modifier-un-menu-1"
-      file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
-    path: "/pages/gerer-un-site-web/menus-1"
-    file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
   - title: Agenda
     target: "/gerer-un-site-web/agenda-1/"
     kind: page
@@ -272,6 +244,34 @@ items:
       file: content/fr/pages/gerer-un-site-web/portfolio/modifier-un-projet/_index.html
     path: "/pages/gerer-un-site-web/portfolio"
     file: content/fr/pages/gerer-un-site-web/portfolio/_index.html
+  - title: Menus
+    target: "/gerer-un-site-web/menus-1/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Créer un menu
+      target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/menus-1/creer-un-menu-1"
+      file: content/fr/pages/gerer-un-site-web/menus-1/creer-un-menu-1/_index.html
+    - title: Relier des éléments au menu
+      target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/menus-1/relier-elements-menu"
+      file: content/fr/pages/gerer-un-site-web/menus-1/relier-elements-menu/_index.html
+    - title: Modifier un menu
+      target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/menus-1/modifier-un-menu-1"
+      file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
+    path: "/pages/gerer-un-site-web/menus-1"
+    file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
