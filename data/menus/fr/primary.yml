@@ -81,6 +81,13 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/repertoire/organisations-2"
       file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
+    - title: Utilisateur.rice.s
+      target: "/gerer-un-site-web/repertoire/utilisateurrices/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/repertoire/utilisateurrices"
+      file: content/fr/pages/gerer-un-site-web/repertoire/utilisateurrices/_index.html
     path: "/pages/gerer-un-site-web/repertoire"
     file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
   - title: Pages
