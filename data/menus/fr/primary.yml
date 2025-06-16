@@ -304,7 +304,28 @@ items:
     target: "/gerer-un-site-web/mediatheque/"
     kind: page
     new_tab: false
-    children: []
+    children:
+    - title: Ajouter un média
+      target: "/gerer-un-site-web/mediatheque/ajouter-un-media/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/mediatheque/ajouter-un-media"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-un-media/_index.html
+    - title: Gestion des collections
+      target: "/gerer-un-site-web/mediatheque/gestion-des-collections/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/mediatheque/gestion-des-collections"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/gestion-des-collections/_index.html
+    - title: Gestion des catégories
+      target: "/gerer-un-site-web/mediatheque/gestion-des-categories-4/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/mediatheque/gestion-des-categories-4"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/gestion-des-categories-4/_index.html
     path: "/pages/gerer-un-site-web/mediatheque"
     file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   path: "/pages/gerer-un-site-web"
