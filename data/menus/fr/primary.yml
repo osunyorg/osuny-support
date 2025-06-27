@@ -334,27 +334,33 @@ items:
     new_tab: false
     children:
     - title: Créer une offre d'emploi
-      target: ''
-      kind: blank
+      target: "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
+      kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/offres-demploi"
-      file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
+      path: "/pages/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi"
+      file: content/fr/pages/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/_index.html
     - title: Gestion des catégories
-      target: ''
-      kind: blank
+      target: "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
+      kind: page
       new_tab: false
       children: []
+      path: "/pages/gerer-un-site-web/offres-demploi/gestion-des-categories-5"
+      file: content/fr/pages/gerer-un-site-web/offres-demploi/gestion-des-categories-5/_index.html
     - title: Avant de publier
-      target: ''
-      kind: blank
+      target: "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
+      kind: page
       new_tab: false
       children: []
+      path: "/pages/gerer-un-site-web/offres-demploi/avant-de-publier-3"
+      file: content/fr/pages/gerer-un-site-web/offres-demploi/avant-de-publier-3/_index.html
     - title: Modifier une offre d'emploi
-      target: ''
-      kind: blank
+      target: "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
+      kind: page
       new_tab: false
       children: []
+      path: "/pages/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi"
+      file: content/fr/pages/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/_index.html
     path: "/pages/gerer-un-site-web/offres-demploi"
     file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
   path: "/pages/gerer-un-site-web"
