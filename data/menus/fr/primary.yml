@@ -332,7 +332,14 @@ items:
     target: "/gerer-un-site-web/offres-demploi/"
     kind: page
     new_tab: false
-    children: []
+    children:
+    - title: Créer une offre d'emploi
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/offres-demploi"
+      file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
     path: "/pages/gerer-un-site-web/offres-demploi"
     file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
   path: "/pages/gerer-un-site-web"
@@ -855,4 +862,11 @@ items:
     file: content/fr/pages/aller-plus-loin/administration-1/_index.html
   path: "/pages/aller-plus-loin"
   file: content/fr/pages/aller-plus-loin/_index.html
+- title: Offres d'emploi
+  target: "/gerer-un-site-web/offres-demploi/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/gerer-un-site-web/offres-demploi"
+  file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
 
