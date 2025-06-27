@@ -328,6 +328,13 @@ items:
       file: content/fr/pages/gerer-un-site-web/mediatheque/gestion-des-categories-4/_index.html
     path: "/pages/gerer-un-site-web/mediatheque"
     file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
+  - title: Offres d'emploi
+    target: "/gerer-un-site-web/offres-demploi/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/gerer-un-site-web/offres-demploi"
+    file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
