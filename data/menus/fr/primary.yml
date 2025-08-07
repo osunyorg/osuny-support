@@ -366,113 +366,113 @@ items:
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
-  target: "/gerer-un-site-web/gerer-un-extranet/"
+  target: "/gerer-un-extranet/"
   kind: page
   new_tab: false
   children:
   - title: Extranet
-    target: "/gerer-un-site-web/gerer-un-extranet/extranet-1/"
+    target: "/gerer-un-extranet/extranet-1/"
     kind: page
     new_tab: false
     children:
     - title: Fondamentaux
-      target: "/gerer-un-site-web/gerer-un-extranet/extranet-1/fondamentaux-1/"
+      target: "/gerer-un-extranet/extranet-1/fondamentaux-1/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/extranet-1/fondamentaux-1"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/extranet-1/fondamentaux-1/_index.html
+      path: "/pages/gerer-un-extranet/extranet-1/fondamentaux-1"
+      file: content/fr/pages/gerer-un-extranet/extranet-1/fondamentaux-1/_index.html
     - title: Types d'extranets
-      target: "/gerer-un-site-web/gerer-un-extranet/extranet-1/types-dextranets/"
+      target: "/gerer-un-extranet/extranet-1/types-dextranets/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/extranet-1/types-dextranets"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/extranet-1/types-dextranets/_index.html
-    path: "/pages/gerer-un-site-web/gerer-un-extranet/extranet-1"
-    file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/extranet-1/_index.html
+      path: "/pages/gerer-un-extranet/extranet-1/types-dextranets"
+      file: content/fr/pages/gerer-un-extranet/extranet-1/types-dextranets/_index.html
+    path: "/pages/gerer-un-extranet/extranet-1"
+    file: content/fr/pages/gerer-un-extranet/extranet-1/_index.html
   - title: Annuaire
-    target: "/gerer-un-site-web/gerer-un-extranet/annuaire/"
+    target: "/gerer-un-extranet/annuaire/"
     kind: page
     new_tab: false
     children:
     - title: Fonctionnement
-      target: "/gerer-un-site-web/gerer-un-extranet/annuaire/fonctionnement-1/"
+      target: "/gerer-un-extranet/annuaire/fonctionnement-1/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/annuaire/fonctionnement-1"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/annuaire/fonctionnement-1/_index.html
+      path: "/pages/gerer-un-extranet/annuaire/fonctionnement-1"
+      file: content/fr/pages/gerer-un-extranet/annuaire/fonctionnement-1/_index.html
     - title: Créer des personnes
-      target: "/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-personnes/"
+      target: "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-personnes"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-personnes/_index.html
+      path: "/pages/gerer-un-extranet/annuaire/ajouter-des-personnes"
+      file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-personnes/_index.html
     - title: Créer des organisations
-      target: "/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-organisations/"
+      target: "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-organisations"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-organisations/_index.html
+      path: "/pages/gerer-un-extranet/annuaire/ajouter-des-organisations"
+      file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-organisations/_index.html
     - title: Gérer les accès
-      target: "/gerer-un-site-web/gerer-un-extranet/annuaire/gerer-les-acces/"
+      target: "/gerer-un-extranet/annuaire/gerer-les-acces/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/annuaire/gerer-les-acces"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/annuaire/gerer-les-acces/_index.html
+      path: "/pages/gerer-un-extranet/annuaire/gerer-les-acces"
+      file: content/fr/pages/gerer-un-extranet/annuaire/gerer-les-acces/_index.html
     - title: Modifier des personnes
-      target: "/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-des-personnes/"
+      target: "/gerer-un-extranet/annuaire/modifier-des-personnes/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-des-personnes"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-des-personnes/_index.html
+      path: "/pages/gerer-un-extranet/annuaire/modifier-des-personnes"
+      file: content/fr/pages/gerer-un-extranet/annuaire/modifier-des-personnes/_index.html
     - title: Modifier une organisation
-      target: "/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-une-organisation/"
+      target: "/gerer-un-extranet/annuaire/modifier-une-organisation/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-une-organisation"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-une-organisation/_index.html
-    path: "/pages/gerer-un-site-web/gerer-un-extranet/annuaire"
-    file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/annuaire/_index.html
+      path: "/pages/gerer-un-extranet/annuaire/modifier-une-organisation"
+      file: content/fr/pages/gerer-un-extranet/annuaire/modifier-une-organisation/_index.html
+    path: "/pages/gerer-un-extranet/annuaire"
+    file: content/fr/pages/gerer-un-extranet/annuaire/_index.html
   - title: Actualités
-    target: "/gerer-un-site-web/gerer-un-extranet/actualites-4/"
+    target: "/gerer-un-extranet/actualites-4/"
     kind: page
     new_tab: false
     children:
     - title: Créer une actualité
-      target: "/gerer-un-site-web/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
+      target: "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/creer-une-actualite-2"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/creer-une-actualite-2/_index.html
+      path: "/pages/gerer-un-extranet/actualites-4/creer-une-actualite-2"
+      file: content/fr/pages/gerer-un-extranet/actualites-4/creer-une-actualite-2/_index.html
     - title: Gestion des catégories
-      target: "/gerer-un-site-web/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
+      target: "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/gestion-des-categories-2"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/gestion-des-categories-2/_index.html
+      path: "/pages/gerer-un-extranet/actualites-4/gestion-des-categories-2"
+      file: content/fr/pages/gerer-un-extranet/actualites-4/gestion-des-categories-2/_index.html
     - title: Mettre en avant une actualité
-      target: "/gerer-un-site-web/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
+      target: "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/_index.html
+      path: "/pages/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1"
+      file: content/fr/pages/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/_index.html
     - title: Avant de publier
-      target: "/gerer-un-site-web/gerer-un-extranet/actualites-4/avant-de-publier-2/"
+      target: "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/avant-de-publier-2"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/avant-de-publier-2/_index.html
+      path: "/pages/gerer-un-extranet/actualites-4/avant-de-publier-2"
+      file: content/fr/pages/gerer-un-extranet/actualites-4/avant-de-publier-2/_index.html
     - title: Modifier une actualité
       target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
       kind: page
@@ -480,38 +480,38 @@ items:
       children: []
       path: "/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1"
       file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
-    path: "/pages/gerer-un-site-web/gerer-un-extranet/actualites-4"
-    file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/actualites-4/_index.html
+    path: "/pages/gerer-un-extranet/actualites-4"
+    file: content/fr/pages/gerer-un-extranet/actualites-4/_index.html
   - title: Documents
-    target: "/gerer-un-site-web/gerer-un-extranet/documents/"
+    target: "/gerer-un-extranet/documents/"
     kind: page
     new_tab: false
     children:
     - title: Ajouter un document
-      target: "/gerer-un-site-web/gerer-un-extranet/documents/ajouter-un-document/"
+      target: "/gerer-un-extranet/documents/ajouter-un-document/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/documents/ajouter-un-document"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/documents/ajouter-un-document/_index.html
+      path: "/pages/gerer-un-extranet/documents/ajouter-un-document"
+      file: content/fr/pages/gerer-un-extranet/documents/ajouter-un-document/_index.html
     - title: Gestion des catégories
-      target: "/gerer-un-site-web/gerer-un-extranet/documents/gestion-des-categories-3/"
+      target: "/gerer-un-extranet/documents/gestion-des-categories-3/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/documents/gestion-des-categories-3"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/documents/gestion-des-categories-3/_index.html
+      path: "/pages/gerer-un-extranet/documents/gestion-des-categories-3"
+      file: content/fr/pages/gerer-un-extranet/documents/gestion-des-categories-3/_index.html
     - title: Gestion des types
-      target: "/gerer-un-site-web/gerer-un-extranet/documents/gestion-des-types/"
+      target: "/gerer-un-extranet/documents/gestion-des-types/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gerer-un-site-web/gerer-un-extranet/documents/gestion-des-types"
-      file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/documents/gestion-des-types/_index.html
-    path: "/pages/gerer-un-site-web/gerer-un-extranet/documents"
-    file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/documents/_index.html
-  path: "/pages/gerer-un-site-web/gerer-un-extranet"
-  file: content/fr/pages/gerer-un-site-web/gerer-un-extranet/_index.html
+      path: "/pages/gerer-un-extranet/documents/gestion-des-types"
+      file: content/fr/pages/gerer-un-extranet/documents/gestion-des-types/_index.html
+    path: "/pages/gerer-un-extranet/documents"
+    file: content/fr/pages/gerer-un-extranet/documents/_index.html
+  path: "/pages/gerer-un-extranet"
+  file: content/fr/pages/gerer-un-extranet/_index.html
 - title: Composer avec les blocs
   target: "/composer-avec-les-blocs/"
   kind: page
