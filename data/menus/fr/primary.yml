@@ -363,6 +363,27 @@ items:
       file: content/fr/pages/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/_index.html
     path: "/pages/gerer-un-site-web/offres-demploi"
     file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
+  - title: Accessibilité
+    target: "/gerer-un-site-web/rendre-son-site-accessible/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Les images
+      target: "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/les-images"
+      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/les-images/_index.html
+    - title: Dérogations
+      target: "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/derogations"
+      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/derogations/_index.html
+    path: "/pages/gerer-un-site-web/rendre-son-site-accessible"
+    file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/_index.html
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
