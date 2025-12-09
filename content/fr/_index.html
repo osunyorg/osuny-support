@@ -10,7 +10,7 @@ bodyclass: >-
 url: "/"
 slug: ""
 date: 2023-09-01T16:18:14+02:00
-lastmod: 2025-12-09T16:29:44+01:00
+lastmod: 2025-12-09T16:39:59+01:00
 meta:
   hugo:
     permalink: "/"
@@ -19,7 +19,7 @@ meta:
     slug: ""
   dates:
     created_at: 2022-08-22T11:37:01+02:00
-    updated_at: 2025-12-09T16:29:44+01:00
+    updated_at: 2025-12-09T16:39:59+01:00
     published_at: 2023-09-01T16:18:14+02:00
 search:
   id: "cad39862-416e-4b54-bc61-431af1a8feae"
@@ -30,9 +30,9 @@ search:
   title: >-
     Centre d'aide d'Osuny
   summary: >-
-    <p>L'espace de support Osuny vous permet de retrouver toute la documentation d'Osuny concernant la gestion de contenus.</p>
+    <p>Le centre d'aide Osuny vous permet de retrouver toute la documentation d'Osuny concernant la gestion de contenus. Apprenez facilement à maîtriser toutes les fonctionnalités du CMS.</p>
   body: >-
-    <p>Apprendre simplement </p>  <p>Commencer à utiliser Osuny <br>/commencer-simplement/demarrer-rapidement/</p>  <p>Qu'est-ce qu'Osuny ? <br>/commencer-simplement/decouvrir-osuny/</p>
+    <p>Découvrez comment créer un site avec Osuny </p>  <p> Comment gérer mes sites ?  </p>
 
 breadcrumbs:
   - title: >-
@@ -41,7 +41,7 @@ breadcrumbs:
 design:
   full_width: true
   toc:
-    present: false
+    present: true
     offcanvas: true
 
 
@@ -69,7 +69,7 @@ meta_description: >-
   
 
 summary: >-
-  <p>L'espace de support Osuny vous permet de retrouver toute la documentation d'Osuny concernant la gestion de contenus.</p>
+  <p>Le centre d'aide Osuny vous permet de retrouver toute la documentation d'Osuny concernant la gestion de contenus. Apprenez facilement à maîtriser toutes les fonctionnalités du CMS.</p>
 
 header_text: >-
   
@@ -77,16 +77,57 @@ header_cta:
 
 
 contents_reading_time:
-  seconds: 3
+  seconds: 4
   text: >-
     moins d'une minute
 contents:
   - kind: block
-    template: call_to_action
+    template: pages
     title: >-
-      Apprendre simplement
+      Découvrez comment créer un site avec Osuny
     slug: >-
-      apprendre-simplement
+      decouvrez-comment-creer-un-site-avec-osuny
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Découvrez comment créer un site avec Osuny
+        heading: 2
+    data:
+      options:
+        image: true
+        categories: false
+        main_summary: true
+        summary: true
+
+      layout: grid
+      pages:
+        - permalink: "/commencer-simplement/demarrer-rapidement/"
+          path: "/pages/commencer-simplement/demarrer-rapidement"
+          slug: "demarrer-rapidement"
+          file: "content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html"
+          name: >-
+            Démarrer rapidement
+        - permalink: "/commencer-simplement/decouvrir-osuny/"
+          path: "/pages/commencer-simplement/decouvrir-osuny"
+          slug: "decouvrir-osuny"
+          file: "content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html"
+          name: >-
+            Découvrir Osuny
+
+      quantity: 2
+
+
+  - kind: block
+    template: title
+    title: >-
+      Comment gérer mes sites ?
+    slug: >-
+      comment-gerer-mes-sites
     ranks:
       base: 2
       self: 2
@@ -94,35 +135,10 @@ contents:
       active: true
       title: 
         value: >-
-          Apprendre simplement
+          Comment gérer mes sites ?
         heading: 2
     data:
-      layout: accent_background
-      text: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-      buttons:
-        - title: >-
-            Commencer à utiliser Osuny
-
-          url: >-
-            /commencer-simplement/demarrer-rapidement/
-
-          target_blank: false
-        - title: >-
-            Qu'est-ce qu'Osuny ?
-
-          url: >-
-            /commencer-simplement/decouvrir-osuny/
-
-          target_blank: false
+      layout: classic
 
 
   - kind: block
@@ -132,8 +148,8 @@ contents:
     slug: >-
       
     ranks:
-      base: 2
-      children: 2
+      base: 3
+      children: 3
     top:
       active: false
     data:
@@ -174,14 +190,14 @@ contents:
     slug: >-
       
     ranks:
-      base: 2
-      children: 2
+      base: 3
+      children: 3
     top:
       active: true
       title: 
         value: >-
           Aller plus loin
-        heading: 2
+        heading: 3
         link: "/aller-plus-loin/"
       description: >-
         <p>Retrouvez ici des modules réservés aux universités. Comment gérer la pédagogie, la recherche et l’administration de votre établissement ?</p>
@@ -225,6 +241,7 @@ contents:
             Administration
 
       quantity: 4
+
 
 
 
