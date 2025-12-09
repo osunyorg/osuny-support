@@ -10,7 +10,7 @@ bodyclass: >-
 url: "/"
 slug: ""
 date: 2023-09-01T16:18:14+02:00
-lastmod: 2025-12-09T16:39:59+01:00
+lastmod: 2025-12-09T16:51:25+01:00
 meta:
   hugo:
     permalink: "/"
@@ -19,7 +19,7 @@ meta:
     slug: ""
   dates:
     created_at: 2022-08-22T11:37:01+02:00
-    updated_at: 2025-12-09T16:39:59+01:00
+    updated_at: 2025-12-09T16:51:25+01:00
     published_at: 2023-09-01T16:18:14+02:00
 search:
   id: "cad39862-416e-4b54-bc61-431af1a8feae"
@@ -32,7 +32,7 @@ search:
   summary: >-
     <p>Le centre d'aide Osuny vous permet de retrouver toute la documentation d'Osuny concernant la gestion de contenus. Apprenez facilement à maîtriser toutes les fonctionnalités du CMS.</p>
   body: >-
-    <p>Découvrez comment créer un site avec Osuny </p>  <p> Comment gérer mes sites ?  </p>
+    <p>Comment construire mon site ?  <br> Découvrez comment créer un site avec Osuny </p>  <p> Pour vous aider à y voir plus clair sur les étapes de création d'un site  <br>La coopérative noesya et Yuna Orsini, acteurs d'Osuny, ont écrit cet article pour accompagner les décideurs dans les étapes de création d'un site.</p>  <p>comment créer un site web</p>  <p>https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/</p>  <p> Comment gérer mes sites ?  <br> Apprenez à gérer l'administration de vos sites efficacement </p>  <p> Dernières fonctionnalités </p>
 
 breadcrumbs:
   - title: >-
@@ -77,10 +77,29 @@ header_cta:
 
 
 contents_reading_time:
-  seconds: 4
+  seconds: 22
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: title
+    title: >-
+      Comment construire mon site ?
+    slug: >-
+      comment-construire-mon-site
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Comment construire mon site ?
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: pages
     title: >-
@@ -88,15 +107,15 @@ contents:
     slug: >-
       decouvrez-comment-creer-un-site-avec-osuny
     ranks:
-      base: 2
-      self: 2
-      children: 3
+      base: 3
+      self: 3
+      children: 4
     top:
       active: true
       title: 
         value: >-
           Découvrez comment créer un site avec Osuny
-        heading: 2
+        heading: 3
     data:
       options:
         image: true
@@ -106,20 +125,59 @@ contents:
 
       layout: grid
       pages:
-        - permalink: "/commencer-simplement/demarrer-rapidement/"
-          path: "/pages/commencer-simplement/demarrer-rapidement"
-          slug: "demarrer-rapidement"
-          file: "content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html"
-          name: >-
-            Démarrer rapidement
         - permalink: "/commencer-simplement/decouvrir-osuny/"
           path: "/pages/commencer-simplement/decouvrir-osuny"
           slug: "decouvrir-osuny"
           file: "content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html"
           name: >-
             Découvrir Osuny
+        - permalink: "/commencer-simplement/demarrer-rapidement/"
+          path: "/pages/commencer-simplement/demarrer-rapidement"
+          slug: "demarrer-rapidement"
+          file: "content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html"
+          name: >-
+            Démarrer rapidement
 
       quantity: 2
+
+
+  - kind: block
+    template: links
+    title: >-
+      Pour vous aider à y voir plus clair sur les étapes de création d'un site
+    slug: >-
+      pour-vous-aider-a-y-voir-plus-clair-sur-les-etapes-de-creation-d-un-site
+    ranks:
+      base: 3
+      self: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Pour vous aider à y voir plus clair sur les étapes de création d'un site
+        heading: 3
+      description: >-
+        <p>La coopérative noesya et Yuna Orsini, acteurs d'Osuny, ont écrit cet article pour accompagner les décideurs dans les étapes de création d'un site.</p>
+    data:
+      description: >-
+        <p>La coopérative noesya et Yuna Orsini, acteurs d'Osuny, ont écrit cet article pour accompagner les décideurs dans les étapes de création d'un site.</p>
+
+      layout: cards
+      options:
+        icons: false
+
+      links:
+        - title: >-
+            comment créer un site web
+
+          description: >-
+            
+
+          url: >-
+            https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
+
+          external: true
+
 
 
   - kind: block
@@ -144,14 +202,19 @@ contents:
   - kind: block
     template: pages
     title: >-
-      
+      Apprenez à gérer l'administration de vos sites efficacement
     slug: >-
-      
+      apprenez-a-gerer-l-administration-de-vos-sites-efficacement
     ranks:
       base: 3
-      children: 3
+      self: 3
+      children: 4
     top:
-      active: false
+      active: true
+      title: 
+        value: >-
+          Apprenez à gérer l'administration de vos sites efficacement
+        heading: 3
     data:
       options:
         image: true
@@ -181,6 +244,47 @@ contents:
             Composer avec les blocs
 
       quantity: 3
+
+
+  - kind: block
+    template: posts
+    title: >-
+      Dernières fonctionnalités
+    slug: >-
+      dernieres-fonctionnalites
+    ranks:
+      base: 3
+      self: 3
+      children: 4
+    top:
+      active: true
+      title: 
+        value: >-
+          Dernières fonctionnalités
+        heading: 3
+        link: "/actualites/"
+    data:
+      mode: all
+      all: true
+      layout: highlight
+      options:
+        author: false
+        categories: false
+        date: true
+        image: true
+        reading_time: false
+        subtitle: true
+        summary: true
+
+      posts:
+        - permalink: "/actualites/2025-12-09-introduction-de-la-corbeille/"
+          path: "/posts/2025/2025-12-09-introduction-de-la-corbeille"
+          slug: "introduction-de-la-corbeille"
+          file: "content/fr/posts/2025/2025-12-09-introduction-de-la-corbeille.html"
+          name: >-
+            Introduction de la corbeille
+
+      quantity: 1
 
 
   - kind: block
@@ -241,7 +345,6 @@ contents:
             Administration
 
       quantity: 4
-
 
 
 
