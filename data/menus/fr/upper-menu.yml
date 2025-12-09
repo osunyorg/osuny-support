@@ -1,0 +1,14 @@
+---
+title: Upper-menu
+items:
+- title: Découvrir Osuny
+  target: https://www.osuny.org
+  kind: url
+  new_tab: false
+  children: []
+- title: Site d'exemple
+  target: https://example.osuny.org
+  kind: url
+  new_tab: true
+  children: []
+
