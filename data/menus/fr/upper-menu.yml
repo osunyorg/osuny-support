@@ -11,4 +11,14 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Sites fièrement produits avec Osuny
+  target: https://showcase.osuny.org
+  kind: url
+  new_tab: false
+  children: []
+- title: Transparence financière
+  target: https://transparence.osuny.org
+  kind: url
+  new_tab: false
+  children: []
 
