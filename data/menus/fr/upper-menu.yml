@@ -4,7 +4,7 @@ items:
 - title: Découvrir Osuny
   target: https://www.osuny.org
   kind: url
-  new_tab: false
+  new_tab: true
   children: []
 - title: Site d'exemple
   target: https://example.osuny.org
