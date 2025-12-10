@@ -20,6 +20,13 @@ items:
     children: []
     path: "/pages/commencer-simplement/decouvrir-osuny"
     file: content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html
+  - title: Utiliser un CMS
+    target: "/commencer-simplement/utiliser-un-cms/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/commencer-simplement/utiliser-un-cms"
+    file: content/fr/pages/commencer-simplement/utiliser-un-cms/_index.html
   path: "/pages/commencer-simplement"
   file: content/fr/pages/commencer-simplement/_index.html
 - title: Gérer un site web
