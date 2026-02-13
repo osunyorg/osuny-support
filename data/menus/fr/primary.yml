@@ -2,913 +2,1397 @@
 title: Primary
 items:
 - title: Commencer simplement
+  slug: commencer-simplement
   target: "/commencer-simplement/"
   kind: page
   new_tab: false
   children:
   - title: Démarrer rapidement
+    slug: demarrer-rapidement
     target: "/commencer-simplement/demarrer-rapidement/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/commencer-simplement/demarrer-rapidement"
     file: content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html
   - title: Découvrir Osuny
+    slug: decouvrir-osuny
     target: "/commencer-simplement/decouvrir-osuny/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/commencer-simplement/decouvrir-osuny"
     file: content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html
   - title: Utiliser un CMS
+    slug: utiliser-un-cms
     target: "/commencer-simplement/utiliser-un-cms/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/commencer-simplement/utiliser-un-cms"
     file: content/fr/pages/commencer-simplement/utiliser-un-cms/_index.html
+  descendants_targets:
+  - "/commencer-simplement/decouvrir-osuny/"
+  - "/commencer-simplement/demarrer-rapidement/"
+  - "/commencer-simplement/utiliser-un-cms/"
   path: "/pages/commencer-simplement"
   file: content/fr/pages/commencer-simplement/_index.html
 - title: Gérer un site web
+  slug: gerer-un-site-web
   target: "/gerer-un-site-web/"
   kind: page
   new_tab: false
   children:
   - title: Sites
+    slug: sites
     target: "/gerer-un-site-web/sites/"
     kind: page
     new_tab: false
     children:
     - title: Fondamentaux
+      slug: fondamentaux
       target: "/gerer-un-site-web/sites/fondamentaux/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/sites/fondamentaux"
       file: content/fr/pages/gerer-un-site-web/sites/fondamentaux/_index.html
     - title: Sites statiques
+      slug: sites-statiques
       target: "/gerer-un-site-web/sites/sites-statiques/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/sites/sites-statiques"
       file: content/fr/pages/gerer-un-site-web/sites/sites-statiques/_index.html
     - title: Statistiques de visite
+      slug: statistiques-de-visite
       target: "/gerer-un-site-web/sites/statistiques-de-visite/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/sites/statistiques-de-visite"
       file: content/fr/pages/gerer-un-site-web/sites/statistiques-de-visite/_index.html
     - title: Créer un site
+      slug: creer-un-site
       target: "/gerer-un-site-web/sites/creer-un-site/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/sites/creer-un-site"
       file: content/fr/pages/gerer-un-site-web/sites/creer-un-site/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/sites/creer-un-site/"
+    - "/gerer-un-site-web/sites/fondamentaux/"
+    - "/gerer-un-site-web/sites/sites-statiques/"
+    - "/gerer-un-site-web/sites/statistiques-de-visite/"
     path: "/pages/gerer-un-site-web/sites"
     file: content/fr/pages/gerer-un-site-web/sites/_index.html
   - title: Répertoire
+    slug: repertoire
     target: "/gerer-un-site-web/repertoire/"
     kind: page
     new_tab: false
     children:
     - title: Personnes
+      slug: personnes
       target: "/gerer-un-site-web/repertoire/personnes-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/repertoire/personnes-1"
       file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
     - title: Organisations
+      slug: organisations
       target: "/gerer-un-site-web/repertoire/organisations-2/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/repertoire/organisations-2"
       file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
     - title: Utilisateur.rice.s
+      slug: utilisateur-rice-s
       target: "/gerer-un-site-web/repertoire/utilisateurrices/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/repertoire/utilisateurrices"
       file: content/fr/pages/gerer-un-site-web/repertoire/utilisateurrices/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/repertoire/organisations-2/"
+    - "/gerer-un-site-web/repertoire/personnes-1/"
+    - "/gerer-un-site-web/repertoire/utilisateurrices/"
     path: "/pages/gerer-un-site-web/repertoire"
     file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
   - title: Pages
+    slug: pages
     target: "/gerer-un-site-web/pages/"
     kind: page
     new_tab: false
     children:
     - title: L'arborescence
+      slug: l-arborescence
       target: "/gerer-un-site-web/pages/larborescence/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/pages/larborescence"
       file: content/fr/pages/gerer-un-site-web/pages/larborescence/_index.html
     - title: Créer une page
+      slug: creer-une-page
       target: "/gerer-un-site-web/pages/creer-une-page-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/pages/creer-une-page-1"
       file: content/fr/pages/gerer-un-site-web/pages/creer-une-page-1/_index.html
     - title: Avant de publier
+      slug: avant-de-publier
       target: "/gerer-un-site-web/pages/avant-de-publier/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/pages/avant-de-publier"
       file: content/fr/pages/gerer-un-site-web/pages/avant-de-publier/_index.html
     - title: Modifier une page
+      slug: modifier-une-page
       target: "/gerer-un-site-web/pages/modifier-une-page-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/pages/modifier-une-page-1"
       file: content/fr/pages/gerer-un-site-web/pages/modifier-une-page-1/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/pages/avant-de-publier/"
+    - "/gerer-un-site-web/pages/creer-une-page-1/"
+    - "/gerer-un-site-web/pages/larborescence/"
+    - "/gerer-un-site-web/pages/modifier-une-page-1/"
     path: "/pages/gerer-un-site-web/pages"
     file: content/fr/pages/gerer-un-site-web/pages/_index.html
   - title: Actualités
+    slug: actualites
     target: "/gerer-un-site-web/actualites-3/"
     kind: page
     new_tab: false
     children:
     - title: Créer une actualité
+      slug: creer-une-actualite
       target: "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/actualites-3/creer-une-actualite-1"
       file: content/fr/pages/gerer-un-site-web/actualites-3/creer-une-actualite-1/_index.html
     - title: Gestion des catégories
+      slug: gestion-des-categories
       target: "/gerer-un-site-web/actualites-3/gestion-des-categories/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/actualites-3/gestion-des-categories"
       file: content/fr/pages/gerer-un-site-web/actualites-3/gestion-des-categories/_index.html
     - title: Gestion des auteur.e.s
+      slug: gestion-des-auteur-e-s
       target: "/gerer-un-site-web/actualites-3/gestion-des-auteures/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/actualites-3/gestion-des-auteures"
       file: content/fr/pages/gerer-un-site-web/actualites-3/gestion-des-auteures/_index.html
     - title: Mettre en avant une actualité
+      slug: mettre-en-avant-une-actualite
       target: "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite"
       file: content/fr/pages/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/_index.html
     - title: Avant de publier
+      slug: avant-de-publier
       target: "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/actualites-3/avant-de-publier-1"
       file: content/fr/pages/gerer-un-site-web/actualites-3/avant-de-publier-1/_index.html
     - title: Modifier une actualité
+      slug: modifier-une-actualite
       target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1"
       file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
+    - "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
+    - "/gerer-un-site-web/actualites-3/gestion-des-auteures/"
+    - "/gerer-un-site-web/actualites-3/gestion-des-categories/"
+    - "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
+    - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
     path: "/pages/gerer-un-site-web/actualites-3"
     file: content/fr/pages/gerer-un-site-web/actualites-3/_index.html
   - title: Agenda
+    slug: agenda
     target: "/gerer-un-site-web/agenda-1/"
     kind: page
     new_tab: false
     children:
     - title: Activer l'agenda
+      slug: activer-l-agenda
       target: "/gerer-un-site-web/agenda-1/activer-lagenda/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/activer-lagenda"
       file: content/fr/pages/gerer-un-site-web/agenda-1/activer-lagenda/_index.html
     - title: Créer un événement simple
+      slug: creer-un-evenement-simple
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement/_index.html
     - title: Créer un événement récurrent
+      slug: creer-un-evenement-recurrent
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/_index.html
     - title: Créer un événement parent
+      slug: creer-un-evenement-parent
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent/_index.html
     - title: Créer un événement enfant
+      slug: creer-un-evenement-enfant
       target: "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-enfant"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/_index.html
     - title: Créer une exposition
+      slug: creer-une-exposition
       target: "/gerer-un-site-web/agenda-1/creer-une-exposition/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-une-exposition"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-une-exposition/_index.html
     - title: Créer des catégories
+      slug: creer-des-categories
       target: "/gerer-un-site-web/agenda-1/creer-des-categories/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/creer-des-categories"
       file: content/fr/pages/gerer-un-site-web/agenda-1/creer-des-categories/_index.html
     - title: Modifier un événement
+      slug: modifier-un-evenement
       target: "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/agenda-1/modifier-un-evenement"
       file: content/fr/pages/gerer-un-site-web/agenda-1/modifier-un-evenement/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/agenda-1/activer-lagenda/"
+    - "/gerer-un-site-web/agenda-1/creer-des-categories/"
+    - "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
+    - "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
+    - "/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/"
+    - "/gerer-un-site-web/agenda-1/creer-un-evenement/"
+    - "/gerer-un-site-web/agenda-1/creer-une-exposition/"
+    - "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
     path: "/pages/gerer-un-site-web/agenda-1"
     file: content/fr/pages/gerer-un-site-web/agenda-1/_index.html
   - title: Portfolio
+    slug: portfolio
     target: "/gerer-un-site-web/portfolio/"
     kind: page
     new_tab: false
     children:
     - title: Activer le portfolio
+      slug: activer-le-portfolio
       target: "/gerer-un-site-web/portfolio/activer-le-portfolio/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/portfolio/activer-le-portfolio"
       file: content/fr/pages/gerer-un-site-web/portfolio/activer-le-portfolio/_index.html
     - title: Créer un projet
+      slug: creer-un-projet
       target: "/gerer-un-site-web/portfolio/creer-un-projet/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/portfolio/creer-un-projet"
       file: content/fr/pages/gerer-un-site-web/portfolio/creer-un-projet/_index.html
     - title: Créer des catégories
+      slug: creer-des-categories
       target: "/gerer-un-site-web/portfolio/creer-des-categories-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/portfolio/creer-des-categories-1"
       file: content/fr/pages/gerer-un-site-web/portfolio/creer-des-categories-1/_index.html
     - title: Modifier un projet
+      slug: modifier-un-projet
       target: "/gerer-un-site-web/portfolio/modifier-un-projet/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/portfolio/modifier-un-projet"
       file: content/fr/pages/gerer-un-site-web/portfolio/modifier-un-projet/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/portfolio/activer-le-portfolio/"
+    - "/gerer-un-site-web/portfolio/creer-des-categories-1/"
+    - "/gerer-un-site-web/portfolio/creer-un-projet/"
+    - "/gerer-un-site-web/portfolio/modifier-un-projet/"
     path: "/pages/gerer-un-site-web/portfolio"
     file: content/fr/pages/gerer-un-site-web/portfolio/_index.html
   - title: Menus
+    slug: menus
     target: "/gerer-un-site-web/menus-1/"
     kind: page
     new_tab: false
     children:
     - title: Créer un menu
+      slug: creer-un-menu
       target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/menus-1/creer-un-menu-1"
       file: content/fr/pages/gerer-un-site-web/menus-1/creer-un-menu-1/_index.html
     - title: Relier des éléments au menu
+      slug: relier-des-elements-au-menu
       target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/menus-1/relier-elements-menu"
       file: content/fr/pages/gerer-un-site-web/menus-1/relier-elements-menu/_index.html
     - title: Modifier un menu
+      slug: modifier-un-menu
       target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/menus-1/modifier-un-menu-1"
       file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
+    - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
+    - "/gerer-un-site-web/menus-1/relier-elements-menu/"
     path: "/pages/gerer-un-site-web/menus-1"
     file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
   - title: Médiathèque
+    slug: mediatheque
     target: "/gerer-un-site-web/mediatheque/"
     kind: page
     new_tab: false
     children:
     - title: Ajouter un média
+      slug: ajouter-un-media
       target: "/gerer-un-site-web/mediatheque/ajouter-un-media/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/mediatheque/ajouter-un-media"
       file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-un-media/_index.html
     - title: Gestion des collections
+      slug: gestion-des-collections
       target: "/gerer-un-site-web/mediatheque/gestion-des-collections/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/mediatheque/gestion-des-collections"
       file: content/fr/pages/gerer-un-site-web/mediatheque/gestion-des-collections/_index.html
     - title: Gestion des catégories
+      slug: gestion-des-categories
       target: "/gerer-un-site-web/mediatheque/gestion-des-categories-4/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/mediatheque/gestion-des-categories-4"
       file: content/fr/pages/gerer-un-site-web/mediatheque/gestion-des-categories-4/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/mediatheque/ajouter-un-media/"
+    - "/gerer-un-site-web/mediatheque/gestion-des-categories-4/"
+    - "/gerer-un-site-web/mediatheque/gestion-des-collections/"
     path: "/pages/gerer-un-site-web/mediatheque"
     file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   - title: Offres d'emploi
+    slug: offres-d-emploi
     target: "/gerer-un-site-web/offres-demploi/"
     kind: page
     new_tab: false
     children:
     - title: Créer une offre d'emploi
+      slug: creer-une-offre-d-emploi
       target: "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi"
       file: content/fr/pages/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/_index.html
     - title: Gestion des catégories
+      slug: gestion-des-categories
       target: "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/offres-demploi/gestion-des-categories-5"
       file: content/fr/pages/gerer-un-site-web/offres-demploi/gestion-des-categories-5/_index.html
     - title: Avant de publier
+      slug: avant-de-publier
       target: "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/offres-demploi/avant-de-publier-3"
       file: content/fr/pages/gerer-un-site-web/offres-demploi/avant-de-publier-3/_index.html
     - title: Modifier une offre d'emploi
+      slug: modifier-une-offre-d-emploi
       target: "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi"
       file: content/fr/pages/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
+    - "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
+    - "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
+    - "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
     path: "/pages/gerer-un-site-web/offres-demploi"
     file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
   - title: Accessibilité
+    slug: accessibilite
     target: "/gerer-un-site-web/rendre-son-site-accessible/"
     kind: page
     new_tab: false
     children:
     - title: Les images
+      slug: les-images
       target: "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/rendre-son-site-accessible/les-images"
       file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/les-images/_index.html
     - title: Dérogations
+      slug: derogations
       target: "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/rendre-son-site-accessible/derogations"
       file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/derogations/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
+    - "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
     path: "/pages/gerer-un-site-web/rendre-son-site-accessible"
     file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/_index.html
+  descendants_targets:
+  - "/gerer-un-site-web/actualites-3/"
+  - "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
+  - "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
+  - "/gerer-un-site-web/actualites-3/gestion-des-auteures/"
+  - "/gerer-un-site-web/actualites-3/gestion-des-categories/"
+  - "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
+  - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
+  - "/gerer-un-site-web/agenda-1/"
+  - "/gerer-un-site-web/agenda-1/activer-lagenda/"
+  - "/gerer-un-site-web/agenda-1/creer-des-categories/"
+  - "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
+  - "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
+  - "/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/"
+  - "/gerer-un-site-web/agenda-1/creer-un-evenement/"
+  - "/gerer-un-site-web/agenda-1/creer-une-exposition/"
+  - "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
+  - "/gerer-un-site-web/mediatheque/"
+  - "/gerer-un-site-web/mediatheque/ajouter-un-media/"
+  - "/gerer-un-site-web/mediatheque/gestion-des-categories-4/"
+  - "/gerer-un-site-web/mediatheque/gestion-des-collections/"
+  - "/gerer-un-site-web/menus-1/"
+  - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
+  - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
+  - "/gerer-un-site-web/menus-1/relier-elements-menu/"
+  - "/gerer-un-site-web/offres-demploi/"
+  - "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
+  - "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
+  - "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
+  - "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
+  - "/gerer-un-site-web/pages/"
+  - "/gerer-un-site-web/pages/avant-de-publier/"
+  - "/gerer-un-site-web/pages/creer-une-page-1/"
+  - "/gerer-un-site-web/pages/larborescence/"
+  - "/gerer-un-site-web/pages/modifier-une-page-1/"
+  - "/gerer-un-site-web/portfolio/"
+  - "/gerer-un-site-web/portfolio/activer-le-portfolio/"
+  - "/gerer-un-site-web/portfolio/creer-des-categories-1/"
+  - "/gerer-un-site-web/portfolio/creer-un-projet/"
+  - "/gerer-un-site-web/portfolio/modifier-un-projet/"
+  - "/gerer-un-site-web/rendre-son-site-accessible/"
+  - "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
+  - "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
+  - "/gerer-un-site-web/repertoire/"
+  - "/gerer-un-site-web/repertoire/organisations-2/"
+  - "/gerer-un-site-web/repertoire/personnes-1/"
+  - "/gerer-un-site-web/repertoire/utilisateurrices/"
+  - "/gerer-un-site-web/sites/"
+  - "/gerer-un-site-web/sites/creer-un-site/"
+  - "/gerer-un-site-web/sites/fondamentaux/"
+  - "/gerer-un-site-web/sites/sites-statiques/"
+  - "/gerer-un-site-web/sites/statistiques-de-visite/"
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
+  slug: gerer-un-extranet
   target: "/gerer-un-extranet/"
   kind: page
   new_tab: false
   children:
   - title: Extranet
+    slug: extranet
     target: "/gerer-un-extranet/extranet-1/"
     kind: page
     new_tab: false
     children:
     - title: Fondamentaux
+      slug: fondamentaux
       target: "/gerer-un-extranet/extranet-1/fondamentaux-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/extranet-1/fondamentaux-1"
       file: content/fr/pages/gerer-un-extranet/extranet-1/fondamentaux-1/_index.html
     - title: Types d'extranets
+      slug: types-d-extranets
       target: "/gerer-un-extranet/extranet-1/types-dextranets/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/extranet-1/types-dextranets"
       file: content/fr/pages/gerer-un-extranet/extranet-1/types-dextranets/_index.html
+    descendants_targets:
+    - "/gerer-un-extranet/extranet-1/fondamentaux-1/"
+    - "/gerer-un-extranet/extranet-1/types-dextranets/"
     path: "/pages/gerer-un-extranet/extranet-1"
     file: content/fr/pages/gerer-un-extranet/extranet-1/_index.html
   - title: Annuaire
+    slug: annuaire
     target: "/gerer-un-extranet/annuaire/"
     kind: page
     new_tab: false
     children:
     - title: Fonctionnement
+      slug: fonctionnement
       target: "/gerer-un-extranet/annuaire/fonctionnement-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/annuaire/fonctionnement-1"
       file: content/fr/pages/gerer-un-extranet/annuaire/fonctionnement-1/_index.html
     - title: Créer des personnes
+      slug: creer-des-personnes
       target: "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/annuaire/ajouter-des-personnes"
       file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-personnes/_index.html
     - title: Créer des organisations
+      slug: creer-des-organisations
       target: "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/annuaire/ajouter-des-organisations"
       file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-organisations/_index.html
     - title: Gérer les accès
+      slug: gerer-les-acces
       target: "/gerer-un-extranet/annuaire/gerer-les-acces/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/annuaire/gerer-les-acces"
       file: content/fr/pages/gerer-un-extranet/annuaire/gerer-les-acces/_index.html
     - title: Modifier des personnes
+      slug: modifier-des-personnes
       target: "/gerer-un-extranet/annuaire/modifier-des-personnes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/annuaire/modifier-des-personnes"
       file: content/fr/pages/gerer-un-extranet/annuaire/modifier-des-personnes/_index.html
     - title: Modifier une organisation
+      slug: modifier-une-organisation
       target: "/gerer-un-extranet/annuaire/modifier-une-organisation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/annuaire/modifier-une-organisation"
       file: content/fr/pages/gerer-un-extranet/annuaire/modifier-une-organisation/_index.html
+    descendants_targets:
+    - "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
+    - "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
+    - "/gerer-un-extranet/annuaire/fonctionnement-1/"
+    - "/gerer-un-extranet/annuaire/gerer-les-acces/"
+    - "/gerer-un-extranet/annuaire/modifier-des-personnes/"
+    - "/gerer-un-extranet/annuaire/modifier-une-organisation/"
     path: "/pages/gerer-un-extranet/annuaire"
     file: content/fr/pages/gerer-un-extranet/annuaire/_index.html
   - title: Actualités
+    slug: actualites
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
     new_tab: false
     children:
     - title: Créer une actualité
+      slug: creer-une-actualite
       target: "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/actualites-4/creer-une-actualite-2"
       file: content/fr/pages/gerer-un-extranet/actualites-4/creer-une-actualite-2/_index.html
     - title: Gestion des catégories
+      slug: gestion-des-categories
       target: "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/actualites-4/gestion-des-categories-2"
       file: content/fr/pages/gerer-un-extranet/actualites-4/gestion-des-categories-2/_index.html
     - title: Mettre en avant une actualité
+      slug: mettre-en-avant-une-actualite
       target: "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1"
       file: content/fr/pages/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/_index.html
     - title: Avant de publier
+      slug: avant-de-publier
       target: "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/actualites-4/avant-de-publier-2"
       file: content/fr/pages/gerer-un-extranet/actualites-4/avant-de-publier-2/_index.html
     - title: Modifier une actualité
+      slug: modifier-une-actualite
       target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1"
       file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
+    descendants_targets:
+    - "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
+    - "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
+    - "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
+    - "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
+    - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
     path: "/pages/gerer-un-extranet/actualites-4"
     file: content/fr/pages/gerer-un-extranet/actualites-4/_index.html
   - title: Documents
+    slug: documents
     target: "/gerer-un-extranet/documents/"
     kind: page
     new_tab: false
     children:
     - title: Ajouter un document
+      slug: ajouter-un-document
       target: "/gerer-un-extranet/documents/ajouter-un-document/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/documents/ajouter-un-document"
       file: content/fr/pages/gerer-un-extranet/documents/ajouter-un-document/_index.html
     - title: Gestion des catégories
+      slug: gestion-des-categories
       target: "/gerer-un-extranet/documents/gestion-des-categories-3/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/documents/gestion-des-categories-3"
       file: content/fr/pages/gerer-un-extranet/documents/gestion-des-categories-3/_index.html
     - title: Gestion des types
+      slug: gestion-des-types
       target: "/gerer-un-extranet/documents/gestion-des-types/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gerer-un-extranet/documents/gestion-des-types"
       file: content/fr/pages/gerer-un-extranet/documents/gestion-des-types/_index.html
+    descendants_targets:
+    - "/gerer-un-extranet/documents/ajouter-un-document/"
+    - "/gerer-un-extranet/documents/gestion-des-categories-3/"
+    - "/gerer-un-extranet/documents/gestion-des-types/"
     path: "/pages/gerer-un-extranet/documents"
     file: content/fr/pages/gerer-un-extranet/documents/_index.html
+  descendants_targets:
+  - "/gerer-un-extranet/actualites-4/"
+  - "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
+  - "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
+  - "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
+  - "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
+  - "/gerer-un-extranet/annuaire/"
+  - "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
+  - "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
+  - "/gerer-un-extranet/annuaire/fonctionnement-1/"
+  - "/gerer-un-extranet/annuaire/gerer-les-acces/"
+  - "/gerer-un-extranet/annuaire/modifier-des-personnes/"
+  - "/gerer-un-extranet/annuaire/modifier-une-organisation/"
+  - "/gerer-un-extranet/documents/"
+  - "/gerer-un-extranet/documents/ajouter-un-document/"
+  - "/gerer-un-extranet/documents/gestion-des-categories-3/"
+  - "/gerer-un-extranet/documents/gestion-des-types/"
+  - "/gerer-un-extranet/extranet-1/"
+  - "/gerer-un-extranet/extranet-1/fondamentaux-1/"
+  - "/gerer-un-extranet/extranet-1/types-dextranets/"
+  - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
   path: "/pages/gerer-un-extranet"
   file: content/fr/pages/gerer-un-extranet/_index.html
 - title: Composer avec les blocs
+  slug: composer-avec-les-blocs
   target: "/composer-avec-les-blocs/"
   kind: page
   new_tab: false
   children:
   - title: La gestion des blocs
+    slug: la-gestion-des-blocs
     target: "/composer-avec-les-blocs/composer-une-page/"
     kind: page
     new_tab: false
     children:
     - title: Composer sa page avec les blocs
+      slug: composer-sa-page-avec-les-blocs
       target: "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs"
       file: content/fr/pages/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/_index.html
     - title: Copier-coller un bloc
+      slug: copier-coller-un-bloc
       target: "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc"
       file: content/fr/pages/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/_index.html
+    descendants_targets:
+    - "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
+    - "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
     path: "/pages/composer-avec-les-blocs/composer-une-page"
     file: content/fr/pages/composer-avec-les-blocs/composer-une-page/_index.html
   - title: Les blocs de base
+    slug: les-blocs-de-base
     target: "/composer-avec-les-blocs/les-blocs-de-base-1/"
     kind: page
     new_tab: false
     children:
     - title: Titre
+      slug: titre
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/titre"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/titre/_index.html
     - title: Chapitre
+      slug: chapitre
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/chapitre"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/_index.html
     - title: Image
+      slug: image
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/image"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/image/_index.html
     - title: Vidéo
+      slug: video
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/video"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/video/_index.html
     - title: Son
+      slug: son
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/son"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/son/_index.html
     - title: Tableau
+      slug: tableau
       target: "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/tableau"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/tableau/_index.html
+    descendants_targets:
+    - "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
+    - "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
+    - "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
+    - "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
+    - "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
+    - "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
     path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/_index.html
   - title: Les blocs narratifs
+    slug: les-blocs-narratifs
     target: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
     kind: page
     new_tab: false
     children:
     - title: Chiffres clés
+      slug: chiffres-cles
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/_index.html
     - title: Fonctionnalités
+      slug: fonctionnalites
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/_index.html
     - title: Galerie d'images
+      slug: galerie-d-images
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/_index.html
     - title: Appel à actions
+      slug: appel-a-actions
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/_index.html
     - title: Témoignages
+      slug: temoignages
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/_index.html
     - title: Frise chronologique
+      slug: frise-chronologique
       target: "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/_index.html
+    descendants_targets:
+    - "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
+    - "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
+    - "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
+    - "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
+    - "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
+    - "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
     path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/_index.html
   - title: Les blocs de listes
+    slug: les-blocs-de-listes
     target: "/composer-avec-les-blocs/les-blocs-de-listes-1/"
     kind: page
     new_tab: false
     children:
     - title: Liste de pages
+      slug: liste-de-pages
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/_index.html
     - title: Liste d'actualités
+      slug: liste-d-actualites
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/_index.html
     - title: Liste de personnes
+      slug: liste-de-personnes
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/_index.html
     - title: Liste d'organisations
+      slug: liste-d-organisations
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/_index.html
     - title: Liste de formations
+      slug: liste-de-formations
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/_index.html
     - title: Liste d'événements
+      slug: liste-d-evenements
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/_index.html
     - title: Liste de campus
+      slug: liste-de-campus
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/_index.html
     - title: Liste de projets
+      slug: liste-de-projets
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/_index.html
     - title: Liste de catégories
+      slug: liste-de-categories
       target: "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/_index.html
+    descendants_targets:
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/"
+    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
     path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/_index.html
   - title: Les blocs techniques
+    slug: les-blocs-techniques
     target: "/composer-avec-les-blocs/les-blocs-techniques-1/"
     kind: page
     new_tab: false
     children:
     - title: Les liens
+      slug: les-liens
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-liens"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/_index.html
     - title: Les licences
+      slug: les-licences
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences/_index.html
     - title: Les fichiers
+      slug: les-fichiers
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/_index.html
     - title: Les définitions
+      slug: les-definitions
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/_index.html
     - title: Le code HTML
+      slug: le-code-html
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/_index.html
     - title: Contact
+      slug: contact
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/contact"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/contact/_index.html
+    descendants_targets:
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
     path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/_index.html
+  descendants_targets:
+  - "/composer-avec-les-blocs/composer-une-page/"
+  - "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
+  - "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
+  - "/composer-avec-les-blocs/les-blocs-de-base-1/"
+  - "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
+  - "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
+  - "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
+  - "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
+  - "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
+  - "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/"
+  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
+  - "/composer-avec-les-blocs/les-blocs-narratifs-1/"
+  - "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
+  - "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
+  - "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
+  - "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
+  - "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
+  - "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
   path: "/pages/composer-avec-les-blocs"
   file: content/fr/pages/composer-avec-les-blocs/_index.html
 - title: Aller plus loin
+  slug: aller-plus-loin
   target: "/aller-plus-loin/"
   kind: page
   new_tab: false
   children:
   - title: Université
+    slug: universite
     target: "/aller-plus-loin/universite/"
     kind: page
     new_tab: false
     children:
     - title: Équipe
+      slug: equipe
       target: "/aller-plus-loin/universite/equipe-1/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/universite/equipe-1"
       file: content/fr/pages/aller-plus-loin/universite/equipe-1/_index.html
     - title: Multilingue
+      slug: multilingue
       target: "/aller-plus-loin/universite/multilingue/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/universite/multilingue"
       file: content/fr/pages/aller-plus-loin/universite/multilingue/_index.html
+    descendants_targets:
+    - "/aller-plus-loin/universite/equipe-1/"
+    - "/aller-plus-loin/universite/multilingue/"
     path: "/pages/aller-plus-loin/universite"
     file: content/fr/pages/aller-plus-loin/universite/_index.html
   - title: Pédagogie
+    slug: pedagogie
     target: "/aller-plus-loin/pedagogie/"
     kind: page
     new_tab: false
     children:
     - title: Les enseignant.e.s
+      slug: les-enseignant-e-s
       target: "/aller-plus-loin/pedagogie/les-enseignantes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/pedagogie/les-enseignantes"
       file: content/fr/pages/aller-plus-loin/pedagogie/les-enseignantes/_index.html
     - title: Les écoles
+      slug: les-ecoles
       target: "/aller-plus-loin/pedagogie/les-ecoles/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/pedagogie/les-ecoles"
       file: content/fr/pages/aller-plus-loin/pedagogie/les-ecoles/_index.html
     - title: Les formations
+      slug: les-formations
       target: "/aller-plus-loin/pedagogie/les-formations/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/pedagogie/les-formations"
       file: content/fr/pages/aller-plus-loin/pedagogie/les-formations/_index.html
     - title: Les diplômes
+      slug: les-diplomes
       target: "/aller-plus-loin/pedagogie/les-diplomes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/pedagogie/les-diplomes"
       file: content/fr/pages/aller-plus-loin/pedagogie/les-diplomes/_index.html
     - title: Les alumni
+      slug: les-alumni
       target: "/aller-plus-loin/pedagogie/les-alumni/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/pedagogie/les-alumni"
       file: content/fr/pages/aller-plus-loin/pedagogie/les-alumni/_index.html
+    descendants_targets:
+    - "/aller-plus-loin/pedagogie/les-alumni/"
+    - "/aller-plus-loin/pedagogie/les-diplomes/"
+    - "/aller-plus-loin/pedagogie/les-ecoles/"
+    - "/aller-plus-loin/pedagogie/les-enseignantes/"
+    - "/aller-plus-loin/pedagogie/les-formations/"
     path: "/pages/aller-plus-loin/pedagogie"
     file: content/fr/pages/aller-plus-loin/pedagogie/_index.html
   - title: Recherche
+    slug: recherche
     target: "/aller-plus-loin/recherche-1/"
     kind: page
     new_tab: false
     children:
     - title: Les chercheur.e.s
+      slug: les-chercheur-e-s
       target: "/aller-plus-loin/recherche-1/les-chercheures/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/recherche-1/les-chercheures"
       file: content/fr/pages/aller-plus-loin/recherche-1/les-chercheures/_index.html
     - title: Les laboratoires
+      slug: les-laboratoires
       target: "/aller-plus-loin/recherche-1/les-laboratoires/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/recherche-1/les-laboratoires"
       file: content/fr/pages/aller-plus-loin/recherche-1/les-laboratoires/_index.html
     - title: Les publications
+      slug: les-publications
       target: "/aller-plus-loin/recherche-1/les-publications/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/recherche-1/les-publications"
       file: content/fr/pages/aller-plus-loin/recherche-1/les-publications/_index.html
     - title: Les revues scientifiques
+      slug: les-revues-scientifiques
       target: "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/recherche-1/les-revues-scientifiques"
       file: content/fr/pages/aller-plus-loin/recherche-1/les-revues-scientifiques/_index.html
     - title: Les thèses
+      slug: les-theses
       target: "/aller-plus-loin/recherche-1/les-theses/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/recherche-1/les-theses"
       file: content/fr/pages/aller-plus-loin/recherche-1/les-theses/_index.html
+    descendants_targets:
+    - "/aller-plus-loin/recherche-1/les-chercheures/"
+    - "/aller-plus-loin/recherche-1/les-laboratoires/"
+    - "/aller-plus-loin/recherche-1/les-publications/"
+    - "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
+    - "/aller-plus-loin/recherche-1/les-theses/"
     path: "/pages/aller-plus-loin/recherche-1"
     file: content/fr/pages/aller-plus-loin/recherche-1/_index.html
   - title: Administration
+    slug: administration
     target: "/aller-plus-loin/administration-1/"
     kind: page
     new_tab: false
     children:
     - title: Qualiopi
+      slug: qualiopi
       target: "/aller-plus-loin/administration-1/qualiopi/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/aller-plus-loin/administration-1/qualiopi"
       file: content/fr/pages/aller-plus-loin/administration-1/qualiopi/_index.html
+    descendants_targets:
+    - "/aller-plus-loin/administration-1/qualiopi/"
     path: "/pages/aller-plus-loin/administration-1"
     file: content/fr/pages/aller-plus-loin/administration-1/_index.html
+  descendants_targets:
+  - "/aller-plus-loin/administration-1/"
+  - "/aller-plus-loin/administration-1/qualiopi/"
+  - "/aller-plus-loin/pedagogie/"
+  - "/aller-plus-loin/pedagogie/les-alumni/"
+  - "/aller-plus-loin/pedagogie/les-diplomes/"
+  - "/aller-plus-loin/pedagogie/les-ecoles/"
+  - "/aller-plus-loin/pedagogie/les-enseignantes/"
+  - "/aller-plus-loin/pedagogie/les-formations/"
+  - "/aller-plus-loin/recherche-1/"
+  - "/aller-plus-loin/recherche-1/les-chercheures/"
+  - "/aller-plus-loin/recherche-1/les-laboratoires/"
+  - "/aller-plus-loin/recherche-1/les-publications/"
+  - "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
+  - "/aller-plus-loin/recherche-1/les-theses/"
+  - "/aller-plus-loin/universite/"
+  - "/aller-plus-loin/universite/equipe-1/"
+  - "/aller-plus-loin/universite/multilingue/"
   path: "/pages/aller-plus-loin"
   file: content/fr/pages/aller-plus-loin/_index.html
 
