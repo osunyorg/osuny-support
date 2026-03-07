@@ -2,7 +2,7 @@ theme: osuny-www-design-system
 _merge: deep
 params:
   plausible: support.osuny.org
-  additional_csp: 'unsafe-inline'
+  additional_csp: app.cal.com 'unsafe-inline'
   menu:
     primary:
       level_1:
