@@ -2,9 +2,10 @@ theme: osuny-www-design-system
 _merge: deep
 params:
   plausible: support.osuny.org
-  pages:
-    default_image: true
-  search:
-    active: true
-    positions:
-      - footer
+  additional_csp: 'unsafe-inline'
+  menu:
+    primary:
+      level_1:
+        dropdown: true
+      # level_2:
+      #   dropdown: true
