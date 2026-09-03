@@ -434,38 +434,8 @@ items:
     target: "/gerer-un-site-web/mediatheque/"
     kind: page
     new_tab: false
-    children:
-    - title: Ajouter un média
-      slug: ajouter-un-media
-      target: "/gerer-un-site-web/mediatheque/ajouter-un-media/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/ajouter-un-media"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-un-media/_index.html
-    - title: Gestion des collections
-      slug: gestion-des-collections
-      target: "/gerer-un-site-web/mediatheque/gestion-des-collections/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/gestion-des-collections"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/gestion-des-collections/_index.html
-    - title: Gestion des catégories
-      slug: gestion-des-categories
-      target: "/gerer-un-site-web/mediatheque/gestion-des-categories-4/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/gestion-des-categories-4"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/gestion-des-categories-4/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/mediatheque/ajouter-un-media/"
-    - "/gerer-un-site-web/mediatheque/gestion-des-categories-4/"
-    - "/gerer-un-site-web/mediatheque/gestion-des-collections/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/mediatheque"
     file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   - title: Offres d'emploi
@@ -564,9 +534,6 @@ items:
   - "/gerer-un-site-web/agenda-1/creer-une-exposition/"
   - "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
   - "/gerer-un-site-web/mediatheque/"
-  - "/gerer-un-site-web/mediatheque/ajouter-un-media/"
-  - "/gerer-un-site-web/mediatheque/gestion-des-categories-4/"
-  - "/gerer-un-site-web/mediatheque/gestion-des-collections/"
   - "/gerer-un-site-web/menus-1/"
   - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
   - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
