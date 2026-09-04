@@ -429,13 +429,33 @@ items:
     - "/gerer-un-site-web/menus-1/relier-elements-menu/"
     path: "/pages/gerer-un-site-web/menus-1"
     file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
-  - title: Médiathèque
-    slug: mediatheque
+  - title: Médias
+    slug: medias
     target: "/gerer-un-site-web/mediatheque/"
     kind: page
     new_tab: false
-    children: []
-    descendants_targets: []
+    children:
+    - title: Images
+      slug: images
+      target: "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/_index.html
+    - title: Fichiers
+      slug: fichiers
+      target: "/gerer-un-site-web/mediatheque/fichiers-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/mediatheque/fichiers-1"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/fichiers-1/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
+    - "/gerer-un-site-web/mediatheque/fichiers-1/"
     path: "/pages/gerer-un-site-web/mediatheque"
     file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   - title: Offres d'emploi
@@ -534,6 +554,8 @@ items:
   - "/gerer-un-site-web/agenda-1/creer-une-exposition/"
   - "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
   - "/gerer-un-site-web/mediatheque/"
+  - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
+  - "/gerer-un-site-web/mediatheque/fichiers-1/"
   - "/gerer-un-site-web/menus-1/"
   - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
   - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
