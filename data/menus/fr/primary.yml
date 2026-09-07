@@ -1137,10 +1137,20 @@ items:
       descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/contact"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/contact/_index.html
+    - title: Les formulaires
+      slug: les-formulaires
+      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/_index.html
     descendants_targets:
     - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
     path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1"
@@ -1177,6 +1187,7 @@ items:
   - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
   path: "/pages/composer-avec-les-blocs"
