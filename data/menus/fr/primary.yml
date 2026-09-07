@@ -1110,15 +1110,6 @@ items:
       descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences/_index.html
-    - title: Les fichiers
-      slug: les-fichiers
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/_index.html
     - title: Les définitions
       slug: les-definitions
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
@@ -1150,7 +1141,6 @@ items:
     - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
     path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1"
@@ -1187,7 +1177,6 @@ items:
   - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-fichiers/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
   path: "/pages/composer-avec-les-blocs"
