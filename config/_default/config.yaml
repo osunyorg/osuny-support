@@ -6,5 +6,10 @@ params:
     primary:
       level_1:
         dropdown: true
+  search:
+    active: true
+    positions:
+      - primary
+      - footer
       # level_2:
       #   dropdown: true
