@@ -1110,6 +1110,15 @@ items:
       descendants_targets: []
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences/_index.html
+    - title: Les fichiers
+      slug: les-fichiers
+      target: "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers"
+      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/_index.html
     - title: Les définitions
       slug: les-definitions
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
@@ -1147,6 +1156,7 @@ items:
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/_index.html
     descendants_targets:
+    - "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
@@ -1184,6 +1194,7 @@ items:
   - "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
   - "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/"
+  - "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"

@@ -64,7 +64,7 @@ to = "/creer-gerer-contenus/"
 
 [[redirects]]
 from = "/les-blocs-techniques/ajouter-des-fichiers/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/"
+to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
 
 [[redirects]]
 from = "/creer-gerer-contenus/transcription/methodologie-sous-titres/index.html"
@@ -392,7 +392,7 @@ to = "/equipe/categories/metiers/gestion-de-projet/"
 
 [[redirects]]
 from = "/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/"
+to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
 
 [[redirects]]
 from = "/gerer-ses-donnees/universites/organisations/index.html"
@@ -1160,7 +1160,7 @@ to = "/v1/creer-gerer-pages/site-web/"
 
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-techniques/ajouter-des-fichiers/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/"
+to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
 
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-techniques/ajouter-un-contact/index.html"
@@ -1185,6 +1185,10 @@ to = "/creer-gerer-contenus/"
 [[redirects]]
 from = "/organisations/categories/commoners/index.html"
 to = "/organisations/categories/implication/soutiens-osuny/"
+
+[[redirects]]
+from = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/index.html"
+to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
 
 [[redirects]]
 from = "/creer-gerer-ses-donnees/recherche/index.html"
@@ -1396,7 +1400,7 @@ to = "/v1/creer-gerer-ses-donnees/recherche/chercheur-e-s/"
 
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-techniques/ajouter-des-fichiers/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/"
+to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
 
 [[redirects]]
 from = "/menus/creer-un-menu/index.html"
