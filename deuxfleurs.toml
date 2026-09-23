@@ -39,10 +39,6 @@ from = "/creer-gerer-des-donnees/enseignements/feedback/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/feedback/"
 
 [[redirects]]
-from = "/gestion-des-pages/actualites-1/creer-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/creer-une-actualite/"
-
-[[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/actualites-4/avant-de-publier-2/index.html"
 to = "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
 
@@ -147,10 +143,6 @@ from = "/creation-gestion-contenus/les-blocs-techniques/ajouter-une-integration-
 to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-une-integration-html/"
 
 [[redirects]]
-from = "/administrer-son-site-web/actualites-1/auteurrices/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/auteurrices/"
-
-[[redirects]]
 from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
 to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-enseignantes/"
 
@@ -161,10 +153,6 @@ to = "/v1/creer-gerer-ses-donnees/administration/"
 [[redirects]]
 from = "/organisations/categories/secteur/index.html"
 to = "/organisations/categories/secteurs-organisation/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/arborescence/index.html"
-to = "/v1/creer-gerer-pages/arborescence/"
 
 [[redirects]]
 from = "/transcription/transcription-textuelle/index.html"
@@ -183,14 +171,6 @@ from = "/les-blocs-narratifs/ajouter-une-liste-de-fonctionalites/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-liste-de-fonctionalites/"
 
 [[redirects]]
-from = "/gestion-des-pages-de-son-site-web/arborescence/publier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/publier-une-page/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/arborescence/structure-dune-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/structure-dune-page/"
-
-[[redirects]]
 from = "/les-blocs-narratifs/ajouter-une-frise-chronologique/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
 
@@ -205,10 +185,6 @@ to = "/aller-plus-loin/universite/"
 [[redirects]]
 from = "/equipe/categories/dev/back/index.html"
 to = "/equipe/categories/metiers/developpement/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/actualites-1/categories-dactualites/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/categories-dactualites/"
 
 [[redirects]]
 from = "/menus/fonctionnement/index.html"
@@ -259,10 +235,6 @@ from = "/creer-gerer-des-donnees/recherche/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/"
 
 [[redirects]]
-from = "/administrer-son-site-web/arborescence/creer-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/creer-une-page/"
-
-[[redirects]]
 from = "/l-outil/fonctionnement-osuny/index.html"
 to = "/v1/l-outil/osuny/"
 
@@ -271,16 +243,8 @@ from = "/creer-gerer-ses-donnees/administration/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/"
 
 [[redirects]]
-from = "/gestion-des-pages/arborescence/modifier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/modifier-une-page/"
-
-[[redirects]]
 from = "/les-blocs-de-listes/ajouter-une-liste-de-personnes/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-personnes/"
-
-[[redirects]]
-from = "/arborescence/creer-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/creer-une-page/"
 
 [[redirects]]
 from = "/creer-gerer-pages/menus/creer-un-menu/index.html"
@@ -331,10 +295,6 @@ from = "/les-blocs-narratifs/ajouter-des-chiffres-cles/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/"
 
 [[redirects]]
-from = "/administrer-son-site-web/actualites/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/"
-
-[[redirects]]
 from = "/equipe/categories/comite/scientifique/index.html"
 to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
 
@@ -375,10 +335,6 @@ from = "/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-liste-de-fonctiona
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-liste-de-fonctionalites/"
 
 [[redirects]]
-from = "/gestion-des-pages/arborescence/creer-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/creer-une-page/"
-
-[[redirects]]
 from = "/creer-gerer-des-donnees/recherche/veille/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/veille/"
 
@@ -399,10 +355,6 @@ from = "/les-blocs-de-contenus/les-blocs-de-base/ajouter-un-tableau/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-un-tableau/"
 
 [[redirects]]
-from = "/administrer-son-site-web/actualites-1/modifier-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/modifier-une-actualite/"
-
-[[redirects]]
 from = "/equipe/categories/comites/index.html"
 to = "/equipe/categories/implication/comites-osuny/"
 
@@ -415,16 +367,8 @@ from = "/organisations/categories/commoners/agences-osuny/index.html"
 to = "/organisations/categories/implication/agences-osuny/"
 
 [[redirects]]
-from = "/creer-gerer-pages/actualites-1/creer-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/creer-une-actualite/"
-
-[[redirects]]
 from = "/les-donnees/enseignements/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/"
-
-[[redirects]]
-from = "/creer-gerer-pages/actualites-1/categories-dactualites/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/categories-dactualites/"
 
 [[redirects]]
 from = "/les-blocs-de-contenus/transcription/sous-titres/index.html"
@@ -503,10 +447,6 @@ from = "/les-blocs-narratifs/ajouter-un-appel-a-actions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 
 [[redirects]]
-from = "/administrer-son-site-web/actualites-1/creer-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/creer-une-actualite/"
-
-[[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/actualites-4/creer-une-actualite-2/index.html"
 to = "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
 
@@ -521,10 +461,6 @@ to = "/v1/creer-gerer-contenus/les-blocs/"
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-narratifs/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/"
-
-[[redirects]]
-from = "/gestion-des-pages/actualites-1/categories-dactualites/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/categories-dactualites/"
 
 [[redirects]]
 from = "/gerer-une-universite/recherche-1/les-chercheures/index.html"
@@ -601,14 +537,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-de-listes/"
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs/emploi-dun-bloc/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
-
-[[redirects]]
-from = "/actualites-1/categories-dactualites/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/categories-dactualites/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/actualites-1/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/"
 
 [[redirects]]
 from = "/creer-gerer-des-donnees/universites/index.html"
@@ -691,16 +619,8 @@ from = "/creer-gerer-des-donnees/communication/extranet/index.html"
 to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
 
 [[redirects]]
-from = "/creer-gerer-pages/arborescence/publier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/publier-une-page/"
-
-[[redirects]]
 from = "https://demo.osuny.org/admin/fr/communication/websites/0aee4b28-85b6-463c-9395-f300fa131763/pages/669c1b69-4d0e-4f2d-b517-f6cd3260e2e3"
 to = "https://demo.osuny.org/admin/fr/communication/websites/0aee4b28-85b6-463c-9395-f300fa131763/pages/65658288-58c3-46fd-ac1f-aa69545af758"
-
-[[redirects]]
-from = "/gestion-des-pages/arborescence/index.html"
-to = "/v1/creer-gerer-pages/arborescence/"
 
 [[redirects]]
 from = "/gerer-ses-donnees/enseignements/ressources-educatives/index.html"
@@ -721,10 +641,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
 [[redirects]]
 from = "/equipe/categories/region/ile-de-france/index.html"
 to = "/equipe/categories/regions/ile-de-france/"
-
-[[redirects]]
-from = "/arborescence/structure-dune-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/structure-dune-page/"
 
 [[redirects]]
 from = "/v1/creer-gerer-pages/site-web/importer-le-site/index.html"
@@ -755,16 +671,8 @@ from = "/les-blocs-de-contenus/les-blocs/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/"
 
 [[redirects]]
-from = "/actualites-1/auteurrices/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/auteurrices/"
-
-[[redirects]]
 from = "/gerer-ses-donnees/universites/index.html"
 to = "/v1/creer-gerer-ses-donnees/universites/"
-
-[[redirects]]
-from = "/gestion-des-pages/actualites-1/modifier-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/modifier-une-actualite/"
 
 [[redirects]]
 from = "/gerer-un-site-web/menus-1/ajouter-des-pages-au-menu/index.html"
@@ -785,10 +693,6 @@ to = "/organisations/categories/lieu/france/ile-de-france/"
 [[redirects]]
 from = "/composer-avec-les-blocs/les-blocs-de-listes-1/listes-de-pages/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
-
-[[redirects]]
-from = "/administrer-son-site-web/actualites-1/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/"
 
 [[redirects]]
 from = "/creer-gerer-contenus/les-blocs/actions-sur-un-bloc/index.html"
@@ -835,16 +739,8 @@ from = "/creer-gerer-contenus/les-blocs-de-base/creer-un-chapitre/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/creer-un-chapitre/"
 
 [[redirects]]
-from = "/administrer-son-site-web/arborescence/structure-dune-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/structure-dune-page/"
-
-[[redirects]]
 from = "/gerer-ses-donnees/recherche/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/"
-
-[[redirects]]
-from = "/arborescence/modifier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/modifier-une-page/"
 
 [[redirects]]
 from = "/l-outil/tableau-de-bord/index.html"
@@ -863,22 +759,6 @@ from = "/universites/index.html"
 to = "/v1/creer-gerer-ses-donnees/universites/"
 
 [[redirects]]
-from = "/gestion-des-pages-de-son-site-web/actualites-1/modifier-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/modifier-une-actualite/"
-
-[[redirects]]
-from = "/gestion-des-pages/arborescence/publier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/publier-une-page/"
-
-[[redirects]]
-from = "/actualites-1/modifier-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/modifier-une-actualite/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/arborescence/modifier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/modifier-une-page/"
-
-[[redirects]]
 from = "/l-outil/osuny/index.html"
 to = "/v1/l-outil/osuny/"
 
@@ -889,10 +769,6 @@ to = "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/"
-
-[[redirects]]
-from = "/actualites-1/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/"
 
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/index.html"
@@ -1023,10 +899,6 @@ from = "/les-donnees/enseignements/feedback/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/feedback/"
 
 [[redirects]]
-from = "/gestion-des-pages-de-son-site-web/actualites-1/auteurrices/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/auteurrices/"
-
-[[redirects]]
 from = "/interface-osuny/index.html"
 to = "/v1/l-outil/interface-osuny/"
 
@@ -1115,10 +987,6 @@ from = "/gerer-un-site-web/gerer-un-extranet/extranet-1/fondamentaux-1/index.htm
 to = "/gerer-un-extranet/extranet-1/fondamentaux-1/"
 
 [[redirects]]
-from = "/arborescence/publier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/publier-une-page/"
-
-[[redirects]]
 from = "/creer-des-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 
@@ -1145,14 +1013,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisati
 [[redirects]]
 from = "/les-blocs-techniques/ajouter-une-integration-html/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-une-integration-html/"
-
-[[redirects]]
-from = "/gestion-des-pages/actualites-1/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/"
-
-[[redirects]]
-from = "/creer-gerer-pages/arborescence/creer-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/creer-une-page/"
 
 [[redirects]]
 from = "/gestion-des-pages-de-son-site-web/menus/modifier-un-menu/index.html"
@@ -1231,10 +1091,6 @@ from = "/gerer-un-site-web/gerer-un-extranet/actualites-4/mettre-en-avant-une-ac
 to = "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
 
 [[redirects]]
-from = "/administrer-son-site-web/actualites-1/categories-dactualites/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/categories-dactualites/"
-
-[[redirects]]
 from = "/creation-gestion-contenus/transcription/bonnes-pratiques/index.html"
 to = "/v1/creer-gerer-contenus/transcription/bonnes-pratiques/"
 
@@ -1265,10 +1121,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 [[redirects]]
 from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/diplomes/index.html"
 to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-diplomes/"
-
-[[redirects]]
-from = "/arborescence/index.html"
-to = "/v1/creer-gerer-pages/arborescence/"
 
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-techniques/ajouter-des-fichiers/index.html"
@@ -1331,16 +1183,16 @@ from = "/organisations/categories/soutiens-osuny/index.html"
 to = "/organisations/categories/implication/soutiens-osuny/"
 
 [[redirects]]
-from = "/gestion-des-pages/actualites-1/auteurrices/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/auteurrices/"
-
-[[redirects]]
 from = "/administrer-son-site-web/menus/index.html"
 to = "/v1/creer-gerer-pages/menus/"
 
 [[redirects]]
 from = "/creer-gerer-ses-informations/enseignements/ressources-educatives/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/ressources-educatives/"
+
+[[redirects]]
+from = "/https:/support.osuny.org/v1/creer-gerer-pages/actualites-1/index.html"
+to = "/gerer-un-site-web/actualites-3/"
 
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-de-base/ajouter-une-video/index.html"
@@ -1361,10 +1213,6 @@ to = "/v1/creer-gerer-ses-donnees/enseignements/feedback/"
 [[redirects]]
 from = "/composer-avec-les-blocs/les-blocs-de-base-1/bloc-video/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/actualites-1/creer-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/creer-une-actualite/"
 
 [[redirects]]
 from = "/equipe/categories/comites-osuny/index.html"
@@ -1419,16 +1267,8 @@ from = "/gestion-des-pages/menus/index.html"
 to = "/v1/creer-gerer-pages/menus/"
 
 [[redirects]]
-from = "/administrer-son-site-web/arborescence/publier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/publier-une-page/"
-
-[[redirects]]
 from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/publications/index.html"
 to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-publications/"
-
-[[redirects]]
-from = "/gestion-des-pages/arborescence/structure-dune-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/structure-dune-page/"
 
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-de-base/ajouter-une-image/index.html"
@@ -1441,10 +1281,6 @@ to = "/equipe/categories/metiers/developpement/"
 [[redirects]]
 from = "/creer-gerer-contenus/les-blocs/accessibilite-1/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/accessibilite-1/"
-
-[[redirects]]
-from = "/creer-gerer-pages/actualites-1/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/"
 
 [[redirects]]
 from = "/creation-gestion-contenus/transcription/methodologie-sous-titres/index.html"
@@ -1481,14 +1317,6 @@ to = "/v1/creer-gerer-ses-donnees/administration/qualite/"
 [[redirects]]
 from = "/v1/creer-gerer-ses-donnees/universites/personnes/index.html"
 to = "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
-
-[[redirects]]
-from = "/creer-gerer-pages/actualites-1/auteurrices/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/auteurrices/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/arborescence/creer-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/creer-une-page/"
 
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-techniques/ajouter-des-definitions/index.html"
@@ -1543,10 +1371,6 @@ from = "/les-donnees/administration/qualite/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/qualite/"
 
 [[redirects]]
-from = "/creer-gerer-pages/arborescence/structure-dune-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/structure-dune-page/"
-
-[[redirects]]
 from = "/gestion-des-pages/menus/creer-un-menu/index.html"
 to = "/v1/creer-gerer-pages/menus/creer-un-menu/"
 
@@ -1591,10 +1415,6 @@ from = "/gerer-ses-donnees/enseignements/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/"
 
 [[redirects]]
-from = "/actualites-1/creer-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/creer-une-actualite/"
-
-[[redirects]]
 from = "/creer-des-contenus/les-blocs-techniques/ajouter-des-definitions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-definitions/"
 
@@ -1617,10 +1437,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
 [[redirects]]
 from = "/les-donnees/communication/extranet/index.html"
 to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
-
-[[redirects]]
-from = "/creer-gerer-pages/actualites-1/modifier-une-actualite/index.html"
-to = "/v1/creer-gerer-pages/actualites-1/modifier-une-actualite/"
 
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-de-base/creer-un-chapitre/index.html"
@@ -1663,10 +1479,6 @@ from = "/les-ressources/communication/sites-web/index.html"
 to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
 
 [[redirects]]
-from = "/administrer-son-site-web/arborescence/modifier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/modifier-une-page/"
-
-[[redirects]]
 from = "/creer-des-contenus/les-blocs/accessibilite-1/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/accessibilite-1/"
 
@@ -1705,6 +1517,10 @@ to = "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
 [[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-personnes/index.html"
 to = "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
+
+[[redirects]]
+from = "/v1/creer-gerer-pages/arborescence/creer-une-page/index.html"
+to = "/gerer-un-site-web/pages/creer-une-page-1/"
 
 [[redirects]]
 from = "/organisations/categories/region/index.html"
@@ -1751,10 +1567,6 @@ from = "/v1/creer-gerer-ses-donnees/enseignements/alumni/index.html"
 to = "/aller-plus-loin/pedagogie/les-alumni/"
 
 [[redirects]]
-from = "/administrer-son-site-web/arborescence/index.html"
-to = "/v1/creer-gerer-pages/arborescence/"
-
-[[redirects]]
 from = "/creer-des-contenus/transcription/methodologie/index.html"
 to = "/v1/creer-gerer-contenus/transcription/methodologie-sous-titres/"
 
@@ -1795,10 +1607,6 @@ from = "/gerer-un-site-web/accessibilite-2/les-images/index.html"
 to = "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
 
 [[redirects]]
-from = "/creer-gerer-pages/arborescence/modifier-une-page/index.html"
-to = "/v1/creer-gerer-pages/arborescence/modifier-une-page/"
-
-[[redirects]]
 from = "/les-donnees/recherche/veille/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/veille/"
 
@@ -1813,10 +1621,6 @@ to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
 [[redirects]]
 from = "/organisations/categories/secteur/prive/index.html"
 to = "/organisations/categories/secteurs/prive/"
-
-[[redirects]]
-from = "/creer-gerer-pages/arborescence/index.html"
-to = "/v1/creer-gerer-pages/arborescence/"
 
 [[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/actualites-4/gestion-des-categories-2/index.html"
