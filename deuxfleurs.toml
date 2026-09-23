@@ -315,10 +315,6 @@ from = "/commencer-simplement/multilingue/index.html"
 to = "/aller-plus-loin/universite/multilingue/"
 
 [[redirects]]
-from = "/administrer-son-site-web/site-web/importer-le-site/index.html"
-to = "/v1/creer-gerer-pages/site-web/importer-le-site/"
-
-[[redirects]]
 from = "/aller-plus-loin/gerer-une-universite/multilingue/index.html"
 to = "/aller-plus-loin/universite/multilingue/"
 
@@ -731,8 +727,8 @@ from = "/arborescence/structure-dune-page/index.html"
 to = "/v1/creer-gerer-pages/arborescence/structure-dune-page/"
 
 [[redirects]]
-from = "/gestion-des-pages-de-son-site-web/site-web/importer-le-site/index.html"
-to = "/v1/creer-gerer-pages/site-web/importer-le-site/"
+from = "/v1/creer-gerer-pages/site-web/importer-le-site/index.html"
+to = "/gerer-un-site-web/sites/creer-un-site/"
 
 [[redirects]]
 from = "/recherche/veille/index.html"
@@ -1695,10 +1691,6 @@ from = "/creation-gestion-contenus/transcription/index.html"
 to = "/v1/creer-gerer-contenus/transcription/"
 
 [[redirects]]
-from = "/creer-gerer-pages/site-web/importer-le-site/index.html"
-to = "/v1/creer-gerer-pages/site-web/importer-le-site/"
-
-[[redirects]]
 from = "/creer-gerer-contenus/les-blocs/emploi-dun-bloc/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
 
@@ -1749,10 +1741,6 @@ to = "/v1/creer-gerer-pages/site-web/"
 [[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/annuaire/index.html"
 to = "/gerer-un-extranet/annuaire/"
-
-[[redirects]]
-from = "/gestion-des-pages/site-web/importer-le-site/index.html"
-to = "/v1/creer-gerer-pages/site-web/importer-le-site/"
 
 [[redirects]]
 from = "/administrer-son-site-web/menus/fonctionnement/index.html"
@@ -1845,10 +1833,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-de-base/"
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-de-listes/actualites-2/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-listes/actualites-2/"
-
-[[redirects]]
-from = "/site-web/importer-le-site/index.html"
-to = "/v1/creer-gerer-pages/site-web/importer-le-site/"
 
 [[redirects]]
 from = "/communication/index.html"
