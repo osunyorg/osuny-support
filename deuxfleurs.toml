@@ -339,6 +339,10 @@ from = "/les-blocs-narratifs/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/"
 
 [[redirects]]
+from = "/https:/support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
+to = "/aller-plus-loin/pedagogie/les-enseignantes/"
+
+[[redirects]]
 from = "/creation-gestion-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 
