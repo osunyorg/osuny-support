@@ -515,6 +515,10 @@ from = "/gestion-des-pages-de-son-site-web/site-web/modifier-le-site-web/index.h
 to = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/universites/utilisateur-rice-s/index.html"
+to = "https://support.osuny.org/gerer-un-site-web/repertoire/utilisateurrices/"
+
+[[redirects]]
 from = "/les-ressources/recherche/chercheursses/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/chercheur-e-s/"
 
@@ -1279,6 +1283,10 @@ from = "/gestion-des-pages-de-son-site-web/menus/modifier-un-menu/index.html"
 to = "/v1/creer-gerer-pages/menus/modifier-un-menu/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/universites/personnes/index.html"
+to = "https://support.osuny.org/gerer-un-extranet/annuaire/ajouter-des-personnes/"
+
+[[redirects]]
 from = "/creer-gerer-des-donnees/enseignements/ressources-educatives/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/ressources-educatives/"
 
@@ -1687,6 +1695,10 @@ from = "/creer-gerer-des-donnees/recherche/laboratoires/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/laboratoires/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/universites/organisations-1/index.html"
+to = "https://support.osuny.org/gerer-un-extranet/annuaire/ajouter-des-organisations/"
+
+[[redirects]]
 from = "/creation-gestion-contenus/les-blocs-de-base/creer-un-chapitre/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/creer-un-chapitre/"
 
@@ -1741,6 +1753,10 @@ to = "/v1/creer-gerer-ses-donnees/enseignements/alumni/"
 [[redirects]]
 from = "/gestion-des-pages/menus/creer-un-menu/index.html"
 to = "/v1/creer-gerer-pages/menus/creer-un-menu/"
+
+[[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
+to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-enseignantes/"
 
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-techniques/index.html"
