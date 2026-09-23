@@ -243,6 +243,10 @@ from = "/creation-gestion-contenus/les-blocs-de-base/ajouter-un-tableau/index.ht
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-un-tableau/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/alumni/index.html"
+to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-alumni/"
+
+[[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-de-base/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/"
 
@@ -317,6 +321,10 @@ to = "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
 [[redirects]]
 from = "/creer-gerer-ses-donnees/administration/qualite/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/qualite/"
+
+[[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/formations/index.html"
+to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-formations/"
 
 [[redirects]]
 from = "/les-donnees/recherche/revues-scientifiques/index.html"
@@ -1063,6 +1071,10 @@ from = "/creer-des-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/
 to = "/v1/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/chercheur-e-s/index.html"
+to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-chercheures/"
+
+[[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-galerie-dimages/"
 
@@ -1399,6 +1411,10 @@ from = "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/in
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/diplomes/index.html"
+to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-diplomes/"
+
+[[redirects]]
 from = "/arborescence/index.html"
 to = "/v1/creer-gerer-pages/arborescence/"
 
@@ -1609,6 +1625,10 @@ to = "/v1/creer-gerer-pages/arborescence/publier-une-page/"
 [[redirects]]
 from = "/recherche/theses/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/theses/"
+
+[[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/publications/index.html"
+to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-publications/"
 
 [[redirects]]
 from = "/gestion-des-pages/arborescence/structure-dune-page/index.html"
@@ -1873,6 +1893,10 @@ to = "/v1/creer-gerer-contenus/transcription/bonnes-pratiques/"
 [[redirects]]
 from = "/les-ressources/enseignements/ressources-educatives/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/ressources-educatives/"
+
+[[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/ecoles/index.html"
+to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-ecoles/"
 
 [[redirects]]
 from = "/les-blocs-de-contenus/transcription/accessibilite-2/index.html"
