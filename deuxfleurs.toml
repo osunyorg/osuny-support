@@ -171,6 +171,10 @@ from = "/administrer-son-site-web/actualites-1/auteurrices/index.html"
 to = "/v1/creer-gerer-pages/actualites-1/auteurrices/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
+to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-enseignantes/"
+
+[[redirects]]
 from = "/creer-gerer-des-donnees/administration/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/"
 
@@ -1789,10 +1793,6 @@ to = "/v1/creer-gerer-ses-donnees/enseignements/alumni/"
 [[redirects]]
 from = "/gestion-des-pages/menus/creer-un-menu/index.html"
 to = "/v1/creer-gerer-pages/menus/creer-un-menu/"
-
-[[redirects]]
-from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
-to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-enseignantes/"
 
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-techniques/index.html"
