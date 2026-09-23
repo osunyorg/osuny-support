@@ -403,10 +403,6 @@ from = "/les-blocs-de-contenus/les-blocs-de-base/ajouter-un-tableau/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-un-tableau/"
 
 [[redirects]]
-from = "/administrer-son-site-web/site-web/modifier-le-site-web/index.html"
-to = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/"
-
-[[redirects]]
 from = "/administrer-son-site-web/actualites-1/modifier-une-actualite/index.html"
 to = "/v1/creer-gerer-pages/actualites-1/modifier-une-actualite/"
 
@@ -461,10 +457,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-une-video/"
 [[redirects]]
 from = "/creer-des-contenus/transcription/sous-titres/index.html"
 to = "/v1/creer-gerer-contenus/transcription/methodologie-sous-titres/"
-
-[[redirects]]
-from = "/gestion-des-pages-de-son-site-web/site-web/modifier-le-site-web/index.html"
-to = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/"
 
 [[redirects]]
 from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/universites/utilisateur-rice-s/index.html"
@@ -797,10 +789,6 @@ to = "/organisations/categories/lieu/france/ile-de-france/"
 [[redirects]]
 from = "/composer-avec-les-blocs/les-blocs-de-listes-1/listes-de-pages/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
-
-[[redirects]]
-from = "/creer-gerer-pages/site-web/modifier-le-site-web/index.html"
-to = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/"
 
 [[redirects]]
 from = "/administrer-son-site-web/actualites-1/index.html"
@@ -1223,10 +1211,6 @@ from = "/creer-gerer-ses-donnees/enseignements/ressources-educatives/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/ressources-educatives/"
 
 [[redirects]]
-from = "/site-web/modifier-le-site-web/index.html"
-to = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/"
-
-[[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-de-base/creer-un-chapitre/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/creer-un-chapitre/"
 
@@ -1265,6 +1249,10 @@ to = "/v1/creer-gerer-pages/site-web/"
 [[redirects]]
 from = "/gerer-ses-donnees/enseignements/feedback/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/feedback/"
+
+[[redirects]]
+from = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/index.html"
+to = "/gerer-un-site-web/sites/creer-un-site/"
 
 [[redirects]]
 from = "/creer-des-contenus/transcription/transcription-textuelle/index.html"
@@ -1369,10 +1357,6 @@ to = "/v1/creer-gerer-contenus/transcription/methodologie-sous-titres/"
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs/accessibilite-1/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/accessibilite-1/"
-
-[[redirects]]
-from = "/gestion-des-pages/site-web/modifier-le-site-web/index.html"
-to = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/"
 
 [[redirects]]
 from = "/creer-gerer-ses-donnees/enseignements/feedback/index.html"
