@@ -551,6 +551,10 @@ from = "/les-blocs/actions-sur-un-bloc/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/actions-sur-un-bloc/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/theses/index.html"
+to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-theses/"
+
+[[redirects]]
 from = "/creer-gerer-ses-informations/recherche/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/"
 
@@ -763,6 +767,10 @@ from = "/composer-avec-les-blocs/les-blocs-de-base-1/bloc-texte/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/laboratoires/index.html"
+to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-laboratoires/"
+
+[[redirects]]
 from = "/creation-gestion-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-dorganisation/"
 
@@ -789,6 +797,10 @@ to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
 [[redirects]]
 from = "/creer-gerer-pages/arborescence/publier-une-page/index.html"
 to = "/v1/creer-gerer-pages/arborescence/publier-une-page/"
+
+[[redirects]]
+from = "https://demo.osuny.org/admin/fr/communication/websites/0aee4b28-85b6-463c-9395-f300fa131763/pages/669c1b69-4d0e-4f2d-b517-f6cd3260e2e3"
+to = "https://demo.osuny.org/admin/fr/communication/websites/0aee4b28-85b6-463c-9395-f300fa131763/pages/65658288-58c3-46fd-ac1f-aa69545af758"
 
 [[redirects]]
 from = "/gestion-des-pages/arborescence/index.html"
