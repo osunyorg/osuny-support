@@ -751,6 +751,10 @@ from = "/les-ressources/enseignements/formations/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/formations/"
 
 [[redirects]]
+from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/revues-scientifiques/index.html"
+to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-revues-scientifiques/"
+
+[[redirects]]
 from = "/site-web/index.html"
 to = "/v1/creer-gerer-pages/site-web/"
 
