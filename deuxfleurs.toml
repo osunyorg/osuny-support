@@ -139,10 +139,6 @@ from = "/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/ind
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 
 [[redirects]]
-from = "/gerer-ses-donnees/universites/organisations-1/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
-
-[[redirects]]
 from = "/menus/modifier-un-menu/index.html"
 to = "/v1/creer-gerer-pages/menus/modifier-un-menu/"
 
@@ -403,10 +399,6 @@ from = "/creer-gerer-contenus/les-blocs-techniques/ajouter-des-fichiers/index.ht
 to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
 
 [[redirects]]
-from = "/gerer-ses-donnees/universites/organisations/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
-
-[[redirects]]
 from = "/gerer-une-universite/pedagogie/les-formations/index.html"
 to = "/aller-plus-loin/pedagogie/les-formations/"
 
@@ -509,10 +501,6 @@ to = "/v1/creer-gerer-contenus/les-blocs/"
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-de-base/ajouter-une-video/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-une-video/"
-
-[[redirects]]
-from = "/les-ressources/universites/organisations/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
 
 [[redirects]]
 from = "/creer-des-contenus/transcription/sous-titres/index.html"
@@ -719,10 +707,6 @@ from = "/menus/index.html"
 to = "/v1/creer-gerer-pages/menus/"
 
 [[redirects]]
-from = "/universites/organisations-1/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
-
-[[redirects]]
 from = "/creer-gerer-ses-informations/communication/extranet/index.html"
 to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
 
@@ -927,10 +911,6 @@ from = "/gerer-un-site-web/accessibilite-2/index.html"
 to = "/gerer-un-site-web/rendre-son-site-accessible/"
 
 [[redirects]]
-from = "/les-donnees/universites/personnes/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
-
-[[redirects]]
 from = "/creer-gerer-ses-donnees/universites/utilisateur-rice-s/index.html"
 to = "/v1/creer-gerer-ses-donnees/universites/utilisateur-rice-s/"
 
@@ -1033,10 +1013,6 @@ to = "/v1/creer-gerer-pages/actualites-1/"
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-une-frise-chronologique/"
-
-[[redirects]]
-from = "/universites/personnes/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
 
 [[redirects]]
 from = "/ajouter-un-appel-a-actions/index.html"
@@ -1387,10 +1363,6 @@ from = "/administrer-son-site-web/actualites-1/categories-dactualites/index.html
 to = "/v1/creer-gerer-pages/actualites-1/categories-dactualites/"
 
 [[redirects]]
-from = "/gerer-ses-donnees/universites/personnes/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
-
-[[redirects]]
 from = "/creation-gestion-contenus/transcription/bonnes-pratiques/index.html"
 to = "/v1/creer-gerer-contenus/transcription/bonnes-pratiques/"
 
@@ -1483,10 +1455,6 @@ from = "/composer-avec-les-blocs/les-blocs-de-base-1/bloc-image/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
 
 [[redirects]]
-from = "/creer-gerer-ses-donnees/universites/personnes/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
-
-[[redirects]]
 from = "/gestion-des-pages-de-son-site-web/menus/fonctionnement/index.html"
 to = "/v1/creer-gerer-pages/menus/fonctionnement/"
 
@@ -1557,10 +1525,6 @@ to = "/equipe/categories/implication/comites-osuny/"
 [[redirects]]
 from = "/gestion-des-pages-de-son-site-web/menus/creer-un-menu/index.html"
 to = "/v1/creer-gerer-pages/menus/creer-un-menu/"
-
-[[redirects]]
-from = "/creer-gerer-ses-informations/universites/organisations-1/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
 
 [[redirects]]
 from = "/les-ressources/enseignements/ecoles/index.html"
@@ -1691,6 +1655,10 @@ from = "/universites/utilisateur-rice-s/index.html"
 to = "/v1/creer-gerer-ses-donnees/universites/utilisateur-rice-s/"
 
 [[redirects]]
+from = "/v1/creer-gerer-ses-donnees/universites/personnes/index.html"
+to = "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
+
+[[redirects]]
 from = "/creer-gerer-pages/actualites-1/auteurrices/index.html"
 to = "/v1/creer-gerer-pages/actualites-1/auteurrices/"
 
@@ -1705,10 +1673,6 @@ to = "/v1/creer-gerer-ses-donnees/enseignements/alumni/"
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-techniques/ajouter-des-definitions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-definitions/"
-
-[[redirects]]
-from = "/creer-gerer-ses-informations/universites/personnes/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
 
 [[redirects]]
 from = "/creer-gerer-des-donnees/recherche/laboratoires/index.html"
@@ -1801,10 +1765,6 @@ to = "/v1/creer-gerer-ses-donnees/administration/"
 [[redirects]]
 from = "/creer-gerer-ses-donnees/enseignements/alumni/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/alumni/"
-
-[[redirects]]
-from = "/les-donnees/universites/organisations/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
 
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-de-listes/actualites-2/index.html"
@@ -1963,14 +1923,6 @@ from = "/creer-gerer-contenus/les-blocs/emploi-dun-bloc/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
 
 [[redirects]]
-from = "/creer-gerer-des-donnees/universites/organisations-1/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
-
-[[redirects]]
-from = "/creer-gerer-des-donnees/universites/personnes/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
-
-[[redirects]]
 from = "/administrer-son-site-web/menus/modifier-un-menu/index.html"
 to = "/v1/creer-gerer-pages/menus/modifier-un-menu/"
 
@@ -1981,10 +1933,6 @@ to = "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
 [[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/annuaire/ajouter-des-personnes/index.html"
 to = "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
-
-[[redirects]]
-from = "/creer-gerer-ses-donnees/universites/organisations-1/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/organisations-1/"
 
 [[redirects]]
 from = "/organisations/categories/region/index.html"
@@ -2129,10 +2077,6 @@ to = "/gerer-un-extranet/annuaire/fonctionnement-1/"
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-de-base/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/"
-
-[[redirects]]
-from = "/les-ressources/universites/personnes/index.html"
-to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
 
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-de-listes/actualites-2/index.html"
