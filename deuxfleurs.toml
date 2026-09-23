@@ -259,10 +259,6 @@ from = "/creer-gerer-des-donnees/communication/index.html"
 to = "/v1/creer-gerer-ses-donnees/communication/"
 
 [[redirects]]
-from = "/gerer-ses-donnees/enseignements/enseignantses/index.html"
-to = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/"
-
-[[redirects]]
 from = "/osuny/index.html"
 to = "/v1/l-outil/osuny/"
 
@@ -337,10 +333,6 @@ to = "/v1/creer-gerer-ses-donnees/recherche/revues-scientifiques/"
 [[redirects]]
 from = "/les-blocs-narratifs/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/"
-
-[[redirects]]
-from = "/https:/support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
-to = "/aller-plus-loin/pedagogie/les-enseignantes/"
 
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/index.html"
@@ -799,10 +791,6 @@ from = "/administration/qualite/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/qualite/"
 
 [[redirects]]
-from = "/enseignements/enseignantses/index.html"
-to = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/"
-
-[[redirects]]
 from = "/creer-gerer-des-donnees/communication/extranet/index.html"
 to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
 
@@ -1051,10 +1039,6 @@ from = "/universites/personnes/index.html"
 to = "/v1/creer-gerer-ses-donnees/universites/personnes/"
 
 [[redirects]]
-from = "/creer-gerer-des-donnees/enseignements/enseignantses/index.html"
-to = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/"
-
-[[redirects]]
 from = "/ajouter-un-appel-a-actions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 
@@ -1109,6 +1093,10 @@ to = "/v1/l-outil/interface-osuny/"
 [[redirects]]
 from = "/gerer-une-universite/recherche-1/les-revues-scientifiques/index.html"
 to = "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
+
+[[redirects]]
+from = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
+to = "/aller-plus-loin/pedagogie/les-enseignantes/"
 
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-narratifs/ajouter-des-chiffres-cles/index.html"
@@ -1339,10 +1327,6 @@ from = "/creer-gerer-pages/menus/index.html"
 to = "/v1/creer-gerer-pages/menus/"
 
 [[redirects]]
-from = "/creer-gerer-ses-informations/enseignements/enseignantses/index.html"
-to = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/"
-
-[[redirects]]
 from = "/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-page/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-listes/ajouter-une-liste-de-page/"
 
@@ -1353,10 +1337,6 @@ to = "/gerer-un-site-web/menus-1/relier-elements-menu/"
 [[redirects]]
 from = "/creer-gerer-contenus/les-blocs-techniques/ajouter-des-definitions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-des-definitions/"
-
-[[redirects]]
-from = "/les-ressources/enseignements/enseignantses/index.html"
-to = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/"
 
 [[redirects]]
 from = "/creer-gerer-ses-informations/administration/qualite/index.html"
@@ -1541,10 +1521,6 @@ to = "/v1/creer-gerer-ses-donnees/enseignements/ressources-educatives/"
 [[redirects]]
 from = "/les-blocs-de-contenus/les-blocs-de-base/ajouter-une-video/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-une-video/"
-
-[[redirects]]
-from = "/les-donnees/enseignements/enseignantses/index.html"
-to = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/"
 
 [[redirects]]
 from = "/creer-gerer-ses-donnees/recherche/theses/index.html"
@@ -2041,10 +2017,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-techniques/"
 [[redirects]]
 from = "/gerer-un-extranet/annuaire/creer-des-personnes/index.html"
 to = "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
-
-[[redirects]]
-from = "/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
-to = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/"
 
 [[redirects]]
 from = "/gestion-des-pages/site-web/index.html"
