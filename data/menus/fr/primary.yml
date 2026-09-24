@@ -40,22 +40,22 @@ items:
       descendants_targets: []
     - title: Interface du back office
       slug: interface-du-back-office
-      target: "/commencer-simplement/decouvrir-osuny/interface-osuny/"
+      target: "/commencer-simplement/demarrer-rapidement/interface-osuny/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/commencer-simplement/decouvrir-osuny/interface-osuny"
-      file: content/fr/pages/commencer-simplement/decouvrir-osuny/interface-osuny/_index.html
+      path: "/pages/commencer-simplement/demarrer-rapidement/interface-osuny"
+      file: content/fr/pages/commencer-simplement/demarrer-rapidement/interface-osuny/_index.html
     descendants_targets:
-    - "/commencer-simplement/decouvrir-osuny/interface-osuny/"
+    - "/commencer-simplement/demarrer-rapidement/interface-osuny/"
     - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
     path: "/pages/commencer-simplement/demarrer-rapidement"
     file: content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html
   descendants_targets:
   - "/commencer-simplement/decouvrir-osuny/"
-  - "/commencer-simplement/decouvrir-osuny/interface-osuny/"
   - "/commencer-simplement/demarrer-rapidement/"
+  - "/commencer-simplement/demarrer-rapidement/interface-osuny/"
   - "/commencer-simplement/utiliser-un-cms/"
   - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
   path: "/pages/commencer-simplement"
