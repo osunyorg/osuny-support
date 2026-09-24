@@ -475,6 +475,10 @@ from = "/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-une-organisation/
 to = "/gerer-un-extranet/annuaire/modifier-une-organisation/"
 
 [[redirects]]
+from = "/accessibilite-1/index.html"
+to = "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
+
+[[redirects]]
 from = "/universites/index.html"
 to = "/v1/creer-gerer-ses-donnees/universites/"
 
