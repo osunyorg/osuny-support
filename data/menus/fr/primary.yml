@@ -321,45 +321,6 @@ items:
     - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
     path: "/pages/gerer-un-site-web/actualites-3"
     file: content/fr/pages/gerer-un-site-web/actualites-3/_index.html
-  - title: Répertoire
-    slug: repertoire
-    target: "/gerer-un-site-web/repertoire/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Personnes
-      slug: personnes
-      target: "/gerer-un-site-web/repertoire/personnes-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/personnes-1"
-      file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
-    - title: Organisations
-      slug: organisations
-      target: "/gerer-un-site-web/repertoire/organisations-2/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/organisations-2"
-      file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
-    - title: Utilisateur.rice.s
-      slug: utilisateur-rice-s
-      target: "/gerer-un-site-web/repertoire/utilisateurrices/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/utilisateurrices"
-      file: content/fr/pages/gerer-un-site-web/repertoire/utilisateurrices/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/repertoire/organisations-2/"
-    - "/gerer-un-site-web/repertoire/personnes-1/"
-    - "/gerer-un-site-web/repertoire/utilisateurrices/"
-    path: "/pages/gerer-un-site-web/repertoire"
-    file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
   - title: Agenda
     slug: agenda
     target: "/gerer-un-site-web/agenda-1/"
@@ -498,6 +459,74 @@ items:
     - "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
     path: "/pages/gerer-un-site-web/offres-demploi"
     file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
+  - title: Répertoire
+    slug: repertoire
+    target: "/gerer-un-site-web/repertoire/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Personnes
+      slug: personnes
+      target: "/gerer-un-site-web/repertoire/personnes-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/repertoire/personnes-1"
+      file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
+    - title: Organisations
+      slug: organisations
+      target: "/gerer-un-site-web/repertoire/organisations-2/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/repertoire/organisations-2"
+      file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
+    - title: Utilisateur.rice.s
+      slug: utilisateur-rice-s
+      target: "/gerer-un-site-web/repertoire/utilisateurrices/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/repertoire/utilisateurrices"
+      file: content/fr/pages/gerer-un-site-web/repertoire/utilisateurrices/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/repertoire/organisations-2/"
+    - "/gerer-un-site-web/repertoire/personnes-1/"
+    - "/gerer-un-site-web/repertoire/utilisateurrices/"
+    path: "/pages/gerer-un-site-web/repertoire"
+    file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
+  - title: Médias
+    slug: medias
+    target: "/gerer-un-site-web/mediatheque/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Gestion des images dans la photothèque
+      slug: gestion-des-images-dans-la-phototheque
+      target: "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/_index.html
+    - title: Gestion des fichiers dans la bibliothèque
+      slug: gestion-des-fichiers-dans-la-bibliotheque
+      target: "/gerer-un-site-web/mediatheque/fichiers-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/mediatheque/fichiers-1"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/fichiers-1/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
+    - "/gerer-un-site-web/mediatheque/fichiers-1/"
+    path: "/pages/gerer-un-site-web/mediatheque"
+    file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   - title: Accessibilité
     slug: accessibilite
     target: "/gerer-un-site-web/rendre-son-site-accessible/"
@@ -547,35 +576,6 @@ items:
     - "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
     path: "/pages/gerer-un-site-web/rendre-son-site-accessible"
     file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/_index.html
-  - title: Médias
-    slug: medias
-    target: "/gerer-un-site-web/mediatheque/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Gestion des images dans la photothèque
-      slug: gestion-des-images-dans-la-phototheque
-      target: "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/_index.html
-    - title: Gestion des fichiers dans la bibliothèque
-      slug: gestion-des-fichiers-dans-la-bibliotheque
-      target: "/gerer-un-site-web/mediatheque/fichiers-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/fichiers-1"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/fichiers-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
-    - "/gerer-un-site-web/mediatheque/fichiers-1/"
-    path: "/pages/gerer-un-site-web/mediatheque"
-    file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   descendants_targets:
   - "/gerer-un-site-web/actualites-3/"
   - "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
@@ -777,6 +777,15 @@ items:
       descendants_targets: []
       path: "/pages/gerer-un-extranet/actualites-4/avant-de-publier-2"
       file: content/fr/pages/gerer-un-extranet/actualites-4/avant-de-publier-2/_index.html
+    - title: Publier une actualité
+      slug: publier-une-actualite
+      target: "/gerer-un-site-web/actualites-3/publier-une-actualite/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/actualites-3/publier-une-actualite"
+      file: content/fr/pages/gerer-un-site-web/actualites-3/publier-une-actualite/_index.html
     - title: Modifier une actualité
       slug: modifier-une-actualite
       target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
@@ -792,6 +801,7 @@ items:
     - "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
     - "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
     - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
+    - "/gerer-un-site-web/actualites-3/publier-une-actualite/"
     path: "/pages/gerer-un-extranet/actualites-4"
     file: content/fr/pages/gerer-un-extranet/actualites-4/_index.html
   - title: Documents
@@ -854,6 +864,7 @@ items:
   - "/gerer-un-extranet/extranet-1/fondamentaux-1/"
   - "/gerer-un-extranet/extranet-1/types-dextranets/"
   - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
+  - "/gerer-un-site-web/actualites-3/publier-une-actualite/"
   path: "/pages/gerer-un-extranet"
   file: content/fr/pages/gerer-un-extranet/_index.html
 - title: Composer avec les blocs
