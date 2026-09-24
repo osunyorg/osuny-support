@@ -75,6 +75,10 @@ from = "/gerer-une-universite/recherche-1/index.html"
 to = "/aller-plus-loin/recherche-1/"
 
 [[redirects]]
+from = "/commencer-simplement/interface/index.html"
+to = "/commencer-simplement/demarrer-rapidement/interface-osuny/"
+
+[[redirects]]
 from = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-un-tableau/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
 
@@ -429,6 +433,10 @@ to = "/aller-plus-loin/recherche-1/les-chercheures/"
 [[redirects]]
 from = "/v1/creer-gerer-ses-donnees/enseignements/enseignantses/index.html"
 to = "/aller-plus-loin/pedagogie/les-enseignantes/"
+
+[[redirects]]
+from = "/composer-avec-les-blocs/composer-une-page/les-titres/index.html"
+to = "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
 
 [[redirects]]
 from = "/equipe/categories/gestion-de-projet/index.html"
