@@ -75,16 +75,8 @@ from = "/les-blocs/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs/"
 
 [[redirects]]
-from = "/communication/extranet/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
-
-[[redirects]]
 from = "/gerer-ses-donnees/administration/qualite/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/qualite/"
-
-[[redirects]]
-from = "/les-ressources/communication/extranet/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
 
 [[redirects]]
 from = "/gerer-une-universite/administration-1/qualiopi/index.html"
@@ -407,20 +399,12 @@ from = "/creer-des-contenus/transcription/bonnes-pratiques/index.html"
 to = "/v1/creer-gerer-contenus/transcription/bonnes-pratiques/"
 
 [[redirects]]
-from = "/creer-gerer-ses-informations/communication/extranet/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
-
-[[redirects]]
 from = "/organisations/categories/implication/organisations-contributrices/index.html"
 to = "/organisations/categories/implication/contribs-osuny/"
 
 [[redirects]]
 from = "/gerer-une-universite/administration-1/index.html"
 to = "/aller-plus-loin/administration-1/"
-
-[[redirects]]
-from = "/gerer-ses-donnees/communication/extranet/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
 
 [[redirects]]
 from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/revues-scientifiques/index.html"
@@ -447,8 +431,12 @@ from = "/administration/qualite/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/qualite/"
 
 [[redirects]]
-from = "/creer-gerer-des-donnees/communication/extranet/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
+from = "/v1/creer-gerer-pages/site-web/index.html"
+to = "/gerer-un-site-web/"
+
+[[redirects]]
+from = "/v1/creer-gerer-ses-donnees/communication/sites-web/index.html"
+to = "/gerer-un-site-web/"
 
 [[redirects]]
 from = "https://demo.osuny.org/admin/fr/communication/websites/0aee4b28-85b6-463c-9395-f300fa131763/pages/669c1b69-4d0e-4f2d-b517-f6cd3260e2e3"
@@ -473,10 +461,6 @@ to = "/gerer-un-site-web/actualites-3/gestion-des-categories/"
 [[redirects]]
 from = "/equipe/categories/region/ile-de-france/index.html"
 to = "/equipe/categories/regions/ile-de-france/"
-
-[[redirects]]
-from = "/v1/creer-gerer-pages/site-web/importer-le-site/index.html"
-to = "/gerer-un-site-web/sites/creer-un-site/"
 
 [[redirects]]
 from = "/recherche/veille/index.html"
@@ -521,10 +505,6 @@ to = "/organisations/categories/lieu/france/ile-de-france/"
 [[redirects]]
 from = "/composer-avec-les-blocs/les-blocs-de-listes-1/listes-de-pages/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
-
-[[redirects]]
-from = "/v1/creer-gerer-pages/site-web/index.html"
-to = "/gerer-un-site-web/"
 
 [[redirects]]
 from = "/creer-gerer-contenus/les-blocs/actions-sur-un-bloc/index.html"
@@ -647,10 +627,6 @@ from = "/les-ressources/administration/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/"
 
 [[redirects]]
-from = "/creer-gerer-des-donnees/communication/sites-web/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
-
-[[redirects]]
 from = "/les-ressources/recherche/veille/index.html"
 to = "/v1/creer-gerer-ses-donnees/recherche/veille/"
 
@@ -755,6 +731,10 @@ from = "/les-ressources/index.html"
 to = "/creer-gerer-ses-donnees/"
 
 [[redirects]]
+from = "/v1/creer-gerer-ses-donnees/communication/extranet/index.html"
+to = "/gerer-un-extranet/"
+
+[[redirects]]
 from = "/les-ressources/communication/index.html"
 to = "/v1/creer-gerer-ses-donnees/communication/"
 
@@ -835,10 +815,6 @@ from = "/gerer-ses-donnees/enseignements/feedback/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/feedback/"
 
 [[redirects]]
-from = "/v1/creer-gerer-pages/site-web/modifier-le-site-web/index.html"
-to = "/gerer-un-site-web/sites/creer-un-site/"
-
-[[redirects]]
 from = "/creer-des-contenus/transcription/transcription-textuelle/index.html"
 to = "/v1/creer-gerer-contenus/transcription/transcription-textuelle/"
 
@@ -853,10 +829,6 @@ to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-diplomes/"
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-techniques/ajouter-des-fichiers/index.html"
 to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
-
-[[redirects]]
-from = "/creer-gerer-ses-donnees/communication/sites-web/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
 
 [[redirects]]
 from = "/organisations/categories/nouvelle-aquitaine/index.html"
@@ -995,10 +967,6 @@ from = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/
 to = "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
 
 [[redirects]]
-from = "/creer-gerer-ses-donnees/communication/extranet/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
-
-[[redirects]]
 from = "/creer-gerer-des-donnees/administration/qualite/index.html"
 to = "/v1/creer-gerer-ses-donnees/administration/qualite/"
 
@@ -1025,10 +993,6 @@ to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
 [[redirects]]
 from = "/organisations/categories/localisation/index.html"
 to = "/organisations/categories/lieu/"
-
-[[redirects]]
-from = "/gerer-ses-donnees/communication/sites-web/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
 
 [[redirects]]
 from = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-une-image/index.html"
@@ -1079,10 +1043,6 @@ from = "/organisations/categories/localisation/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/les-donnees/communication/extranet/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/extranet/"
-
-[[redirects]]
 from = "/transcription/bonnes-pratiques/index.html"
 to = "/v1/creer-gerer-contenus/transcription/bonnes-pratiques/"
 
@@ -1099,20 +1059,12 @@ from = "/les-blocs-de-contenus/transcription/accessibilite-2/index.html"
 to = "/v1/creer-gerer-contenus/transcription/bonnes-pratiques/"
 
 [[redirects]]
-from = "/communication/sites-web/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
-
-[[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/documents/gestion-des-types/index.html"
 to = "/gerer-un-extranet/documents/gestion-des-types/"
 
 [[redirects]]
 from = "/enseignements/ressources-educatives/index.html"
 to = "/v1/creer-gerer-ses-donnees/enseignements/ressources-educatives/"
-
-[[redirects]]
-from = "/les-ressources/communication/sites-web/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
 
 [[redirects]]
 from = "/creer-des-contenus/les-blocs/accessibilite-1/index.html"
@@ -1215,10 +1167,6 @@ from = "/les-donnees/universites/index.html"
 to = "/v1/creer-gerer-ses-donnees/universites/"
 
 [[redirects]]
-from = "/creer-gerer-ses-informations/communication/sites-web/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
-
-[[redirects]]
 from = "/equipe/categories/implication/comites-osuny/scientifique/index.html"
 to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
 
@@ -1241,10 +1189,6 @@ to = "/v1/creer-gerer-ses-donnees/recherche/veille/"
 [[redirects]]
 from = "/organisations/ile-de-france/index.html"
 to = "/organisations/categories/lieu/france/ile-de-france/"
-
-[[redirects]]
-from = "/les-donnees/communication/sites-web/index.html"
-to = "/v1/creer-gerer-ses-donnees/communication/sites-web/"
 
 [[redirects]]
 from = "/v1/creer-gerer-pages/menus/modifier-un-menu/index.html"
