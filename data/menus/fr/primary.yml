@@ -12,8 +12,16 @@ items:
     target: "/commencer-simplement/demarrer-rapidement/"
     kind: page
     new_tab: false
-    children: []
-    descendants_targets: []
+    children:
+    - title: Comment créer un site web
+      slug: comment-creer-un-site-web
+      target: https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
+      kind: url
+      new_tab: true
+      children: []
+      descendants_targets: []
+    descendants_targets:
+    - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
     path: "/pages/commencer-simplement/demarrer-rapidement"
     file: content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html
   - title: Découvrir Osuny
@@ -49,6 +57,7 @@ items:
   - "/commencer-simplement/decouvrir-osuny/interface-osuny/"
   - "/commencer-simplement/demarrer-rapidement/"
   - "/commencer-simplement/utiliser-un-cms/"
+  - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
   path: "/pages/commencer-simplement"
   file: content/fr/pages/commencer-simplement/_index.html
 - title: Gérer un site web
