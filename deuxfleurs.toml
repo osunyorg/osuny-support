@@ -279,6 +279,10 @@ from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/recherche/laboratoi
 to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-laboratoires/"
 
 [[redirects]]
+from = "/composer-avec-les-blocs/les-blocs-de-base-1/video/transcription/index.html"
+to = "/composer-avec-les-blocs/transcription/"
+
+[[redirects]]
 from = "/v1/creer-gerer-pages/site-web/index.html"
 to = "/gerer-un-site-web/"
 
@@ -616,7 +620,7 @@ to = "/aller-plus-loin/recherche-1/les-theses/"
 
 [[redirects]]
 from = "/aller-plus-loin/transcription/index.html"
-to = "/composer-avec-les-blocs/les-blocs-de-base-1/video/transcription/"
+to = "/composer-avec-les-blocs/transcription/"
 
 [[redirects]]
 from = "/v1/l-outil/osuny/index.html"

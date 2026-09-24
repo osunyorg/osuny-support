@@ -21,8 +21,18 @@ items:
     target: "/commencer-simplement/decouvrir-osuny/"
     kind: page
     new_tab: false
-    children: []
-    descendants_targets: []
+    children:
+    - title: Interface du back office
+      slug: interface-du-back-office
+      target: "/commencer-simplement/decouvrir-osuny/interface-osuny/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/commencer-simplement/decouvrir-osuny/interface-osuny"
+      file: content/fr/pages/commencer-simplement/decouvrir-osuny/interface-osuny/_index.html
+    descendants_targets:
+    - "/commencer-simplement/decouvrir-osuny/interface-osuny/"
     path: "/pages/commencer-simplement/decouvrir-osuny"
     file: content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html
   - title: Utiliser un CMS
@@ -36,6 +46,7 @@ items:
     file: content/fr/pages/commencer-simplement/utiliser-un-cms/_index.html
   descendants_targets:
   - "/commencer-simplement/decouvrir-osuny/"
+  - "/commencer-simplement/decouvrir-osuny/interface-osuny/"
   - "/commencer-simplement/demarrer-rapidement/"
   - "/commencer-simplement/utiliser-un-cms/"
   path: "/pages/commencer-simplement"
