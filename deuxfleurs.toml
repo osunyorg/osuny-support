@@ -355,10 +355,6 @@ from = "/les-blocs-de-contenus/transcription/sous-titres/index.html"
 to = "/v1/creer-gerer-contenus/transcription/methodologie-sous-titres/"
 
 [[redirects]]
-from = "/les-blocs-de-contenus/les-blocs/emploi-dun-bloc/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
-
-[[redirects]]
 from = "/gerer-une-universite/recherche-1/les-laboratoires/index.html"
 to = "/aller-plus-loin/recherche-1/les-laboratoires/"
 
@@ -487,10 +483,6 @@ from = "/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-temoignage/index.ht
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
 
 [[redirects]]
-from = "/les-blocs/emploi-dun-bloc/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
-
-[[redirects]]
 from = "/v1/creer-gerer-pages/actualites-1/modifier-une-actualite/index.html"
 to = "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
 
@@ -517,10 +509,6 @@ to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-temoignage/"
 [[redirects]]
 from = "/creation-gestion-contenus/les-blocs-de-listes/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-listes/"
-
-[[redirects]]
-from = "/creation-gestion-contenus/les-blocs/emploi-dun-bloc/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
 
 [[redirects]]
 from = "/creer-gerer-des-donnees/universites/index.html"
@@ -763,10 +751,6 @@ from = "/ajouter-un-appel-a-actions/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/"
 
 [[redirects]]
-from = "/emploi-dun-bloc/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
-
-[[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/documents/ajouter-un-document/index.html"
 to = "/gerer-un-extranet/documents/ajouter-un-document/"
 
@@ -785,6 +769,10 @@ to = "/aller-plus-loin/recherche-1/les-theses/"
 [[redirects]]
 from = "/gerer-une-universite/pedagogie/les-alumni/index.html"
 to = "/aller-plus-loin/pedagogie/les-alumni/"
+
+[[redirects]]
+from = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/index.html"
+to = "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
 
 [[redirects]]
 from = "/creer-gerer-contenus/les-blocs-techniques/index.html"
@@ -1351,10 +1339,6 @@ from = "/creation-gestion-contenus/les-blocs-de-listes/actualites-2/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-de-listes/actualites-2/"
 
 [[redirects]]
-from = "/creer-des-contenus/les-blocs/emploi-dun-bloc/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
-
-[[redirects]]
 from = "/creer-gerer-contenus/les-blocs-techniques/ajouter-une-integration-html/index.html"
 to = "/v1/creer-gerer-contenus/les-blocs-techniques/ajouter-une-integration-html/"
 
@@ -1461,10 +1445,6 @@ to = "/v1/creer-gerer-contenus/transcription/"
 [[redirects]]
 from = "/v1/creer-gerer-pages/menus/fonctionnement/index.html"
 to = "/gerer-un-site-web/menus-1/creer-un-menu-1/"
-
-[[redirects]]
-from = "/creer-gerer-contenus/les-blocs/emploi-dun-bloc/index.html"
-to = "/v1/creer-gerer-contenus/les-blocs/emploi-dun-bloc/"
 
 [[redirects]]
 from = "/composer-avec-les-blocs/les-blocs-narratifs-1/bloc-fonctionnalites/index.html"
