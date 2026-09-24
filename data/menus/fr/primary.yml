@@ -7,6 +7,24 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: Qu'est-ce qu'un CMS ?
+    slug: qu-est-ce-qu-un-cms
+    target: "/commencer-simplement/utiliser-un-cms/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/commencer-simplement/utiliser-un-cms"
+    file: content/fr/pages/commencer-simplement/utiliser-un-cms/_index.html
+  - title: Découvrir Osuny
+    slug: decouvrir-osuny
+    target: "/commencer-simplement/decouvrir-osuny/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/commencer-simplement/decouvrir-osuny"
+    file: content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html
   - title: Démarrer rapidement
     slug: demarrer-rapidement
     target: "/commencer-simplement/demarrer-rapidement/"
@@ -20,16 +38,6 @@ items:
       new_tab: true
       children: []
       descendants_targets: []
-    descendants_targets:
-    - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
-    path: "/pages/commencer-simplement/demarrer-rapidement"
-    file: content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html
-  - title: Découvrir Osuny
-    slug: decouvrir-osuny
-    target: "/commencer-simplement/decouvrir-osuny/"
-    kind: page
-    new_tab: false
-    children:
     - title: Interface du back office
       slug: interface-du-back-office
       target: "/commencer-simplement/decouvrir-osuny/interface-osuny/"
@@ -41,17 +49,9 @@ items:
       file: content/fr/pages/commencer-simplement/decouvrir-osuny/interface-osuny/_index.html
     descendants_targets:
     - "/commencer-simplement/decouvrir-osuny/interface-osuny/"
-    path: "/pages/commencer-simplement/decouvrir-osuny"
-    file: content/fr/pages/commencer-simplement/decouvrir-osuny/_index.html
-  - title: Utiliser un CMS
-    slug: utiliser-un-cms
-    target: "/commencer-simplement/utiliser-un-cms/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/commencer-simplement/utiliser-un-cms"
-    file: content/fr/pages/commencer-simplement/utiliser-un-cms/_index.html
+    - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
+    path: "/pages/commencer-simplement/demarrer-rapidement"
+    file: content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html
   descendants_targets:
   - "/commencer-simplement/decouvrir-osuny/"
   - "/commencer-simplement/decouvrir-osuny/interface-osuny/"
