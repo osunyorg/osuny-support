@@ -75,10 +75,6 @@ from = "/gerer-une-universite/recherche-1/index.html"
 to = "/aller-plus-loin/recherche-1/"
 
 [[redirects]]
-from = "/creer-gerer-ses-informations/index.html"
-to = "/creer-gerer-ses-donnees/"
-
-[[redirects]]
 from = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-un-tableau/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
 
@@ -307,6 +303,10 @@ from = "/v1/creer-gerer-pages/actualites-1/categories-dactualites/index.html"
 to = "/gerer-un-site-web/actualites-3/gestion-des-categories/"
 
 [[redirects]]
+from = "/v1/l-outil/interface-osuny/index.html"
+to = "/commencer-simplement/decouvrir-osuny/interface-osuny/"
+
+[[redirects]]
 from = "/equipe/categories/region/ile-de-france/index.html"
 to = "/equipe/categories/regions/ile-de-france/"
 
@@ -356,7 +356,7 @@ to = "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
 
 [[redirects]]
 from = "/l-outil/tableau-de-bord/index.html"
-to = "/v1/l-outil/interface-osuny/"
+to = "/commencer-simplement/decouvrir-osuny/interface-osuny/"
 
 [[redirects]]
 from = "/gerer-un-site-web/gerer-un-extranet/annuaire/modifier-une-organisation/index.html"
@@ -396,7 +396,7 @@ to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-chercheures/"
 
 [[redirects]]
 from = "/l-outil/interface-osuny/index.html"
-to = "/v1/l-outil/interface-osuny/"
+to = "/commencer-simplement/decouvrir-osuny/interface-osuny/"
 
 [[redirects]]
 from = "/gerer-une-universite/recherche-1/les-revues-scientifiques/index.html"
@@ -431,20 +431,20 @@ from = "/organisations/categories/secteurs/index.html"
 to = "/organisations/categories/secteurs-organisation/"
 
 [[redirects]]
-from = "/les-donnees/index.html"
-to = "/creer-gerer-ses-donnees/"
-
-[[redirects]]
 from = "/v1/creer-gerer-contenus/les-blocs-de-base/creer-un-chapitre/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
 
 [[redirects]]
+from = "/creer-gerer-ses-donnees/index.html"
+to = "/commencer-simplement/"
+
+[[redirects]]
 from = "/interface-osuny/index.html"
-to = "/v1/l-outil/interface-osuny/"
+to = "/commencer-simplement/decouvrir-osuny/interface-osuny/"
 
 [[redirects]]
 from = "/tableau-de-bord/index.html"
-to = "/v1/l-outil/interface-osuny/"
+to = "/commencer-simplement/decouvrir-osuny/interface-osuny/"
 
 [[redirects]]
 from = "/creer-des-contenus/les-blocs-techniques/ajouter-des-fichiers/index.html"
@@ -487,10 +487,6 @@ from = "/gerer-un-site-web/gerer-un-extranet/extranet-1/fondamentaux-1/index.htm
 to = "/gerer-un-extranet/extranet-1/fondamentaux-1/"
 
 [[redirects]]
-from = "/les-ressources/index.html"
-to = "/creer-gerer-ses-donnees/"
-
-[[redirects]]
 from = "/v1/creer-gerer-ses-donnees/communication/extranet/index.html"
 to = "/gerer-un-extranet/"
 
@@ -509,6 +505,10 @@ to = "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
 [[redirects]]
 from = "/gerer-un-site-web/menus-1/pages-reliees-menu/index.html"
 to = "/gerer-un-site-web/menus-1/relier-elements-menu/"
+
+[[redirects]]
+from = "/https:/support.osuny.org/l-outil/index.html"
+to = "/commencer-simplement/"
 
 [[redirects]]
 from = "/v1/creer-gerer-ses-donnees/enseignements/ressources-educatives/index.html"
@@ -579,10 +579,6 @@ from = "/composer-avec-les-blocs/les-blocs-de-base-1/bloc-image/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
 
 [[redirects]]
-from = "/gerer-ses-donnees/index.html"
-to = "/creer-gerer-ses-donnees/"
-
-[[redirects]]
 from = "/organisations/categories/soutiens-osuny/index.html"
 to = "/organisations/categories/implication/soutiens-osuny/"
 
@@ -613,10 +609,6 @@ to = "/organisations/categories/implication/agences-osuny/"
 [[redirects]]
 from = "/equipe/categories/metier/gestion-de-projet/index.html"
 to = "/equipe/categories/metiers/gestion-de-projet/"
-
-[[redirects]]
-from = "/creer-gerer-des-donnees/index.html"
-to = "/creer-gerer-ses-donnees/"
 
 [[redirects]]
 from = "/v1/creer-gerer-ses-donnees/recherche/theses/index.html"
