@@ -31,10 +31,6 @@ from = "/les-blocs-techniques/ajouter-des-fichiers/index.html"
 to = "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
 
 [[redirects]]
-from = "/l-outil/choix-du-theme/index.html"
-to = "/v1/l-outil/choix-du-theme/"
-
-[[redirects]]
 from = "/modifier-une-offre-demploi/index.html"
 to = "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
 
@@ -75,20 +71,12 @@ from = "https://support.osuny.org/v1/creer-gerer-ses-donnees/enseignements/alumn
 to = "https://support.osuny.org/aller-plus-loin/pedagogie/les-alumni/"
 
 [[redirects]]
-from = "/osuny/index.html"
-to = "/v1/l-outil/osuny/"
-
-[[redirects]]
 from = "/gerer-une-universite/recherche-1/index.html"
 to = "/aller-plus-loin/recherche-1/"
 
 [[redirects]]
 from = "/creer-gerer-ses-informations/index.html"
 to = "/creer-gerer-ses-donnees/"
-
-[[redirects]]
-from = "/l-outil/fonctionnement-osuny/index.html"
-to = "/v1/l-outil/osuny/"
 
 [[redirects]]
 from = "/v1/creer-gerer-contenus/les-blocs-de-base/ajouter-un-tableau/index.html"
@@ -231,6 +219,10 @@ from = "/commencer-simplement/equipe-1/index.html"
 to = "/aller-plus-loin/universite/equipe-1/"
 
 [[redirects]]
+from = "/aller-plus-loin/transcription/bonnes-pratiques/index.html"
+to = "/composer-avec-les-blocs/les-blocs-de-base-1/video/transcription/bonnes-pratiques/"
+
+[[redirects]]
 from = "/v1/creer-gerer-ses-donnees/administration/qualite/index.html"
 to = "/aller-plus-loin/administration-1/qualiopi/"
 
@@ -319,6 +311,10 @@ from = "/equipe/categories/region/ile-de-france/index.html"
 to = "/equipe/categories/regions/ile-de-france/"
 
 [[redirects]]
+from = "/v1/l-outil/choix-du-theme/index.html"
+to = "/"
+
+[[redirects]]
 from = "/gerer-un-site-web/menus-1/ajouter-des-pages-au-menu/index.html"
 to = "/gerer-un-site-web/menus-1/relier-elements-menu/"
 
@@ -369,10 +365,6 @@ to = "/gerer-un-extranet/annuaire/modifier-une-organisation/"
 [[redirects]]
 from = "/accessibilite-1/index.html"
 to = "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
-
-[[redirects]]
-from = "/l-outil/osuny/index.html"
-to = "/v1/l-outil/osuny/"
 
 [[redirects]]
 from = "/composer-avec-les-blocs/les-blocs-de-base-1/bloc-tableau/index.html"
@@ -631,8 +623,12 @@ from = "/v1/creer-gerer-ses-donnees/recherche/theses/index.html"
 to = "/aller-plus-loin/recherche-1/les-theses/"
 
 [[redirects]]
-from = "/choix-du-theme/index.html"
-to = "/v1/l-outil/choix-du-theme/"
+from = "/aller-plus-loin/transcription/index.html"
+to = "/composer-avec-les-blocs/les-blocs-de-base-1/video/transcription/"
+
+[[redirects]]
+from = "/v1/l-outil/osuny/index.html"
+to = "/commencer-simplement/"
 
 [[redirects]]
 from = "/gerer-une-universite/pedagogie/index.html"
@@ -661,6 +657,10 @@ to = "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
 [[redirects]]
 from = "/v1/creer-gerer-contenus/les-blocs-narratifs/ajouter-un-appel-a-actions/index.html"
 to = "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
+
+[[redirects]]
+from = "/aller-plus-loin/transcription/transcription-textuelle/index.html"
+to = "/composer-avec-les-blocs/les-blocs-de-base-1/video/transcription/transcription-textuelle/"
 
 [[redirects]]
 from = "/v1/creer-gerer-ses-donnees/universites/personnes/index.html"
@@ -805,6 +805,10 @@ to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
 [[redirects]]
 from = "/v1/creer-gerer-pages/actualites-1/index.html"
 to = "/gerer-un-site-web/actualites-3/"
+
+[[redirects]]
+from = "/aller-plus-loin/transcription/methodologie-sous-titres/index.html"
+to = "/composer-avec-les-blocs/les-blocs-de-base-1/video/transcription/methodologie-sous-titres/"
 
 [[redirects]]
 from = "/gerer-un-site-web/accessibilite-2/les-images/index.html"
