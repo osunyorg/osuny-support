@@ -115,45 +115,6 @@ items:
     - "/gerer-un-site-web/sites/statistiques-de-visite/"
     path: "/pages/gerer-un-site-web/sites"
     file: content/fr/pages/gerer-un-site-web/sites/_index.html
-  - title: Répertoire
-    slug: repertoire
-    target: "/gerer-un-site-web/repertoire/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Personnes
-      slug: personnes
-      target: "/gerer-un-site-web/repertoire/personnes-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/personnes-1"
-      file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
-    - title: Organisations
-      slug: organisations
-      target: "/gerer-un-site-web/repertoire/organisations-2/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/organisations-2"
-      file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
-    - title: Utilisateur.rice.s
-      slug: utilisateur-rice-s
-      target: "/gerer-un-site-web/repertoire/utilisateurrices/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/utilisateurrices"
-      file: content/fr/pages/gerer-un-site-web/repertoire/utilisateurrices/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/repertoire/organisations-2/"
-    - "/gerer-un-site-web/repertoire/personnes-1/"
-    - "/gerer-un-site-web/repertoire/utilisateurrices/"
-    path: "/pages/gerer-un-site-web/repertoire"
-    file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
   - title: Pages
     slug: pages
     target: "/gerer-un-site-web/pages/"
@@ -203,6 +164,94 @@ items:
     - "/gerer-un-site-web/pages/modifier-une-page-1/"
     path: "/pages/gerer-un-site-web/pages"
     file: content/fr/pages/gerer-un-site-web/pages/_index.html
+  - title: Menus
+    slug: menus
+    target: "/gerer-un-site-web/menus-1/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Créer un menu
+      slug: creer-un-menu
+      target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/menus-1/creer-un-menu-1"
+      file: content/fr/pages/gerer-un-site-web/menus-1/creer-un-menu-1/_index.html
+    - title: Relier des éléments au menu
+      slug: relier-des-elements-au-menu
+      target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/menus-1/relier-elements-menu"
+      file: content/fr/pages/gerer-un-site-web/menus-1/relier-elements-menu/_index.html
+    - title: Modifier un menu
+      slug: modifier-un-menu
+      target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/menus-1/modifier-un-menu-1"
+      file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
+    - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
+    - "/gerer-un-site-web/menus-1/relier-elements-menu/"
+    path: "/pages/gerer-un-site-web/menus-1"
+    file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
+  - title: Portfolio
+    slug: portfolio
+    target: "/gerer-un-site-web/portfolio/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Activer le portfolio
+      slug: activer-le-portfolio
+      target: "/gerer-un-site-web/portfolio/activer-le-portfolio/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/portfolio/activer-le-portfolio"
+      file: content/fr/pages/gerer-un-site-web/portfolio/activer-le-portfolio/_index.html
+    - title: Créer un projet
+      slug: creer-un-projet
+      target: "/gerer-un-site-web/portfolio/creer-un-projet/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/portfolio/creer-un-projet"
+      file: content/fr/pages/gerer-un-site-web/portfolio/creer-un-projet/_index.html
+    - title: Créer des catégories
+      slug: creer-des-categories
+      target: "/gerer-un-site-web/portfolio/creer-des-categories-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/portfolio/creer-des-categories-1"
+      file: content/fr/pages/gerer-un-site-web/portfolio/creer-des-categories-1/_index.html
+    - title: Modifier un projet
+      slug: modifier-un-projet
+      target: "/gerer-un-site-web/portfolio/modifier-un-projet/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/portfolio/modifier-un-projet"
+      file: content/fr/pages/gerer-un-site-web/portfolio/modifier-un-projet/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/portfolio/activer-le-portfolio/"
+    - "/gerer-un-site-web/portfolio/creer-des-categories-1/"
+    - "/gerer-un-site-web/portfolio/creer-un-projet/"
+    - "/gerer-un-site-web/portfolio/modifier-un-projet/"
+    path: "/pages/gerer-un-site-web/portfolio"
+    file: content/fr/pages/gerer-un-site-web/portfolio/_index.html
   - title: Actualités
     slug: actualites
     target: "/gerer-un-site-web/actualites-3/"
@@ -272,6 +321,45 @@ items:
     - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
     path: "/pages/gerer-un-site-web/actualites-3"
     file: content/fr/pages/gerer-un-site-web/actualites-3/_index.html
+  - title: Répertoire
+    slug: repertoire
+    target: "/gerer-un-site-web/repertoire/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Personnes
+      slug: personnes
+      target: "/gerer-un-site-web/repertoire/personnes-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/repertoire/personnes-1"
+      file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
+    - title: Organisations
+      slug: organisations
+      target: "/gerer-un-site-web/repertoire/organisations-2/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/repertoire/organisations-2"
+      file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
+    - title: Utilisateur.rice.s
+      slug: utilisateur-rice-s
+      target: "/gerer-un-site-web/repertoire/utilisateurrices/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/repertoire/utilisateurrices"
+      file: content/fr/pages/gerer-un-site-web/repertoire/utilisateurrices/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/repertoire/organisations-2/"
+    - "/gerer-un-site-web/repertoire/personnes-1/"
+    - "/gerer-un-site-web/repertoire/utilisateurrices/"
+    path: "/pages/gerer-un-site-web/repertoire"
+    file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
   - title: Agenda
     slug: agenda
     target: "/gerer-un-site-web/agenda-1/"
@@ -361,123 +449,6 @@ items:
     - "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
     path: "/pages/gerer-un-site-web/agenda-1"
     file: content/fr/pages/gerer-un-site-web/agenda-1/_index.html
-  - title: Portfolio
-    slug: portfolio
-    target: "/gerer-un-site-web/portfolio/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Activer le portfolio
-      slug: activer-le-portfolio
-      target: "/gerer-un-site-web/portfolio/activer-le-portfolio/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/activer-le-portfolio"
-      file: content/fr/pages/gerer-un-site-web/portfolio/activer-le-portfolio/_index.html
-    - title: Créer un projet
-      slug: creer-un-projet
-      target: "/gerer-un-site-web/portfolio/creer-un-projet/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/creer-un-projet"
-      file: content/fr/pages/gerer-un-site-web/portfolio/creer-un-projet/_index.html
-    - title: Créer des catégories
-      slug: creer-des-categories
-      target: "/gerer-un-site-web/portfolio/creer-des-categories-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/creer-des-categories-1"
-      file: content/fr/pages/gerer-un-site-web/portfolio/creer-des-categories-1/_index.html
-    - title: Modifier un projet
-      slug: modifier-un-projet
-      target: "/gerer-un-site-web/portfolio/modifier-un-projet/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/modifier-un-projet"
-      file: content/fr/pages/gerer-un-site-web/portfolio/modifier-un-projet/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/portfolio/activer-le-portfolio/"
-    - "/gerer-un-site-web/portfolio/creer-des-categories-1/"
-    - "/gerer-un-site-web/portfolio/creer-un-projet/"
-    - "/gerer-un-site-web/portfolio/modifier-un-projet/"
-    path: "/pages/gerer-un-site-web/portfolio"
-    file: content/fr/pages/gerer-un-site-web/portfolio/_index.html
-  - title: Menus
-    slug: menus
-    target: "/gerer-un-site-web/menus-1/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Créer un menu
-      slug: creer-un-menu
-      target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/menus-1/creer-un-menu-1"
-      file: content/fr/pages/gerer-un-site-web/menus-1/creer-un-menu-1/_index.html
-    - title: Relier des éléments au menu
-      slug: relier-des-elements-au-menu
-      target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/menus-1/relier-elements-menu"
-      file: content/fr/pages/gerer-un-site-web/menus-1/relier-elements-menu/_index.html
-    - title: Modifier un menu
-      slug: modifier-un-menu
-      target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/menus-1/modifier-un-menu-1"
-      file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
-    - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
-    - "/gerer-un-site-web/menus-1/relier-elements-menu/"
-    path: "/pages/gerer-un-site-web/menus-1"
-    file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
-  - title: Médias
-    slug: medias
-    target: "/gerer-un-site-web/mediatheque/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Gestion des images dans la photothèque
-      slug: gestion-des-images-dans-la-phototheque
-      target: "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/_index.html
-    - title: Gestion des fichiers dans la bibliothèque
-      slug: gestion-des-fichiers-dans-la-bibliotheque
-      target: "/gerer-un-site-web/mediatheque/fichiers-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/fichiers-1"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/fichiers-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
-    - "/gerer-un-site-web/mediatheque/fichiers-1/"
-    path: "/pages/gerer-un-site-web/mediatheque"
-    file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   - title: Offres d'emploi
     slug: offres-d-emploi
     target: "/gerer-un-site-web/offres-demploi/"
@@ -576,6 +547,35 @@ items:
     - "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
     path: "/pages/gerer-un-site-web/rendre-son-site-accessible"
     file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/_index.html
+  - title: Médias
+    slug: medias
+    target: "/gerer-un-site-web/mediatheque/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Gestion des images dans la photothèque
+      slug: gestion-des-images-dans-la-phototheque
+      target: "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/_index.html
+    - title: Gestion des fichiers dans la bibliothèque
+      slug: gestion-des-fichiers-dans-la-bibliotheque
+      target: "/gerer-un-site-web/mediatheque/fichiers-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/mediatheque/fichiers-1"
+      file: content/fr/pages/gerer-un-site-web/mediatheque/fichiers-1/_index.html
+    descendants_targets:
+    - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
+    - "/gerer-un-site-web/mediatheque/fichiers-1/"
+    path: "/pages/gerer-un-site-web/mediatheque"
+    file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   descendants_targets:
   - "/gerer-un-site-web/actualites-3/"
   - "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
