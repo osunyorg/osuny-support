@@ -542,9 +542,29 @@ items:
       descendants_targets: []
       path: "/pages/gerer-un-site-web/rendre-son-site-accessible/derogations"
       file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/derogations/_index.html
+    - title: Transcription vidéos
+      slug: transcription-videos
+      target: "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/transcription"
+      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/transcription/_index.html
+    - title: Accessibilité du contenu
+      slug: accessibilite-du-contenu
+      target: "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1"
+      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/_index.html
     descendants_targets:
+    - "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
     - "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
     - "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
+    - "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
     path: "/pages/gerer-un-site-web/rendre-son-site-accessible"
     file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/_index.html
   descendants_targets:
@@ -587,8 +607,10 @@ items:
   - "/gerer-un-site-web/portfolio/creer-un-projet/"
   - "/gerer-un-site-web/portfolio/modifier-un-projet/"
   - "/gerer-un-site-web/rendre-son-site-accessible/"
+  - "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
   - "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
   - "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
+  - "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
   - "/gerer-un-site-web/repertoire/"
   - "/gerer-un-site-web/repertoire/organisations-2/"
   - "/gerer-un-site-web/repertoire/personnes-1/"
