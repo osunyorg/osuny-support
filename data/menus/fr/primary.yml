@@ -52,8 +52,8 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Comment créer un site web
-      slug: comment-creer-un-site-web
+    - title: Comment concevoir un site web
+      slug: comment-concevoir-un-site-web
       target: https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
       kind: url
       new_tab: true
