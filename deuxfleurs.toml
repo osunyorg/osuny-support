@@ -823,6 +823,10 @@ from = "/v1/creer-gerer-ses-donnees/administration/index.html"
 to = "/aller-plus-loin/administration-1/"
 
 [[redirects]]
+from = "/demarrer-rapidement/index.html"
+to = "/commencer-simplement/demarrer-rapidement/"
+
+[[redirects]]
 from = "/equipe/categories/region/index.html"
 to = "/equipe/categories/regions/"
 
