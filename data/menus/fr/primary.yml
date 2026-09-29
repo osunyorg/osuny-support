@@ -30,34 +30,14 @@ items:
     target: "/commencer-simplement/demarrer-rapidement/"
     kind: page
     new_tab: false
-    children:
-    - title: Comment créer un site web
-      slug: comment-creer-un-site-web
-      target: https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
-      kind: url
-      new_tab: true
-      children: []
-      descendants_targets: []
-    - title: Interface du back office
-      slug: interface-du-back-office
-      target: "/gerer-un-site-web/sites/interface-osuny/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/sites/interface-osuny"
-      file: content/fr/pages/gerer-un-site-web/sites/interface-osuny/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/sites/interface-osuny/"
-    - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
+    children: []
+    descendants_targets: []
     path: "/pages/commencer-simplement/demarrer-rapidement"
     file: content/fr/pages/commencer-simplement/demarrer-rapidement/_index.html
   descendants_targets:
   - "/commencer-simplement/decouvrir-osuny/"
   - "/commencer-simplement/demarrer-rapidement/"
   - "/commencer-simplement/utiliser-un-cms/"
-  - "/gerer-un-site-web/sites/interface-osuny/"
-  - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
   path: "/pages/commencer-simplement"
   file: content/fr/pages/commencer-simplement/_index.html
 - title: Gérer un site web
@@ -72,6 +52,13 @@ items:
     kind: page
     new_tab: false
     children:
+    - title: Comment créer un site web
+      slug: comment-creer-un-site-web
+      target: https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
+      kind: url
+      new_tab: true
+      children: []
+      descendants_targets: []
     - title: Fondamentaux
       slug: fondamentaux
       target: "/gerer-un-site-web/sites/fondamentaux/"
@@ -81,24 +68,15 @@ items:
       descendants_targets: []
       path: "/pages/gerer-un-site-web/sites/fondamentaux"
       file: content/fr/pages/gerer-un-site-web/sites/fondamentaux/_index.html
-    - title: Sites statiques
-      slug: sites-statiques
-      target: "/gerer-un-site-web/sites/sites-statiques/"
+    - title: Interface du back office
+      slug: interface-du-back-office
+      target: "/gerer-un-site-web/sites/interface-osuny/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/gerer-un-site-web/sites/sites-statiques"
-      file: content/fr/pages/gerer-un-site-web/sites/sites-statiques/_index.html
-    - title: Statistiques de visite
-      slug: statistiques-de-visite
-      target: "/aller-plus-loin/statistiques-de-visite/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/statistiques-de-visite"
-      file: content/fr/pages/aller-plus-loin/statistiques-de-visite/_index.html
+      path: "/pages/gerer-un-site-web/sites/interface-osuny"
+      file: content/fr/pages/gerer-un-site-web/sites/interface-osuny/_index.html
     - title: Créer un site
       slug: creer-un-site
       target: "/gerer-un-site-web/sites/creer-un-site/"
@@ -109,10 +87,10 @@ items:
       path: "/pages/gerer-un-site-web/sites/creer-un-site"
       file: content/fr/pages/gerer-un-site-web/sites/creer-un-site/_index.html
     descendants_targets:
-    - "/aller-plus-loin/statistiques-de-visite/"
     - "/gerer-un-site-web/sites/creer-un-site/"
     - "/gerer-un-site-web/sites/fondamentaux/"
-    - "/gerer-un-site-web/sites/sites-statiques/"
+    - "/gerer-un-site-web/sites/interface-osuny/"
+    - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
     path: "/pages/gerer-un-site-web/sites"
     file: content/fr/pages/gerer-un-site-web/sites/_index.html
   - title: Pages
@@ -577,7 +555,6 @@ items:
     path: "/pages/gerer-un-site-web/rendre-son-site-accessible"
     file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/_index.html
   descendants_targets:
-  - "/aller-plus-loin/statistiques-de-visite/"
   - "/gerer-un-site-web/actualites-3/"
   - "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
   - "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
@@ -628,7 +605,8 @@ items:
   - "/gerer-un-site-web/sites/"
   - "/gerer-un-site-web/sites/creer-un-site/"
   - "/gerer-un-site-web/sites/fondamentaux/"
-  - "/gerer-un-site-web/sites/sites-statiques/"
+  - "/gerer-un-site-web/sites/interface-osuny/"
+  - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
@@ -1428,6 +1406,15 @@ items:
     - "/aller-plus-loin/administration-1/qualiopi/"
     path: "/pages/aller-plus-loin/administration-1"
     file: content/fr/pages/aller-plus-loin/administration-1/_index.html
+  - title: Statistiques de visite
+    slug: statistiques-de-visite
+    target: "/aller-plus-loin/statistiques-de-visite/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/aller-plus-loin/statistiques-de-visite"
+    file: content/fr/pages/aller-plus-loin/statistiques-de-visite/_index.html
   descendants_targets:
   - "/aller-plus-loin/administration-1/"
   - "/aller-plus-loin/administration-1/qualiopi/"
@@ -1443,6 +1430,7 @@ items:
   - "/aller-plus-loin/recherche-1/les-publications/"
   - "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
   - "/aller-plus-loin/recherche-1/les-theses/"
+  - "/aller-plus-loin/statistiques-de-visite/"
   - "/aller-plus-loin/universite/"
   - "/aller-plus-loin/universite/equipe-1/"
   - "/aller-plus-loin/universite/multilingue/"
