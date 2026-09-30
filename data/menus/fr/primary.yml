@@ -286,38 +286,8 @@ items:
     target: "/aller-plus-loin/recherche-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Les publications
-      slug: les-publications
-      target: "/aller-plus-loin/recherche-1/les-publications/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/recherche-1/les-publications"
-      file: content/fr/pages/aller-plus-loin/recherche-1/les-publications/_index.html
-    - title: Les revues scientifiques
-      slug: les-revues-scientifiques
-      target: "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/recherche-1/les-revues-scientifiques"
-      file: content/fr/pages/aller-plus-loin/recherche-1/les-revues-scientifiques/_index.html
-    - title: Les thèses
-      slug: les-theses
-      target: "/aller-plus-loin/recherche-1/les-theses/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/recherche-1/les-theses"
-      file: content/fr/pages/aller-plus-loin/recherche-1/les-theses/_index.html
-    descendants_targets:
-    - "/aller-plus-loin/recherche-1/les-publications/"
-    - "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
-    - "/aller-plus-loin/recherche-1/les-theses/"
+    children: []
+    descendants_targets: []
     path: "/pages/aller-plus-loin/recherche-1"
     file: content/fr/pages/aller-plus-loin/recherche-1/_index.html
   - title: Administration
@@ -325,18 +295,8 @@ items:
     target: "/aller-plus-loin/administration-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Qualiopi
-      slug: qualiopi
-      target: "/aller-plus-loin/administration-1/qualiopi/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/administration-1/qualiopi"
-      file: content/fr/pages/aller-plus-loin/administration-1/qualiopi/_index.html
-    descendants_targets:
-    - "/aller-plus-loin/administration-1/qualiopi/"
+    children: []
+    descendants_targets: []
     path: "/pages/aller-plus-loin/administration-1"
     file: content/fr/pages/aller-plus-loin/administration-1/_index.html
   - title: Statistiques de visite
@@ -350,12 +310,8 @@ items:
     file: content/fr/pages/aller-plus-loin/statistiques-de-visite/_index.html
   descendants_targets:
   - "/aller-plus-loin/administration-1/"
-  - "/aller-plus-loin/administration-1/qualiopi/"
   - "/aller-plus-loin/pedagogie/"
   - "/aller-plus-loin/recherche-1/"
-  - "/aller-plus-loin/recherche-1/les-publications/"
-  - "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
-  - "/aller-plus-loin/recherche-1/les-theses/"
   - "/aller-plus-loin/statistiques-de-visite/"
   - "/aller-plus-loin/universite/"
   path: "/pages/aller-plus-loin"
