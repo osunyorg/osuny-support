@@ -160,28 +160,8 @@ items:
     target: "/gerer-un-extranet/extranet-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Fondamentaux
-      slug: fondamentaux
-      target: "/gerer-un-extranet/extranet-1/fondamentaux-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/extranet-1/fondamentaux-1"
-      file: content/fr/pages/gerer-un-extranet/extranet-1/fondamentaux-1/_index.html
-    - title: Types d'extranets
-      slug: types-d-extranets
-      target: "/gerer-un-extranet/extranet-1/types-dextranets/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/extranet-1/types-dextranets"
-      file: content/fr/pages/gerer-un-extranet/extranet-1/types-dextranets/_index.html
-    descendants_targets:
-    - "/gerer-un-extranet/extranet-1/fondamentaux-1/"
-    - "/gerer-un-extranet/extranet-1/types-dextranets/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-extranet/extranet-1"
     file: content/fr/pages/gerer-un-extranet/extranet-1/_index.html
   - title: Annuaire
@@ -189,68 +169,8 @@ items:
     target: "/gerer-un-extranet/annuaire/"
     kind: page
     new_tab: false
-    children:
-    - title: Fonctionnement
-      slug: fonctionnement
-      target: "/gerer-un-extranet/annuaire/fonctionnement-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/annuaire/fonctionnement-1"
-      file: content/fr/pages/gerer-un-extranet/annuaire/fonctionnement-1/_index.html
-    - title: Créer des personnes
-      slug: creer-des-personnes
-      target: "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/annuaire/ajouter-des-personnes"
-      file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-personnes/_index.html
-    - title: Créer des organisations
-      slug: creer-des-organisations
-      target: "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/annuaire/ajouter-des-organisations"
-      file: content/fr/pages/gerer-un-extranet/annuaire/ajouter-des-organisations/_index.html
-    - title: Gérer les accès
-      slug: gerer-les-acces
-      target: "/gerer-un-extranet/annuaire/gerer-les-acces/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/annuaire/gerer-les-acces"
-      file: content/fr/pages/gerer-un-extranet/annuaire/gerer-les-acces/_index.html
-    - title: Modifier des personnes
-      slug: modifier-des-personnes
-      target: "/gerer-un-extranet/annuaire/modifier-des-personnes/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/annuaire/modifier-des-personnes"
-      file: content/fr/pages/gerer-un-extranet/annuaire/modifier-des-personnes/_index.html
-    - title: Modifier une organisation
-      slug: modifier-une-organisation
-      target: "/gerer-un-extranet/annuaire/modifier-une-organisation/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/annuaire/modifier-une-organisation"
-      file: content/fr/pages/gerer-un-extranet/annuaire/modifier-une-organisation/_index.html
-    descendants_targets:
-    - "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
-    - "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
-    - "/gerer-un-extranet/annuaire/fonctionnement-1/"
-    - "/gerer-un-extranet/annuaire/gerer-les-acces/"
-    - "/gerer-un-extranet/annuaire/modifier-des-personnes/"
-    - "/gerer-un-extranet/annuaire/modifier-une-organisation/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-extranet/annuaire"
     file: content/fr/pages/gerer-un-extranet/annuaire/_index.html
   - title: Actualités
@@ -258,58 +178,8 @@ items:
     target: "/gerer-un-extranet/actualites-4/"
     kind: page
     new_tab: false
-    children:
-    - title: Créer une actualité
-      slug: creer-une-actualite
-      target: "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/actualites-4/creer-une-actualite-2"
-      file: content/fr/pages/gerer-un-extranet/actualites-4/creer-une-actualite-2/_index.html
-    - title: Gestion des catégories
-      slug: gestion-des-categories
-      target: "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/actualites-4/gestion-des-categories-2"
-      file: content/fr/pages/gerer-un-extranet/actualites-4/gestion-des-categories-2/_index.html
-    - title: Mettre en avant une actualité
-      slug: mettre-en-avant-une-actualite
-      target: "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1"
-      file: content/fr/pages/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/_index.html
-    - title: Avant de publier
-      slug: avant-de-publier
-      target: "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/actualites-4/avant-de-publier-2"
-      file: content/fr/pages/gerer-un-extranet/actualites-4/avant-de-publier-2/_index.html
-    - title: Modifier une actualité
-      slug: modifier-une-actualite
-      target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1"
-      file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
-    descendants_targets:
-    - "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
-    - "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
-    - "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
-    - "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
-    - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-extranet/actualites-4"
     file: content/fr/pages/gerer-un-extranet/actualites-4/_index.html
   - title: Documents
@@ -317,61 +187,15 @@ items:
     target: "/gerer-un-extranet/documents/"
     kind: page
     new_tab: false
-    children:
-    - title: Ajouter un document
-      slug: ajouter-un-document
-      target: "/gerer-un-extranet/documents/ajouter-un-document/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/documents/ajouter-un-document"
-      file: content/fr/pages/gerer-un-extranet/documents/ajouter-un-document/_index.html
-    - title: Gestion des catégories
-      slug: gestion-des-categories
-      target: "/gerer-un-extranet/documents/gestion-des-categories-3/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/documents/gestion-des-categories-3"
-      file: content/fr/pages/gerer-un-extranet/documents/gestion-des-categories-3/_index.html
-    - title: Gestion des types
-      slug: gestion-des-types
-      target: "/gerer-un-extranet/documents/gestion-des-types/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-extranet/documents/gestion-des-types"
-      file: content/fr/pages/gerer-un-extranet/documents/gestion-des-types/_index.html
-    descendants_targets:
-    - "/gerer-un-extranet/documents/ajouter-un-document/"
-    - "/gerer-un-extranet/documents/gestion-des-categories-3/"
-    - "/gerer-un-extranet/documents/gestion-des-types/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-extranet/documents"
     file: content/fr/pages/gerer-un-extranet/documents/_index.html
   descendants_targets:
   - "/gerer-un-extranet/actualites-4/"
-  - "/gerer-un-extranet/actualites-4/avant-de-publier-2/"
-  - "/gerer-un-extranet/actualites-4/creer-une-actualite-2/"
-  - "/gerer-un-extranet/actualites-4/gestion-des-categories-2/"
-  - "/gerer-un-extranet/actualites-4/mettre-en-avant-une-actualite-1/"
   - "/gerer-un-extranet/annuaire/"
-  - "/gerer-un-extranet/annuaire/ajouter-des-organisations/"
-  - "/gerer-un-extranet/annuaire/ajouter-des-personnes/"
-  - "/gerer-un-extranet/annuaire/fonctionnement-1/"
-  - "/gerer-un-extranet/annuaire/gerer-les-acces/"
-  - "/gerer-un-extranet/annuaire/modifier-des-personnes/"
-  - "/gerer-un-extranet/annuaire/modifier-une-organisation/"
   - "/gerer-un-extranet/documents/"
-  - "/gerer-un-extranet/documents/ajouter-un-document/"
-  - "/gerer-un-extranet/documents/gestion-des-categories-3/"
-  - "/gerer-un-extranet/documents/gestion-des-types/"
   - "/gerer-un-extranet/extranet-1/"
-  - "/gerer-un-extranet/extranet-1/fondamentaux-1/"
-  - "/gerer-un-extranet/extranet-1/types-dextranets/"
-  - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
   path: "/pages/gerer-un-extranet"
   file: content/fr/pages/gerer-un-extranet/_index.html
 - title: Composer avec les blocs
@@ -385,28 +209,8 @@ items:
     target: "/composer-avec-les-blocs/composer-une-page/"
     kind: page
     new_tab: false
-    children:
-    - title: Composer sa page avec les blocs
-      slug: composer-sa-page-avec-les-blocs
-      target: "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs"
-      file: content/fr/pages/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/_index.html
-    - title: Copier-coller un bloc
-      slug: copier-coller-un-bloc
-      target: "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc"
-      file: content/fr/pages/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/_index.html
-    descendants_targets:
-    - "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
-    - "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
+    children: []
+    descendants_targets: []
     path: "/pages/composer-avec-les-blocs/composer-une-page"
     file: content/fr/pages/composer-avec-les-blocs/composer-une-page/_index.html
   - title: Les blocs de base
@@ -414,68 +218,8 @@ items:
     target: "/composer-avec-les-blocs/les-blocs-de-base-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Titre
-      slug: titre
-      target: "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/titre"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/titre/_index.html
-    - title: Chapitre
-      slug: chapitre
-      target: "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/chapitre"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/_index.html
-    - title: Image
-      slug: image
-      target: "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/image"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/image/_index.html
-    - title: Vidéo
-      slug: video
-      target: "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/video"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/video/_index.html
-    - title: Son
-      slug: son
-      target: "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/son"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/son/_index.html
-    - title: Tableau
-      slug: tableau
-      target: "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1/tableau"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/tableau/_index.html
-    descendants_targets:
-    - "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
-    - "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
-    - "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
-    - "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
-    - "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
-    - "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
+    children: []
+    descendants_targets: []
     path: "/pages/composer-avec-les-blocs/les-blocs-de-base-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-base-1/_index.html
   - title: Les blocs narratifs
@@ -483,68 +227,8 @@ items:
     target: "/composer-avec-les-blocs/les-blocs-narratifs-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Chiffres clés
-      slug: chiffres-cles
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/_index.html
-    - title: Fonctionnalités
-      slug: fonctionnalites
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/_index.html
-    - title: Galerie d'images
-      slug: galerie-d-images
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/_index.html
-    - title: Appel à actions
-      slug: appel-a-actions
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/_index.html
-    - title: Témoignages
-      slug: temoignages
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/_index.html
-    - title: Frise chronologique
-      slug: frise-chronologique
-      target: "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/_index.html
-    descendants_targets:
-    - "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
-    - "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
-    - "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
-    - "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
-    - "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
-    - "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
+    children: []
+    descendants_targets: []
     path: "/pages/composer-avec-les-blocs/les-blocs-narratifs-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-narratifs-1/_index.html
   - title: Les blocs de listes
@@ -552,98 +236,8 @@ items:
     target: "/composer-avec-les-blocs/les-blocs-de-listes-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Liste de pages
-      slug: liste-de-pages
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/_index.html
-    - title: Liste d'actualités
-      slug: liste-d-actualites
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/_index.html
-    - title: Liste de personnes
-      slug: liste-de-personnes
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/_index.html
-    - title: Liste d'organisations
-      slug: liste-d-organisations
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/_index.html
-    - title: Liste de formations
-      slug: liste-de-formations
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/_index.html
-    - title: Liste d'événements
-      slug: liste-d-evenements
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/_index.html
-    - title: Liste de campus
-      slug: liste-de-campus
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/_index.html
-    - title: Liste de projets
-      slug: liste-de-projets
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/_index.html
-    - title: Liste de catégories
-      slug: liste-de-categories
-      target: "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/_index.html
-    descendants_targets:
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/"
-    - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
+    children: []
+    descendants_targets: []
     path: "/pages/composer-avec-les-blocs/les-blocs-de-listes-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-de-listes-1/_index.html
   - title: Les blocs techniques
@@ -652,42 +246,6 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Les liens
-      slug: les-liens
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-liens"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/_index.html
-    - title: Les licences
-      slug: les-licences
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/licences/_index.html
-    - title: Les fichiers
-      slug: les-fichiers
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/_index.html
-    - title: Les définitions
-      slug: les-definitions
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/_index.html
     - title: Le code HTML
       slug: le-code-html
       target: "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
@@ -716,51 +274,20 @@ items:
       path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires"
       file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/_index.html
     descendants_targets:
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
     - "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
     path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/_index.html
   descendants_targets:
   - "/composer-avec-les-blocs/composer-une-page/"
-  - "/composer-avec-les-blocs/composer-une-page/copier-coller-un-bloc/"
-  - "/composer-avec-les-blocs/composer-une-page/la-gestion-des-blocs/"
   - "/composer-avec-les-blocs/les-blocs-de-base-1/"
-  - "/composer-avec-les-blocs/les-blocs-de-base-1/chapitre/"
-  - "/composer-avec-les-blocs/les-blocs-de-base-1/image/"
-  - "/composer-avec-les-blocs/les-blocs-de-base-1/son/"
-  - "/composer-avec-les-blocs/les-blocs-de-base-1/tableau/"
-  - "/composer-avec-les-blocs/les-blocs-de-base-1/titre/"
-  - "/composer-avec-les-blocs/les-blocs-de-base-1/video/"
   - "/composer-avec-les-blocs/les-blocs-de-listes-1/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-agenda/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/bloc-categories/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-campus/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-formations/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-pages/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-personnes/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-de-projets/"
-  - "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dorganisations/"
   - "/composer-avec-les-blocs/les-blocs-narratifs-1/"
-  - "/composer-avec-les-blocs/les-blocs-narratifs-1/appel-a-actions/"
-  - "/composer-avec-les-blocs/les-blocs-narratifs-1/chiffres-cles/"
-  - "/composer-avec-les-blocs/les-blocs-narratifs-1/fonctionnalites/"
-  - "/composer-avec-les-blocs/les-blocs-narratifs-1/frise-chronologique/"
-  - "/composer-avec-les-blocs/les-blocs-narratifs-1/galerie-dimages/"
-  - "/composer-avec-les-blocs/les-blocs-narratifs-1/temoignages/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/ajouter-des-fichiers/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-definitions/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-liens/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/licences/"
   path: "/pages/composer-avec-les-blocs"
   file: content/fr/pages/composer-avec-les-blocs/_index.html
 - title: Aller plus loin
