@@ -59,8 +59,8 @@ items:
       new_tab: true
       children: []
       descendants_targets: []
-    - title: Fondamentaux
-      slug: fondamentaux
+    - title: Principes fondamentaux d'osuny
+      slug: principes-fondamentaux-d-osuny
       target: "/gerer-un-site-web/sites/fondamentaux/"
       kind: page
       new_tab: false
