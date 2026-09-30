@@ -245,38 +245,8 @@ items:
     target: "/composer-avec-les-blocs/les-blocs-techniques-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Le code HTML
-      slug: le-code-html
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/_index.html
-    - title: Contact
-      slug: contact
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/contact"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/contact/_index.html
-    - title: Les formulaires
-      slug: les-formulaires
-      target: "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires"
-      file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/_index.html
-    descendants_targets:
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
-    - "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
+    children: []
+    descendants_targets: []
     path: "/pages/composer-avec-les-blocs/les-blocs-techniques-1"
     file: content/fr/pages/composer-avec-les-blocs/les-blocs-techniques-1/_index.html
   descendants_targets:
@@ -285,9 +255,6 @@ items:
   - "/composer-avec-les-blocs/les-blocs-de-listes-1/"
   - "/composer-avec-les-blocs/les-blocs-narratifs-1/"
   - "/composer-avec-les-blocs/les-blocs-techniques-1/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/contact/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/le-code-html/"
-  - "/composer-avec-les-blocs/les-blocs-techniques-1/les-formulaires/"
   path: "/pages/composer-avec-les-blocs"
   file: content/fr/pages/composer-avec-les-blocs/_index.html
 - title: Aller plus loin
@@ -301,28 +268,8 @@ items:
     target: "/aller-plus-loin/universite/"
     kind: page
     new_tab: false
-    children:
-    - title: Équipe
-      slug: equipe
-      target: "/aller-plus-loin/universite/equipe-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/universite/equipe-1"
-      file: content/fr/pages/aller-plus-loin/universite/equipe-1/_index.html
-    - title: Multilingue
-      slug: multilingue
-      target: "/aller-plus-loin/universite/multilingue/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/universite/multilingue"
-      file: content/fr/pages/aller-plus-loin/universite/multilingue/_index.html
-    descendants_targets:
-    - "/aller-plus-loin/universite/equipe-1/"
-    - "/aller-plus-loin/universite/multilingue/"
+    children: []
+    descendants_targets: []
     path: "/pages/aller-plus-loin/universite"
     file: content/fr/pages/aller-plus-loin/universite/_index.html
   - title: Pédagogie
@@ -330,58 +277,8 @@ items:
     target: "/aller-plus-loin/pedagogie/"
     kind: page
     new_tab: false
-    children:
-    - title: Les enseignant.e.s
-      slug: les-enseignant-e-s
-      target: "/aller-plus-loin/pedagogie/les-enseignantes/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/pedagogie/les-enseignantes"
-      file: content/fr/pages/aller-plus-loin/pedagogie/les-enseignantes/_index.html
-    - title: Les écoles
-      slug: les-ecoles
-      target: "/aller-plus-loin/pedagogie/les-ecoles/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/pedagogie/les-ecoles"
-      file: content/fr/pages/aller-plus-loin/pedagogie/les-ecoles/_index.html
-    - title: Les formations
-      slug: les-formations
-      target: "/aller-plus-loin/pedagogie/les-formations/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/pedagogie/les-formations"
-      file: content/fr/pages/aller-plus-loin/pedagogie/les-formations/_index.html
-    - title: Les diplômes
-      slug: les-diplomes
-      target: "/aller-plus-loin/pedagogie/les-diplomes/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/pedagogie/les-diplomes"
-      file: content/fr/pages/aller-plus-loin/pedagogie/les-diplomes/_index.html
-    - title: Les alumni
-      slug: les-alumni
-      target: "/aller-plus-loin/pedagogie/les-alumni/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/pedagogie/les-alumni"
-      file: content/fr/pages/aller-plus-loin/pedagogie/les-alumni/_index.html
-    descendants_targets:
-    - "/aller-plus-loin/pedagogie/les-alumni/"
-    - "/aller-plus-loin/pedagogie/les-diplomes/"
-    - "/aller-plus-loin/pedagogie/les-ecoles/"
-    - "/aller-plus-loin/pedagogie/les-enseignantes/"
-    - "/aller-plus-loin/pedagogie/les-formations/"
+    children: []
+    descendants_targets: []
     path: "/pages/aller-plus-loin/pedagogie"
     file: content/fr/pages/aller-plus-loin/pedagogie/_index.html
   - title: Recherche
@@ -390,24 +287,6 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Les chercheur.e.s
-      slug: les-chercheur-e-s
-      target: "/aller-plus-loin/recherche-1/les-chercheures/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/recherche-1/les-chercheures"
-      file: content/fr/pages/aller-plus-loin/recherche-1/les-chercheures/_index.html
-    - title: Les laboratoires
-      slug: les-laboratoires
-      target: "/aller-plus-loin/recherche-1/les-laboratoires/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/aller-plus-loin/recherche-1/les-laboratoires"
-      file: content/fr/pages/aller-plus-loin/recherche-1/les-laboratoires/_index.html
     - title: Les publications
       slug: les-publications
       target: "/aller-plus-loin/recherche-1/les-publications/"
@@ -436,8 +315,6 @@ items:
       path: "/pages/aller-plus-loin/recherche-1/les-theses"
       file: content/fr/pages/aller-plus-loin/recherche-1/les-theses/_index.html
     descendants_targets:
-    - "/aller-plus-loin/recherche-1/les-chercheures/"
-    - "/aller-plus-loin/recherche-1/les-laboratoires/"
     - "/aller-plus-loin/recherche-1/les-publications/"
     - "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
     - "/aller-plus-loin/recherche-1/les-theses/"
@@ -475,21 +352,12 @@ items:
   - "/aller-plus-loin/administration-1/"
   - "/aller-plus-loin/administration-1/qualiopi/"
   - "/aller-plus-loin/pedagogie/"
-  - "/aller-plus-loin/pedagogie/les-alumni/"
-  - "/aller-plus-loin/pedagogie/les-diplomes/"
-  - "/aller-plus-loin/pedagogie/les-ecoles/"
-  - "/aller-plus-loin/pedagogie/les-enseignantes/"
-  - "/aller-plus-loin/pedagogie/les-formations/"
   - "/aller-plus-loin/recherche-1/"
-  - "/aller-plus-loin/recherche-1/les-chercheures/"
-  - "/aller-plus-loin/recherche-1/les-laboratoires/"
   - "/aller-plus-loin/recherche-1/les-publications/"
   - "/aller-plus-loin/recherche-1/les-revues-scientifiques/"
   - "/aller-plus-loin/recherche-1/les-theses/"
   - "/aller-plus-loin/statistiques-de-visite/"
   - "/aller-plus-loin/universite/"
-  - "/aller-plus-loin/universite/equipe-1/"
-  - "/aller-plus-loin/universite/multilingue/"
   path: "/pages/aller-plus-loin"
   file: content/fr/pages/aller-plus-loin/_index.html
 
