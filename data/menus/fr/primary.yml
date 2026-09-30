@@ -78,48 +78,8 @@ items:
     target: "/gerer-un-site-web/portfolio/"
     kind: page
     new_tab: false
-    children:
-    - title: Activer le portfolio
-      slug: activer-le-portfolio
-      target: "/gerer-un-site-web/portfolio/activer-le-portfolio/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/activer-le-portfolio"
-      file: content/fr/pages/gerer-un-site-web/portfolio/activer-le-portfolio/_index.html
-    - title: Créer un projet
-      slug: creer-un-projet
-      target: "/gerer-un-site-web/portfolio/creer-un-projet/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/creer-un-projet"
-      file: content/fr/pages/gerer-un-site-web/portfolio/creer-un-projet/_index.html
-    - title: Créer des catégories
-      slug: creer-des-categories
-      target: "/gerer-un-site-web/portfolio/creer-des-categories-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/creer-des-categories-1"
-      file: content/fr/pages/gerer-un-site-web/portfolio/creer-des-categories-1/_index.html
-    - title: Modifier un projet
-      slug: modifier-un-projet
-      target: "/gerer-un-site-web/portfolio/modifier-un-projet/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/portfolio/modifier-un-projet"
-      file: content/fr/pages/gerer-un-site-web/portfolio/modifier-un-projet/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/portfolio/activer-le-portfolio/"
-    - "/gerer-un-site-web/portfolio/creer-des-categories-1/"
-    - "/gerer-un-site-web/portfolio/creer-un-projet/"
-    - "/gerer-un-site-web/portfolio/modifier-un-projet/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/portfolio"
     file: content/fr/pages/gerer-un-site-web/portfolio/_index.html
   - title: Actualités
@@ -127,68 +87,8 @@ items:
     target: "/gerer-un-site-web/actualites-3/"
     kind: page
     new_tab: false
-    children:
-    - title: Créer une actualité
-      slug: creer-une-actualite
-      target: "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/actualites-3/creer-une-actualite-1"
-      file: content/fr/pages/gerer-un-site-web/actualites-3/creer-une-actualite-1/_index.html
-    - title: Gestion des catégories
-      slug: gestion-des-categories
-      target: "/gerer-un-site-web/actualites-3/gestion-des-categories/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/actualites-3/gestion-des-categories"
-      file: content/fr/pages/gerer-un-site-web/actualites-3/gestion-des-categories/_index.html
-    - title: Gestion des auteur.e.s
-      slug: gestion-des-auteur-e-s
-      target: "/gerer-un-site-web/actualites-3/gestion-des-auteures/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/actualites-3/gestion-des-auteures"
-      file: content/fr/pages/gerer-un-site-web/actualites-3/gestion-des-auteures/_index.html
-    - title: Mettre en avant une actualité
-      slug: mettre-en-avant-une-actualite
-      target: "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite"
-      file: content/fr/pages/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/_index.html
-    - title: Publier une actualité
-      slug: publier-une-actualite
-      target: "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/actualites-3/avant-de-publier-1"
-      file: content/fr/pages/gerer-un-site-web/actualites-3/avant-de-publier-1/_index.html
-    - title: Modifier une actualité
-      slug: modifier-une-actualite
-      target: "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1"
-      file: content/fr/pages/gerer-un-site-web/actualites-3/modifier-une-actualite-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
-    - "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
-    - "/gerer-un-site-web/actualites-3/gestion-des-auteures/"
-    - "/gerer-un-site-web/actualites-3/gestion-des-categories/"
-    - "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
-    - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/actualites-3"
     file: content/fr/pages/gerer-un-site-web/actualites-3/_index.html
   - title: Agenda
@@ -196,88 +96,8 @@ items:
     target: "/gerer-un-site-web/agenda-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Activer l'agenda
-      slug: activer-l-agenda
-      target: "/gerer-un-site-web/agenda-1/activer-lagenda/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/activer-lagenda"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/activer-lagenda/_index.html
-    - title: Créer un événement simple
-      slug: creer-un-evenement-simple
-      target: "/gerer-un-site-web/agenda-1/creer-un-evenement/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement/_index.html
-    - title: Créer un événement récurrent
-      slug: creer-un-evenement-recurrent
-      target: "/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/_index.html
-    - title: Créer un événement parent
-      slug: creer-un-evenement-parent
-      target: "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-parent/_index.html
-    - title: Créer un événement enfant
-      slug: creer-un-evenement-enfant
-      target: "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/creer-un-evenement-enfant"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/_index.html
-    - title: Créer une exposition
-      slug: creer-une-exposition
-      target: "/gerer-un-site-web/agenda-1/creer-une-exposition/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/creer-une-exposition"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-une-exposition/_index.html
-    - title: Créer des catégories
-      slug: creer-des-categories
-      target: "/gerer-un-site-web/agenda-1/creer-des-categories/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/creer-des-categories"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/creer-des-categories/_index.html
-    - title: Modifier un événement
-      slug: modifier-un-evenement
-      target: "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/agenda-1/modifier-un-evenement"
-      file: content/fr/pages/gerer-un-site-web/agenda-1/modifier-un-evenement/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/agenda-1/activer-lagenda/"
-    - "/gerer-un-site-web/agenda-1/creer-des-categories/"
-    - "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
-    - "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
-    - "/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/"
-    - "/gerer-un-site-web/agenda-1/creer-un-evenement/"
-    - "/gerer-un-site-web/agenda-1/creer-une-exposition/"
-    - "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/agenda-1"
     file: content/fr/pages/gerer-un-site-web/agenda-1/_index.html
   - title: Offres d'emploi
@@ -285,48 +105,8 @@ items:
     target: "/gerer-un-site-web/offres-demploi/"
     kind: page
     new_tab: false
-    children:
-    - title: Créer une offre d'emploi
-      slug: creer-une-offre-d-emploi
-      target: "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi"
-      file: content/fr/pages/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/_index.html
-    - title: Gestion des catégories
-      slug: gestion-des-categories
-      target: "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/offres-demploi/gestion-des-categories-5"
-      file: content/fr/pages/gerer-un-site-web/offres-demploi/gestion-des-categories-5/_index.html
-    - title: Avant de publier
-      slug: avant-de-publier
-      target: "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/offres-demploi/avant-de-publier-3"
-      file: content/fr/pages/gerer-un-site-web/offres-demploi/avant-de-publier-3/_index.html
-    - title: Modifier une offre d'emploi
-      slug: modifier-une-offre-d-emploi
-      target: "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi"
-      file: content/fr/pages/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
-    - "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
-    - "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
-    - "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/offres-demploi"
     file: content/fr/pages/gerer-un-site-web/offres-demploi/_index.html
   - title: Répertoire
@@ -334,38 +114,8 @@ items:
     target: "/gerer-un-site-web/repertoire/"
     kind: page
     new_tab: false
-    children:
-    - title: Personnes
-      slug: personnes
-      target: "/gerer-un-site-web/repertoire/personnes-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/personnes-1"
-      file: content/fr/pages/gerer-un-site-web/repertoire/personnes-1/_index.html
-    - title: Organisations
-      slug: organisations
-      target: "/gerer-un-site-web/repertoire/organisations-2/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/organisations-2"
-      file: content/fr/pages/gerer-un-site-web/repertoire/organisations-2/_index.html
-    - title: Utilisateur.rice.s
-      slug: utilisateur-rice-s
-      target: "/gerer-un-site-web/repertoire/utilisateurrices/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/repertoire/utilisateurrices"
-      file: content/fr/pages/gerer-un-site-web/repertoire/utilisateurrices/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/repertoire/organisations-2/"
-    - "/gerer-un-site-web/repertoire/personnes-1/"
-    - "/gerer-un-site-web/repertoire/utilisateurrices/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/repertoire"
     file: content/fr/pages/gerer-un-site-web/repertoire/_index.html
   - title: Médias
@@ -373,28 +123,8 @@ items:
     target: "/gerer-un-site-web/mediatheque/"
     kind: page
     new_tab: false
-    children:
-    - title: Gestion des images dans la photothèque
-      slug: gestion-des-images-dans-la-phototheque
-      target: "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/_index.html
-    - title: Gestion des fichiers dans la bibliothèque
-      slug: gestion-des-fichiers-dans-la-bibliotheque
-      target: "/gerer-un-site-web/mediatheque/fichiers-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/mediatheque/fichiers-1"
-      file: content/fr/pages/gerer-un-site-web/mediatheque/fichiers-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
-    - "/gerer-un-site-web/mediatheque/fichiers-1/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/mediatheque"
     file: content/fr/pages/gerer-un-site-web/mediatheque/_index.html
   - title: Accessibilité
@@ -402,91 +132,20 @@ items:
     target: "/gerer-un-site-web/rendre-son-site-accessible/"
     kind: page
     new_tab: false
-    children:
-    - title: Les images
-      slug: les-images
-      target: "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/les-images"
-      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/les-images/_index.html
-    - title: Dérogations
-      slug: derogations
-      target: "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/derogations"
-      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/derogations/_index.html
-    - title: Transcription vidéos
-      slug: transcription-videos
-      target: "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/transcription"
-      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/transcription/_index.html
-    - title: Accessibilité du contenu
-      slug: accessibilite-du-contenu
-      target: "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1"
-      file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
-    - "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
-    - "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
-    - "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/rendre-son-site-accessible"
     file: content/fr/pages/gerer-un-site-web/rendre-son-site-accessible/_index.html
   descendants_targets:
   - "/gerer-un-site-web/actualites-3/"
-  - "/gerer-un-site-web/actualites-3/avant-de-publier-1/"
-  - "/gerer-un-site-web/actualites-3/creer-une-actualite-1/"
-  - "/gerer-un-site-web/actualites-3/gestion-des-auteures/"
-  - "/gerer-un-site-web/actualites-3/gestion-des-categories/"
-  - "/gerer-un-site-web/actualites-3/mettre-en-avant-une-actualite/"
-  - "/gerer-un-site-web/actualites-3/modifier-une-actualite-1/"
   - "/gerer-un-site-web/agenda-1/"
-  - "/gerer-un-site-web/agenda-1/activer-lagenda/"
-  - "/gerer-un-site-web/agenda-1/creer-des-categories/"
-  - "/gerer-un-site-web/agenda-1/creer-un-evenement-enfant/"
-  - "/gerer-un-site-web/agenda-1/creer-un-evenement-parent/"
-  - "/gerer-un-site-web/agenda-1/creer-un-evenement-recurrent/"
-  - "/gerer-un-site-web/agenda-1/creer-un-evenement/"
-  - "/gerer-un-site-web/agenda-1/creer-une-exposition/"
-  - "/gerer-un-site-web/agenda-1/modifier-un-evenement/"
   - "/gerer-un-site-web/mediatheque/"
-  - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
-  - "/gerer-un-site-web/mediatheque/fichiers-1/"
   - "/gerer-un-site-web/menus-1/"
   - "/gerer-un-site-web/offres-demploi/"
-  - "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
-  - "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
-  - "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
-  - "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
   - "/gerer-un-site-web/pages/"
   - "/gerer-un-site-web/portfolio/"
-  - "/gerer-un-site-web/portfolio/activer-le-portfolio/"
-  - "/gerer-un-site-web/portfolio/creer-des-categories-1/"
-  - "/gerer-un-site-web/portfolio/creer-un-projet/"
-  - "/gerer-un-site-web/portfolio/modifier-un-projet/"
   - "/gerer-un-site-web/rendre-son-site-accessible/"
-  - "/gerer-un-site-web/rendre-son-site-accessible/accessibilite-1/"
-  - "/gerer-un-site-web/rendre-son-site-accessible/derogations/"
-  - "/gerer-un-site-web/rendre-son-site-accessible/les-images/"
-  - "/gerer-un-site-web/rendre-son-site-accessible/transcription/"
   - "/gerer-un-site-web/repertoire/"
-  - "/gerer-un-site-web/repertoire/organisations-2/"
-  - "/gerer-un-site-web/repertoire/personnes-1/"
-  - "/gerer-un-site-web/repertoire/utilisateurrices/"
   - "/gerer-un-site-web/sites/"
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
