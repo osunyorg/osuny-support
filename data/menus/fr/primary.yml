@@ -51,46 +51,8 @@ items:
     target: "/gerer-un-site-web/sites/"
     kind: page
     new_tab: false
-    children:
-    - title: Comment concevoir un site web
-      slug: comment-concevoir-un-site-web
-      target: https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
-      kind: url
-      new_tab: true
-      children: []
-      descendants_targets: []
-    - title: Principes fondamentaux d'osuny
-      slug: principes-fondamentaux-d-osuny
-      target: "/gerer-un-site-web/sites/fondamentaux/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/sites/fondamentaux"
-      file: content/fr/pages/gerer-un-site-web/sites/fondamentaux/_index.html
-    - title: Interface du back office
-      slug: interface-du-back-office
-      target: "/gerer-un-site-web/sites/interface-osuny/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/sites/interface-osuny"
-      file: content/fr/pages/gerer-un-site-web/sites/interface-osuny/_index.html
-    - title: Créer un site
-      slug: creer-un-site
-      target: "/gerer-un-site-web/sites/creer-un-site/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/sites/creer-un-site"
-      file: content/fr/pages/gerer-un-site-web/sites/creer-un-site/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/sites/creer-un-site/"
-    - "/gerer-un-site-web/sites/fondamentaux/"
-    - "/gerer-un-site-web/sites/interface-osuny/"
-    - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/sites"
     file: content/fr/pages/gerer-un-site-web/sites/_index.html
   - title: Pages
@@ -98,48 +60,8 @@ items:
     target: "/gerer-un-site-web/pages/"
     kind: page
     new_tab: false
-    children:
-    - title: L'arborescence
-      slug: l-arborescence
-      target: "/gerer-un-site-web/pages/larborescence/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/pages/larborescence"
-      file: content/fr/pages/gerer-un-site-web/pages/larborescence/_index.html
-    - title: Créer une page
-      slug: creer-une-page
-      target: "/gerer-un-site-web/pages/creer-une-page-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/pages/creer-une-page-1"
-      file: content/fr/pages/gerer-un-site-web/pages/creer-une-page-1/_index.html
-    - title: Avant de publier
-      slug: avant-de-publier
-      target: "/gerer-un-site-web/pages/avant-de-publier/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/pages/avant-de-publier"
-      file: content/fr/pages/gerer-un-site-web/pages/avant-de-publier/_index.html
-    - title: Modifier une page
-      slug: modifier-une-page
-      target: "/gerer-un-site-web/pages/modifier-une-page-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/pages/modifier-une-page-1"
-      file: content/fr/pages/gerer-un-site-web/pages/modifier-une-page-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/pages/avant-de-publier/"
-    - "/gerer-un-site-web/pages/creer-une-page-1/"
-    - "/gerer-un-site-web/pages/larborescence/"
-    - "/gerer-un-site-web/pages/modifier-une-page-1/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/pages"
     file: content/fr/pages/gerer-un-site-web/pages/_index.html
   - title: Menus
@@ -147,38 +69,8 @@ items:
     target: "/gerer-un-site-web/menus-1/"
     kind: page
     new_tab: false
-    children:
-    - title: Créer un menu
-      slug: creer-un-menu
-      target: "/gerer-un-site-web/menus-1/creer-un-menu-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/menus-1/creer-un-menu-1"
-      file: content/fr/pages/gerer-un-site-web/menus-1/creer-un-menu-1/_index.html
-    - title: Relier des éléments au menu
-      slug: relier-des-elements-au-menu
-      target: "/gerer-un-site-web/menus-1/relier-elements-menu/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/menus-1/relier-elements-menu"
-      file: content/fr/pages/gerer-un-site-web/menus-1/relier-elements-menu/_index.html
-    - title: Modifier un menu
-      slug: modifier-un-menu
-      target: "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/gerer-un-site-web/menus-1/modifier-un-menu-1"
-      file: content/fr/pages/gerer-un-site-web/menus-1/modifier-un-menu-1/_index.html
-    descendants_targets:
-    - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
-    - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
-    - "/gerer-un-site-web/menus-1/relier-elements-menu/"
+    children: []
+    descendants_targets: []
     path: "/pages/gerer-un-site-web/menus-1"
     file: content/fr/pages/gerer-un-site-web/menus-1/_index.html
   - title: Portfolio
@@ -575,19 +467,12 @@ items:
   - "/gerer-un-site-web/mediatheque/ajouter-et-gerer-une-image/"
   - "/gerer-un-site-web/mediatheque/fichiers-1/"
   - "/gerer-un-site-web/menus-1/"
-  - "/gerer-un-site-web/menus-1/creer-un-menu-1/"
-  - "/gerer-un-site-web/menus-1/modifier-un-menu-1/"
-  - "/gerer-un-site-web/menus-1/relier-elements-menu/"
   - "/gerer-un-site-web/offres-demploi/"
   - "/gerer-un-site-web/offres-demploi/avant-de-publier-3/"
   - "/gerer-un-site-web/offres-demploi/creer-un-un-offre-demploi/"
   - "/gerer-un-site-web/offres-demploi/gestion-des-categories-5/"
   - "/gerer-un-site-web/offres-demploi/modifier-une-offre-demploi/"
   - "/gerer-un-site-web/pages/"
-  - "/gerer-un-site-web/pages/avant-de-publier/"
-  - "/gerer-un-site-web/pages/creer-une-page-1/"
-  - "/gerer-un-site-web/pages/larborescence/"
-  - "/gerer-un-site-web/pages/modifier-une-page-1/"
   - "/gerer-un-site-web/portfolio/"
   - "/gerer-un-site-web/portfolio/activer-le-portfolio/"
   - "/gerer-un-site-web/portfolio/creer-des-categories-1/"
@@ -603,10 +488,6 @@ items:
   - "/gerer-un-site-web/repertoire/personnes-1/"
   - "/gerer-un-site-web/repertoire/utilisateurrices/"
   - "/gerer-un-site-web/sites/"
-  - "/gerer-un-site-web/sites/creer-un-site/"
-  - "/gerer-un-site-web/sites/fondamentaux/"
-  - "/gerer-un-site-web/sites/interface-osuny/"
-  - https://lab.noesya.coop/publications/2025-01-30-comment-creer-un-site-web/
   path: "/pages/gerer-un-site-web"
   file: content/fr/pages/gerer-un-site-web/_index.html
 - title: Gérer un extranet
