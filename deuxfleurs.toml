@@ -679,6 +679,10 @@ from = "/equipe/categories/metiers/developpement-back/index.html"
 to = "/equipe/categories/metiers/developpement/"
 
 [[redirects]]
+from = "/synchronisation/index.html"
+to = "/aller-plus-loin/synchronisation/"
+
+[[redirects]]
 from = "/v1/creer-gerer-contenus/les-blocs-de-listes/actualites-2/index.html"
 to = "/composer-avec-les-blocs/les-blocs-de-listes-1/liste-dactualites/"
 
